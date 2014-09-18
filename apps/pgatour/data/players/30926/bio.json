@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Chris Kirk",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_30926.png",
+    "country": "United States",
+    "Height": "6  ft, 3  in",
+    "Weight": "175 lbs",
+    "Birthday": "05/08/1985",
+    "College": "University of Georgia (2007, Sports Business)",
+    "Turned Pro": "2007",
+    "Birthplace": "Atlanta, Georgia"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.30926.chris-kirk.html",
+    "season": "http://www.pgatour.com/players/player.30926.chris-kirk.html/season",
+    "career": "http://www.pgatour.com/players/player.30926.chris-kirk.html/career",
+    "statistics": "http://www.pgatour.com/players/player.30926.chris-kirk.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.30926.chris-kirk.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.30926.chris-kirk.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.30926.chris-kirk.html/profile"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Nick Watney",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_27095.png",
+    "country": "United States",
+    "Height": "6  ft, 2  in",
+    "Weight": "180 lbs",
+    "Birthday": "04/25/1981",
+    "College": "Fresno State University (2003)",
+    "Turned Pro": "2003",
+    "Birthplace": "Sacramento, California"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.27095.nick-watney.html",
+    "season": "http://www.pgatour.com/players/player.27095.nick-watney.html/season",
+    "career": "http://www.pgatour.com/players/player.27095.nick-watney.html/career",
+    "statistics": "http://www.pgatour.com/players/player.27095.nick-watney.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.27095.nick-watney.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.27095.nick-watney.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.27095.nick-watney.html/profile"
+  }
+}

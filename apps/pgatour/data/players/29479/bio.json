@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Scott Brown",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_29479.png",
+    "country": "United States",
+    "Height": "5  ft, 8  in",
+    "Weight": "170 lbs",
+    "Birthday": "05/22/1983",
+    "College": "University of South Carolina-Aiken",
+    "Turned Pro": "2006",
+    "Birthplace": "Augusta, Georgia"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.29479.scott-brown.html",
+    "season": "http://www.pgatour.com/players/player.29479.scott-brown.html/season",
+    "career": "http://www.pgatour.com/players/player.29479.scott-brown.html/career",
+    "statistics": "http://www.pgatour.com/players/player.29479.scott-brown.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.29479.scott-brown.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.29479.scott-brown.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.29479.scott-brown.html/profile"
+  }
+}

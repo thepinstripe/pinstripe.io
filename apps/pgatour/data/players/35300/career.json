@@ -1,0 +1,328 @@
+{
+  "plrNum": "35300",
+  "combinedMoney": "690,866",
+  "tours": [
+    {
+      "tourCodeLC": "r",
+      "tourCodeUC": "R",
+      "tourDesc": "PGA TOUR",
+      "careerTotals": {
+        "events": "23",
+        "rnds": "63",
+        "firsts": "",
+        "seconds": "",
+        "thirds": "",
+        "top10": "1",
+        "top25": "3",
+        "cutsMade": "10",
+        "cutsMissed": "13",
+        "dq": "",
+        "wd": "",
+        "officialMoney": "563,121",
+        "moneyRank": "503",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "",
+          "losses": ""
+        }
+      },
+      "detail": [
+        {
+          "year": "2011",
+          "amateurStatus": "A",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "1",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "1",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2012",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2014",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "22",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "1",
+          "top25": "3",
+          "cutsMade": "10",
+          "cutsMissed": "12",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "563,121",
+          "fedexRnkReg": "137",
+          "fedexPtsReg": "380",
+          "fedexRnkPO": "137",
+          "fedexPtsPO": "380",
+          "fedexStandRnk": "137",
+          "fedexStandPts": "380",
+          "fedexBonusMny": "",
+          "moneyRank": "142",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        }
+      ],
+      "largestPayChk": {
+        "money": "0272800",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "240",
+              "permNum": "041",
+              "trnName": "Valero Texas Open"
+            },
+            "finPos": {
+              "finPos": "004",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2014"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "063",
+        "times": "01",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "160",
+              "permNum": "005",
+              "trnName": "AT&T Pebble Beach National Pro-Am"
+            },
+            "year": "2014",
+            "rndNum": "01"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "240",
+              "permNum": "041",
+              "trnName": "Valero Texas Open"
+            },
+            "finPos": {
+              "finPos": "004",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2014"
+          }
+        ]
+      }
+    },
+    {
+      "tourCodeLC": "h",
+      "tourCodeUC": "H",
+      "tourDesc": "Web.com Tour",
+      "careerTotals": {
+        "events": "32",
+        "rnds": "98",
+        "firsts": "",
+        "seconds": "",
+        "thirds": "",
+        "top10": "2",
+        "top25": "6",
+        "cutsMade": "17",
+        "cutsMissed": "15",
+        "dq": "",
+        "wd": "",
+        "officialMoney": "127,745",
+        "moneyRank": "601",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "",
+          "losses": ""
+        }
+      },
+      "detail": [
+        {
+          "year": "2011",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "3",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "2",
+          "cutsMade": "2",
+          "cutsMissed": "1",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "12,956",
+          "moneyRank": "170",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2012",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "4",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "1",
+          "cutsMade": "2",
+          "cutsMissed": "2",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "11,025",
+          "moneyRank": "174",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2013",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "25",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "2",
+          "top25": "3",
+          "cutsMade": "13",
+          "cutsMissed": "12",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "69,014",
+          "moneyRank": "70",
+          "finalsRank": "32",
+          "finalsMoney": "34,750",
+          "priorityRank": "32",
+          "rankings": "\n\n",
+          "topTrns": []
+        }
+      ],
+      "largestPayChk": {
+        "money": "0034750",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "250",
+              "permNum": "045",
+              "trnName": "Web.com Tour Championship"
+            },
+            "finPos": {
+              "finPos": "006",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2013"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "063",
+        "times": "01",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "210",
+              "permNum": "059",
+              "trnName": "Cox Classic Presented by Lexus of Omaha"
+            },
+            "year": "2013",
+            "rndNum": "01"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "070",
+              "permNum": "092",
+              "trnName": "South Georgia Classic Presented by First State Bank and Trust Company"
+            },
+            "finPos": {
+              "finPos": "005",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2013"
+          }
+        ]
+      }
+    }
+  ]
+}

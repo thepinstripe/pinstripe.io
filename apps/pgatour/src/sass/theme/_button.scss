@@ -1,0 +1,42 @@
+button {
+  @include transition($hover-transition-time $hover-transition-easing);
+  background-color: lighten($navy, 15%);
+  color: transparentize($contrast, 0.25);
+  padding: 0.4em 0.8em;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, .5);
+  
+  &:hover {
+    background-color: lighten($navy, 22%);
+    color: transparentize($contrast, 0.1);
+  }
+  
+  &:active {
+    @include transition(none);
+    background-color: lighten($navy, 10%);
+  }
+  
+  &.is-selected {
+    background-color: lighten($navy, 30%);
+    color: $contrast;
+  }
+}
+
+.toggle {
+  &:before {
+    content: '·';
+    font-size: 2em;
+    line-height: 1px;
+    vertical-align: sub;
+    opacity: 0.2;
+    margin-right: 0.2em;
+  }
+  
+  &.is-selected {
+    &:before {
+      opacity: 1;
+      text-shadow: 0 0 4px $pear;
+    }
+  }
+}

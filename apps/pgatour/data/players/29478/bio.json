@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Kevin Kisner",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_29478.png",
+    "country": "United States",
+    "Height": "5  ft, 10  in",
+    "Weight": "165 lbs",
+    "Birthday": "02/15/1984",
+    "College": "University of Georgia (2006, Business Management)",
+    "Turned Pro": "2006",
+    "Birthplace": "Aiken, South Carolina"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.29478.kevin-kisner.html",
+    "season": "http://www.pgatour.com/players/player.29478.kevin-kisner.html/season",
+    "career": "http://www.pgatour.com/players/player.29478.kevin-kisner.html/career",
+    "statistics": "http://www.pgatour.com/players/player.29478.kevin-kisner.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.29478.kevin-kisner.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.29478.kevin-kisner.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.29478.kevin-kisner.html/profile"
+  }
+}

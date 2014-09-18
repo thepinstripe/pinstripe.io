@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Ian Poulter",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_24138.png",
+    "country": "England",
+    "Height": "6  ft, 1  in",
+    "Weight": "189 lbs",
+    "Birthday": "01/10/1976",
+    "College": "Barclay School",
+    "Turned Pro": "1995",
+    "Birthplace": "Stevenage, England"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.24138.ian-poulter.html",
+    "season": "http://www.pgatour.com/players/player.24138.ian-poulter.html/season",
+    "career": "http://www.pgatour.com/players/player.24138.ian-poulter.html/career",
+    "statistics": "http://www.pgatour.com/players/player.24138.ian-poulter.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.24138.ian-poulter.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.24138.ian-poulter.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.24138.ian-poulter.html/profile"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "David Duval",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_09011.png",
+    "country": "United States",
+    "Height": "6  ft, 0  in",
+    "Weight": "180 lbs",
+    "Birthday": "11/09/1971",
+    "College": "Georgia Tech",
+    "Turned Pro": "1993",
+    "Birthplace": "Jacksonville, Florida"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.09011.david-duval.html",
+    "season": "http://www.pgatour.com/players/player.09011.david-duval.html/season",
+    "career": "http://www.pgatour.com/players/player.09011.david-duval.html/career",
+    "statistics": "http://www.pgatour.com/players/player.09011.david-duval.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.09011.david-duval.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.09011.david-duval.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.09011.david-duval.html/profile"
+  }
+}

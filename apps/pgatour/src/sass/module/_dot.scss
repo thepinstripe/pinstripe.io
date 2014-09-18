@@ -1,0 +1,45 @@
+.dot {
+  
+  circle {
+    @include transition($hover-transition-time $hover-transition-easing fill);
+  }
+  
+  &__halo {
+    @extend .stroke--peppermint;
+    fill: transparent;
+  }
+  
+  &__circle {
+    @extend .fill--spearmint;
+    pointer-events: none;
+  }
+
+  &:hover {
+    circle {
+      opacity: 1 !important;
+    }
+    
+    .dot__circle {
+      fill: #fff;
+    }
+  }
+  
+}
+
+.ryder-eu {
+  .dot__circle {
+    fill: $lemon;
+  }
+  .dot__halo {
+    stroke: $lemon;
+  }
+}
+
+.ryder-us {
+  .dot__circle {
+    fill: red;
+  }
+  .dot__halo {
+    stroke: red;
+  }
+}

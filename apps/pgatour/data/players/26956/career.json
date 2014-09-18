@@ -1,0 +1,445 @@
+{
+  "plrNum": "26956",
+  "combinedMoney": "578,769",
+  "tours": [
+    {
+      "tourCodeLC": "r",
+      "tourCodeUC": "R",
+      "tourDesc": "PGA TOUR",
+      "careerTotals": {
+        "events": "19",
+        "rnds": "51",
+        "firsts": "",
+        "seconds": "",
+        "thirds": "",
+        "top10": "",
+        "top25": "1",
+        "cutsMade": "8",
+        "cutsMissed": "11",
+        "dq": "",
+        "wd": "",
+        "officialMoney": "169,324",
+        "moneyRank": "568",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "",
+          "losses": ""
+        }
+      },
+      "detail": [
+        {
+          "year": "2007",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "1",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "1",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "8,692",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2009",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2011",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2014",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "18",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "1",
+          "cutsMade": "7",
+          "cutsMissed": "11",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "160,632",
+          "fedexRnkReg": "186",
+          "fedexPtsReg": "128",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "186",
+          "fedexStandPts": "128",
+          "fedexBonusMny": "",
+          "moneyRank": "190",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        }
+      ],
+      "largestPayChk": {
+        "money": "0073440",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "280",
+              "permNum": "018",
+              "trnName": "Zurich Classic of New Orleans"
+            },
+            "finPos": {
+              "finPos": "021",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2014"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "066",
+        "times": "02",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "290",
+              "permNum": "030",
+              "trnName": "John Deere Classic"
+            },
+            "year": "2007",
+            "rndNum": "02"
+          },
+          {
+            "trn": {
+              "trnNum": "380",
+              "permNum": "490",
+              "trnName": "The Greenbrier Classic"
+            },
+            "year": "2014",
+            "rndNum": "02"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "280",
+              "permNum": "018",
+              "trnName": "Zurich Classic of New Orleans"
+            },
+            "finPos": {
+              "finPos": "021",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2014"
+          }
+        ]
+      }
+    },
+    {
+      "tourCodeLC": "h",
+      "tourCodeUC": "H",
+      "tourDesc": "Web.com Tour",
+      "careerTotals": {
+        "events": "78",
+        "rnds": "221",
+        "firsts": "1",
+        "seconds": "",
+        "thirds": "2",
+        "top10": "6",
+        "top25": "12",
+        "cutsMade": "34",
+        "cutsMissed": "44",
+        "dq": "",
+        "wd": "",
+        "officialMoney": "409,445",
+        "moneyRank": "244",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "1",
+          "losses": ""
+        }
+      },
+      "detail": [
+        {
+          "year": "2008",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "2",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "2",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "5,948",
+          "moneyRank": "",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2009",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "3",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "3",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "moneyRank": "",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2010",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "24",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "1",
+          "cutsMade": "9",
+          "cutsMissed": "15",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "36,585",
+          "moneyRank": "119",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2012",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "25",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "2",
+          "top25": "4",
+          "cutsMade": "10",
+          "cutsMissed": "15",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "74,152",
+          "moneyRank": "76",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2013",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "23",
+          "firsts": "1",
+          "seconds": "",
+          "thirds": "2",
+          "top10": "4",
+          "top25": "7",
+          "cutsMade": "12",
+          "cutsMissed": "11",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "255,629",
+          "moneyRank": "6",
+          "finalsRank": "36",
+          "finalsMoney": "32,671",
+          "priorityRank": "36",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2014",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "1",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "1",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "4,460.00",
+          "moneyRank": "192",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        }
+      ],
+      "largestPayChk": {
+        "money": "0144000",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "210",
+              "permNum": "059",
+              "trnName": "Cox Classic Presented by Lexus of Omaha"
+            },
+            "finPos": {
+              "finPos": "001",
+              "finCode": "",
+              "playOff": "Y"
+            },
+            "year": "2013"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "063",
+        "times": "01",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "170",
+              "permNum": "027",
+              "trnName": "Albertsons Boise Open Presented by Kraft"
+            },
+            "year": "2013",
+            "rndNum": "02"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "210",
+              "permNum": "059",
+              "trnName": "Cox Classic Presented by Lexus of Omaha"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": "Y"
+            },
+            "year": "2013"
+          }
+        ]
+      }
+    }
+  ]
+}

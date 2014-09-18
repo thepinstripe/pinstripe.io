@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Mark Anderson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_33120.png",
+    "country": "United States",
+    "Height": "6  ft, 1  in",
+    "Weight": "180 lbs",
+    "Birthday": "02/14/1986",
+    "College": "University of South Carolina (2008, Business Management)",
+    "Turned Pro": "2009",
+    "Birthplace": "Annapolis, Maryland"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.33120.mark-anderson.html",
+    "season": "http://www.pgatour.com/players/player.33120.mark-anderson.html/season",
+    "career": "http://www.pgatour.com/players/player.33120.mark-anderson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.33120.mark-anderson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.33120.mark-anderson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.33120.mark-anderson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.33120.mark-anderson.html/profile"
+  }
+}

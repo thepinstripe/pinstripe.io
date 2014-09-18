@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Tom Watson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_02256.png",
+    "country": "United States",
+    "Height": "5  ft, 9  in",
+    "Weight": "175 lbs",
+    "Birthday": "09/04/1949",
+    "College": "Stanford University (1971, Psychology)",
+    "Turned Pro": "1971",
+    "Birthplace": "Kansas City, Missouri"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.02256.tom-watson.html",
+    "season": "http://www.pgatour.com/players/player.02256.tom-watson.html/season",
+    "career": "http://www.pgatour.com/players/player.02256.tom-watson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.02256.tom-watson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.02256.tom-watson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.02256.tom-watson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.02256.tom-watson.html/profile"
+  }
+}

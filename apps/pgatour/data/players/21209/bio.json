@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Sergio Garcia",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_21209.png",
+    "country": "Spain",
+    "Height": "5  ft, 10  in",
+    "Weight": "160 lbs",
+    "Birthday": "01/09/1980",
+    "Turned Pro": "1999",
+    "Birthplace": "Castellon, Spain"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.21209.sergio-garcia.html",
+    "season": "http://www.pgatour.com/players/player.21209.sergio-garcia.html/season",
+    "career": "http://www.pgatour.com/players/player.21209.sergio-garcia.html/career",
+    "statistics": "http://www.pgatour.com/players/player.21209.sergio-garcia.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.21209.sergio-garcia.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.21209.sergio-garcia.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.21209.sergio-garcia.html/profile"
+  }
+}

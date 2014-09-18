@@ -1,0 +1,35 @@
+{
+  "name": "pinstripe.io",
+  "dependencies": {
+    "async": "^0.9.0",
+    "cheerio": "^0.17.0",
+    "compression": "^1.0.11",
+    "cors": "^2.4.1",
+    "express": "^4.8.5",
+    "fluxxor": "^1.4.0",
+    "lodash": "^2.4.1",
+    "mongodb": "^1.4.9",
+    "nconf": "^0.6.9",
+    "react": "^0.11.1",
+    "request": "^2.40.0",
+    "string": "^2.0.0",
+    "underscore.string": "^2.3.3",
+    "wrench": "^1.5.8"
+  },
+  "devDependencies": {
+    "envify": "~1.2.1",
+    "react": "~0.10.0",
+    "browserify": "~4.2.0",
+    "gulp": "~3.8.5",
+    "gulp-notify": "~1.4.0",
+    "gulp-util": "~2.2.19",
+    "reactify": "~0.13.1",
+    "vinyl-source-stream": "~0.1.1",
+    "watchify": "~0.10.2"
+  },
+  "browserify": {
+    "transform": [
+      "reactify"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Ricky Barnes",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_24846.png",
+    "country": "United States",
+    "Height": "6  ft, 2  in",
+    "Weight": "200 lbs",
+    "Birthday": "02/06/1981",
+    "College": "University of Arizona (2003, Communications)",
+    "Turned Pro": "2003",
+    "Birthplace": "Stockton, California"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.24846.ricky-barnes.html",
+    "season": "http://www.pgatour.com/players/player.24846.ricky-barnes.html/season",
+    "career": "http://www.pgatour.com/players/player.24846.ricky-barnes.html/career",
+    "statistics": "http://www.pgatour.com/players/player.24846.ricky-barnes.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.24846.ricky-barnes.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.24846.ricky-barnes.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.24846.ricky-barnes.html/profile"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Tim Petrovic",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_01948.png",
+    "country": "United States",
+    "Height": "6  ft, 2  in",
+    "Weight": "195 lbs",
+    "Birthday": "08/16/1966",
+    "College": "University of Hartford (1988, Communications)",
+    "Turned Pro": "1988",
+    "Birthplace": "Northampton, Massachusetts"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.01948.tim-petrovic.html",
+    "season": "http://www.pgatour.com/players/player.01948.tim-petrovic.html/season",
+    "career": "http://www.pgatour.com/players/player.01948.tim-petrovic.html/career",
+    "statistics": "http://www.pgatour.com/players/player.01948.tim-petrovic.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.01948.tim-petrovic.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.01948.tim-petrovic.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.01948.tim-petrovic.html/profile"
+  }
+}

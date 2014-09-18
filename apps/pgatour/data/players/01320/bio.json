@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Bob Estes",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_01320.png",
+    "country": "United States",
+    "Height": "6  ft, 2  in",
+    "Weight": "180 lbs",
+    "Birthday": "02/02/1966",
+    "College": "University of Texas",
+    "Turned Pro": "1988",
+    "Birthplace": "Graham, Texas"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.01320.bob-estes.html",
+    "season": "http://www.pgatour.com/players/player.01320.bob-estes.html/season",
+    "career": "http://www.pgatour.com/players/player.01320.bob-estes.html/career",
+    "statistics": "http://www.pgatour.com/players/player.01320.bob-estes.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.01320.bob-estes.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.01320.bob-estes.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.01320.bob-estes.html/profile"
+  }
+}

@@ -1,0 +1,1761 @@
+{
+  "plrNum": "22046",
+  "combinedMoney": "27,675,319",
+  "tours": [
+    {
+      "tourCodeLC": "r",
+      "tourCodeUC": "R",
+      "tourDesc": "PGA TOUR",
+      "careerTotals": {
+        "events": "313",
+        "rnds": "1017",
+        "firsts": "8",
+        "seconds": "8",
+        "thirds": "5",
+        "top10": "53",
+        "top25": "115",
+        "cutsMade": "216",
+        "cutsMissed": "95",
+        "dq": "1",
+        "wd": "1",
+        "officialMoney": "27,675,319",
+        "moneyRank": "24",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "1",
+          "losses": ""
+        }
+      },
+      "detail": [
+        {
+          "year": "1999",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "1",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "1",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "290",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2000",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2001",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "23",
+          "firsts": "",
+          "seconds": "1",
+          "thirds": "1",
+          "top10": "2",
+          "top25": "4",
+          "cutsMade": "7",
+          "cutsMissed": "15",
+          "dq": "1",
+          "wd": "",
+          "officialMoney": "525,338",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "95",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "310",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "260",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2002",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "27",
+          "firsts": "",
+          "seconds": "1",
+          "thirds": "",
+          "top10": "3",
+          "top25": "4",
+          "cutsMade": "17",
+          "cutsMissed": "10",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "957,184",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "64",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "130",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "240",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2003",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "26",
+          "firsts": "",
+          "seconds": "1",
+          "thirds": "1",
+          "top10": "7",
+          "top25": "10",
+          "cutsMade": "16",
+          "cutsMissed": "10",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "1,477,246",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "45",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "240",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "340",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "T27",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "130",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "T21",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "250",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2004",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "26",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "4",
+          "top25": "14",
+          "cutsMade": "19",
+          "cutsMissed": "7",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "1,236,910",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "61",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "340",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "T24",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "130",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "T16",
+                "finCode": "T",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2005",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "26",
+          "firsts": "1",
+          "seconds": "",
+          "thirds": "1",
+          "top10": "5",
+          "top25": "9",
+          "cutsMade": "22",
+          "cutsMissed": "4",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "1,931,676",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "33",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "250",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "T28",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "300",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "T5",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "340",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "T6",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "130",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "360",
+                "permNum": "476",
+                "trnName": "WGC-Bridgestone Invit'l"
+              },
+              "finPos": {
+                "finPos": "T41",
+                "finCode": "T",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2006",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "20",
+          "firsts": "2",
+          "seconds": "1",
+          "thirds": "",
+          "top10": "5",
+          "top25": "13",
+          "cutsMade": "17",
+          "cutsMissed": "3",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "4,354,969",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "5",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "150",
+                "permNum": "014",
+                "trnName": "Masters Tournament"
+              },
+              "finPos": {
+                "finPos": "T16",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "250",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "1",
+                "finCode": "",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "310",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "T16",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "T9",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "130",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "090",
+                "permNum": "470",
+                "trnName": "WGC-Accenture Match Play"
+              },
+              "finPos": {
+                "finPos": "1",
+                "finCode": "",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "370",
+                "permNum": "476",
+                "trnName": "WGC-Bridgestone Invit'l"
+              },
+              "finPos": {
+                "finPos": "T36",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "240",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "T18",
+                "finCode": "T",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2007",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "22",
+          "firsts": "",
+          "seconds": "1",
+          "thirds": "1",
+          "top10": "7",
+          "top25": "13",
+          "cutsMade": "19",
+          "cutsMissed": "3",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "2,943,203",
+          "fedexRnkReg": "24",
+          "fedexPtsReg": "8,623",
+          "fedexRnkPO": "13",
+          "fedexPtsPO": "98,918",
+          "fedexStandRnk": "15",
+          "fedexStandPts": "13,390",
+          "fedexBonusMny": "280,000",
+          "moneyRank": "14",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "150",
+                "permNum": "014",
+                "trnName": "Masters Tournament"
+              },
+              "finPos": {
+                "finPos": "T24",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "250",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "T42",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "310",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "T6",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "200",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "T37",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "090",
+                "permNum": "470",
+                "trnName": "WGC-Accenture Match Play"
+              },
+              "finPos": {
+                "finPos": "2",
+                "finCode": "",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "340",
+                "permNum": "476",
+                "trnName": "WGC-Bridgestone Invit'l"
+              },
+              "finPos": {
+                "finPos": "T51",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "130",
+                "permNum": "473",
+                "trnName": "WGC-Cadillac Championship"
+              },
+              "finPos": {
+                "finPos": "T3",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "370",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "T4",
+                "finCode": "T",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2008",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "20",
+          "firsts": "1",
+          "seconds": "1",
+          "thirds": "",
+          "top10": "6",
+          "top25": "8",
+          "cutsMade": "14",
+          "cutsMissed": "6",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "2,880,099",
+          "fedexRnkReg": "10",
+          "fedexPtsReg": "10,866",
+          "fedexRnkPO": "32",
+          "fedexPtsPO": "102,563",
+          "fedexStandRnk": "32",
+          "fedexStandPts": "15,304",
+          "fedexBonusMny": "155,000",
+          "moneyRank": "15",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "170",
+                "permNum": "014",
+                "trnName": "Masters Tournament"
+              },
+              "finPos": {
+                "finPos": "T39",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "260",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "T9",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "320",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "360",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "T31",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "210",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "090",
+                "permNum": "470",
+                "trnName": "WGC-Accenture Match Play"
+              },
+              "finPos": {
+                "finPos": "T33",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "476",
+                "trnName": "WGC-Bridgestone Invit'l"
+              },
+              "finPos": {
+                "finPos": "T68",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "140",
+                "permNum": "473",
+                "trnName": "WGC-Cadillac Championship"
+              },
+              "finPos": {
+                "finPos": "1",
+                "finCode": "",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "380",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2009",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "20",
+          "firsts": "2",
+          "seconds": "",
+          "thirds": "",
+          "top10": "5",
+          "top25": "10",
+          "cutsMade": "18",
+          "cutsMissed": "2",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "3,866,270",
+          "fedexRnkReg": "8",
+          "fedexPtsReg": "1,603",
+          "fedexRnkPO": "13",
+          "fedexPtsPO": "713",
+          "fedexStandRnk": "13",
+          "fedexStandPts": "713",
+          "fedexBonusMny": "280,000",
+          "moneyRank": "8",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "160",
+                "permNum": "014",
+                "trnName": "Masters Tournament"
+              },
+              "finPos": {
+                "finPos": "T15",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "260",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "T47",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "310",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "360",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "T43",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "200",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "T22",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "090",
+                "permNum": "470",
+                "trnName": "WGC-Accenture Match Play"
+              },
+              "finPos": {
+                "finPos": "1",
+                "finCode": "",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "476",
+                "trnName": "WGC-Bridgestone Invit'l"
+              },
+              "finPos": {
+                "finPos": "T22",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "120",
+                "permNum": "473",
+                "trnName": "WGC-Cadillac Championship"
+              },
+              "finPos": {
+                "finPos": "T40",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "465",
+                "permNum": "489",
+                "trnName": "WGC-HSBC Champions"
+              },
+              "finPos": {
+                "finPos": "T10",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "380",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2010",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "19",
+          "firsts": "1",
+          "seconds": "1",
+          "thirds": "",
+          "top10": "2",
+          "top25": "7",
+          "cutsMade": "13",
+          "cutsMissed": "6",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "2,393,045",
+          "fedexRnkReg": "39",
+          "fedexPtsReg": "815",
+          "fedexRnkPO": "14",
+          "fedexPtsPO": "753",
+          "fedexStandRnk": "14",
+          "fedexStandPts": "753",
+          "fedexBonusMny": "270,000",
+          "moneyRank": "29",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "160",
+                "permNum": "014",
+                "trnName": "Masters Tournament"
+              },
+              "finPos": {
+                "finPos": "T26",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "260",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "310",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "360",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "200",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "080",
+                "permNum": "470",
+                "trnName": "WGC-Accenture Match Play"
+              },
+              "finPos": {
+                "finPos": "T17",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "476",
+                "trnName": "WGC-Bridgestone Invit'l"
+              },
+              "finPos": {
+                "finPos": "T22",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "120",
+                "permNum": "473",
+                "trnName": "WGC-Cadillac Championship"
+              },
+              "finPos": {
+                "finPos": "T45",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "380",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2011",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "21",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "1",
+          "top10": "4",
+          "top25": "9",
+          "cutsMade": "14",
+          "cutsMissed": "6",
+          "dq": "",
+          "wd": "1",
+          "officialMoney": "1,916,994",
+          "fedexRnkReg": "79",
+          "fedexPtsReg": "571",
+          "fedexRnkPO": "24",
+          "fedexPtsPO": "608",
+          "fedexStandRnk": "24",
+          "fedexStandPts": "608",
+          "fedexBonusMny": "205,000",
+          "moneyRank": "43",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "160",
+                "permNum": "014",
+                "trnName": "Masters Tournament"
+              },
+              "finPos": {
+                "finPos": "T4",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "260",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "310",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "360",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "210",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "W/D",
+                "finCode": "W",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "090",
+                "permNum": "470",
+                "trnName": "WGC-Accenture Match Play"
+              },
+              "finPos": {
+                "finPos": "T9",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "476",
+                "trnName": "WGC-Bridgestone Invit'l"
+              },
+              "finPos": {
+                "finPos": "T37",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "120",
+                "permNum": "473",
+                "trnName": "WGC-Cadillac Championship"
+              },
+              "finPos": {
+                "finPos": "T49",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "470",
+                "permNum": "489",
+                "trnName": "WGC-HSBC Champions"
+              },
+              "finPos": {
+                "finPos": "T56",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "380",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2012",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "20",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "1",
+          "top25": "10",
+          "cutsMade": "18",
+          "cutsMissed": "2",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "1,255,223",
+          "fedexRnkReg": "68",
+          "fedexPtsReg": "624",
+          "fedexRnkPO": "47",
+          "fedexPtsPO": "1,164",
+          "fedexStandRnk": "47",
+          "fedexStandPts": "1,164",
+          "fedexBonusMny": "128,000",
+          "moneyRank": "71",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "160",
+                "permNum": "014",
+                "trnName": "Masters Tournament"
+              },
+              "finPos": {
+                "finPos": "T19",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "260",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "320",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "T9",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "360",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "T11",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "210",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "T12",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "090",
+                "permNum": "470",
+                "trnName": "WGC-Accenture Match Play"
+              },
+              "finPos": {
+                "finPos": "T33",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "476",
+                "trnName": "WGC-Bridgestone Invit'l"
+              },
+              "finPos": {
+                "finPos": "T24",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "120",
+                "permNum": "473",
+                "trnName": "WGC-Cadillac Championship"
+              },
+              "finPos": {
+                "finPos": "T55",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "470",
+                "permNum": "489",
+                "trnName": "WGC-HSBC Champions"
+              },
+              "finPos": {
+                "finPos": "T51",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "380",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "T19",
+                "finCode": "T",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2013",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "19",
+          "firsts": "",
+          "seconds": "1",
+          "thirds": "",
+          "top10": "1",
+          "top25": "1",
+          "cutsMade": "9",
+          "cutsMissed": "10",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "892,920",
+          "fedexRnkReg": "99",
+          "fedexPtsReg": "492",
+          "fedexRnkPO": "104",
+          "fedexPtsPO": "522",
+          "fedexStandRnk": "104",
+          "fedexStandPts": "522",
+          "fedexBonusMny": "70,000",
+          "moneyRank": "93",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "250",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "T32",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "310",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "T44",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "200",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "110",
+                "permNum": "473",
+                "trnName": "WGC-Cadillac Championship"
+              },
+              "finPos": {
+                "finPos": "T47",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "370",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "65",
+                "finCode": "",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2014",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "1",
+            "losses": ""
+          },
+          "events": "23",
+          "firsts": "1",
+          "seconds": "",
+          "thirds": "",
+          "top10": "1",
+          "top25": "3",
+          "cutsMade": "13",
+          "cutsMissed": "10",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "1,044,242",
+          "fedexRnkReg": "90",
+          "fedexPtsReg": "611",
+          "fedexRnkPO": "100",
+          "fedexPtsPO": "611",
+          "fedexStandRnk": "100",
+          "fedexStandPts": "611",
+          "fedexBonusMny": "",
+          "moneyRank": "93",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "440",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "T46",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "300",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "69",
+                "finCode": "",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "460",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        }
+      ],
+      "largestPayChk": {
+        "money": "1400000",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "090",
+              "permNum": "470",
+              "trnName": "World Golf Championships-Accenture Match Play Championship"
+            },
+            "finPos": {
+              "finPos": "001",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2009"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "062",
+        "times": "01",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "400",
+              "permNum": "060",
+              "trnName": "THE TOUR Championship presented by Coca-Cola"
+            },
+            "year": "2007",
+            "rndNum": "03"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "080",
+              "permNum": "001",
+              "trnName": "Chrysler Classic of Tucson"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": "Y"
+            },
+            "year": "2005"
+          },
+          {
+            "trn": {
+              "trnNum": "090",
+              "permNum": "470",
+              "trnName": "World Golf Championships-Accenture Match Play Championship"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2006"
+          },
+          {
+            "trn": {
+              "trnNum": "250",
+              "permNum": "026",
+              "trnName": "U.S. Open Championship"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2006"
+          },
+          {
+            "trn": {
+              "trnNum": "140",
+              "permNum": "473",
+              "trnName": "World Golf Championships-CA Championship"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2008"
+          },
+          {
+            "trn": {
+              "trnNum": "010",
+              "permNum": "016",
+              "trnName": "Mercedes-Benz Championship"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2009"
+          },
+          {
+            "trn": {
+              "trnNum": "090",
+              "permNum": "470",
+              "trnName": "World Golf Championships-Accenture Match Play Championship"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2009"
+          },
+          {
+            "trn": {
+              "trnNum": "010",
+              "permNum": "016",
+              "trnName": "SBS Championship"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2010"
+          },
+          {
+            "trn": {
+              "trnNum": "420",
+              "permNum": "472",
+              "trnName": "Barracuda Championship"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2014"
+          }
+        ]
+      }
+    }
+  ]
+}

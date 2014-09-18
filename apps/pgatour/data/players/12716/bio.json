@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Charley Hoffman",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_12716.png",
+    "country": "United States",
+    "Height": "6  ft, 0  in",
+    "Weight": "200 lbs",
+    "Birthday": "12/27/1976",
+    "College": "University of Nevada-Las Vegas (2000, Communications)",
+    "Turned Pro": "2000",
+    "Birthplace": "San Diego, California"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.12716.charley-hoffman.html",
+    "season": "http://www.pgatour.com/players/player.12716.charley-hoffman.html/season",
+    "career": "http://www.pgatour.com/players/player.12716.charley-hoffman.html/career",
+    "statistics": "http://www.pgatour.com/players/player.12716.charley-hoffman.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.12716.charley-hoffman.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.12716.charley-hoffman.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.12716.charley-hoffman.html/profile"
+  }
+}

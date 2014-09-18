@@ -1,0 +1,494 @@
+{
+  "plrNum": "32334",
+  "combinedMoney": "3,011,214",
+  "tours": [
+    {
+      "tourCodeLC": "r",
+      "tourCodeUC": "R",
+      "tourDesc": "PGA TOUR",
+      "careerTotals": {
+        "events": "74",
+        "rnds": "195",
+        "firsts": "1",
+        "seconds": "1",
+        "thirds": "1",
+        "top10": "5",
+        "top25": "11",
+        "cutsMade": "28",
+        "cutsMissed": "42",
+        "dq": "",
+        "wd": "4",
+        "officialMoney": "3,002,408",
+        "moneyRank": "322",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "",
+          "losses": "1"
+        }
+      },
+      "detail": [
+        {
+          "year": "2008",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "1",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "1",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "260",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2009",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "1",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "1",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "260",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2011",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2012",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "22",
+          "firsts": "1",
+          "seconds": "",
+          "thirds": "1",
+          "top10": "3",
+          "top25": "3",
+          "cutsMade": "9",
+          "cutsMissed": "11",
+          "dq": "",
+          "wd": "2",
+          "officialMoney": "1,373,528",
+          "fedexRnkReg": "160",
+          "fedexPtsReg": "222",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "160",
+          "fedexStandPts": "222",
+          "fedexBonusMny": "",
+          "moneyRank": "63",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2013",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": "1"
+          },
+          "events": "24",
+          "firsts": "",
+          "seconds": "1",
+          "thirds": "",
+          "top10": "1",
+          "top25": "3",
+          "cutsMade": "7",
+          "cutsMissed": "16",
+          "dq": "",
+          "wd": "1",
+          "officialMoney": "916,229",
+          "fedexRnkReg": "104",
+          "fedexPtsReg": "459",
+          "fedexRnkPO": "112",
+          "fedexPtsPO": "459",
+          "fedexStandRnk": "112",
+          "fedexStandPts": "459",
+          "fedexBonusMny": "70,000",
+          "moneyRank": "90",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "200",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "370",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2014",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": "1"
+          },
+          "events": "26",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "1",
+          "top25": "5",
+          "cutsMade": "12",
+          "cutsMissed": "13",
+          "dq": "",
+          "wd": "1",
+          "officialMoney": "712,652",
+          "fedexRnkReg": "130",
+          "fedexPtsReg": "409",
+          "fedexRnkPO": "130",
+          "fedexPtsPO": "409",
+          "fedexStandRnk": "130",
+          "fedexStandPts": "409",
+          "fedexBonusMny": "",
+          "moneyRank": "126",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "300",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "T48",
+                "finCode": "T",
+                "playOff": ""
+              }
+            }
+          ]
+        }
+      ],
+      "largestPayChk": {
+        "money": "0846000",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "480",
+              "permNum": "045",
+              "trnName": "Children's Miracle Network Hospitals Classic"
+            },
+            "finPos": {
+              "finPos": "001",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2012"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "062",
+        "times": "01",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "290",
+              "permNum": "490",
+              "trnName": "The Greenbrier Classic"
+            },
+            "year": "2012",
+            "rndNum": "02"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "480",
+              "permNum": "045",
+              "trnName": "Children's Miracle Network Hospitals Classic"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2012"
+          }
+        ]
+      }
+    },
+    {
+      "tourCodeLC": "h",
+      "tourCodeUC": "H",
+      "tourDesc": "Web.com Tour",
+      "careerTotals": {
+        "events": "4",
+        "rnds": "14",
+        "firsts": "",
+        "seconds": "",
+        "thirds": "",
+        "top10": "",
+        "top25": "",
+        "cutsMade": "3",
+        "cutsMissed": "1",
+        "dq": "",
+        "wd": "",
+        "officialMoney": "8,806",
+        "moneyRank": "999",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "",
+          "losses": ""
+        }
+      },
+      "detail": [
+        {
+          "year": "2009",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "1",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "1",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "moneyRank": "",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2011",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "1",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "1",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "1,526",
+          "moneyRank": "295",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2012",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "2",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "2",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "7,280",
+          "moneyRank": "189",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        }
+      ],
+      "largestPayChk": {
+        "money": "0004200",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "050",
+              "permNum": "101",
+              "trnName": "Soboba Golf Classic Presented by Hub International"
+            },
+            "finPos": {
+              "finPos": "032",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2012"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "067",
+        "times": "01",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "140",
+              "permNum": "026",
+              "trnName": "Utah Championship Presented by Utah Sports Commission"
+            },
+            "year": "2011",
+            "rndNum": "02"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "050",
+              "permNum": "101",
+              "trnName": "Soboba Golf Classic Presented by Hub International"
+            },
+            "finPos": {
+              "finPos": "032",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2012"
+          }
+        ]
+      }
+    }
+  ]
+}

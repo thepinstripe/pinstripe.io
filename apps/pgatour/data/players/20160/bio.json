@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Charlie Wi",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_20160.png",
+    "country": "Korea, Republic of",
+    "Height": "5  ft, 10  in",
+    "Weight": "175 lbs",
+    "Birthday": "01/03/1972",
+    "College": "University of California",
+    "Turned Pro": "1995",
+    "Birthplace": "Seoul, South Korea"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.20160.charlie-wi.html",
+    "season": "http://www.pgatour.com/players/player.20160.charlie-wi.html/season",
+    "career": "http://www.pgatour.com/players/player.20160.charlie-wi.html/career",
+    "statistics": "http://www.pgatour.com/players/player.20160.charlie-wi.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.20160.charlie-wi.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.20160.charlie-wi.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.20160.charlie-wi.html/profile"
+  }
+}

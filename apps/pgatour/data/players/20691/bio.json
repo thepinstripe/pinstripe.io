@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Greg Owen",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_20691.png",
+    "country": "England",
+    "Height": "6  ft, 4  in",
+    "Weight": "205 lbs",
+    "Birthday": "02/19/1972",
+    "Turned Pro": "1992",
+    "Birthplace": "Mansfield, Nottinghamshire, England"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.20691.greg-owen.html",
+    "season": "http://www.pgatour.com/players/player.20691.greg-owen.html/season",
+    "career": "http://www.pgatour.com/players/player.20691.greg-owen.html/career",
+    "statistics": "http://www.pgatour.com/players/player.20691.greg-owen.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.20691.greg-owen.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.20691.greg-owen.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.20691.greg-owen.html/profile"
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "plrNum": "35539",
+  "combinedMoney": "2,527,722",
+  "tours": [
+    {
+      "tourCodeLC": "r",
+      "tourCodeUC": "R",
+      "tourDesc": "PGA TOUR",
+      "careerTotals": {
+        "events": "57",
+        "rnds": "181",
+        "firsts": "",
+        "seconds": "",
+        "thirds": "1",
+        "top10": "5",
+        "top25": "15",
+        "cutsMade": "35",
+        "cutsMissed": "22",
+        "dq": "",
+        "wd": "",
+        "officialMoney": "2,117,129",
+        "moneyRank": "368",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "",
+          "losses": ""
+        }
+      },
+      "detail": [
+        {
+          "year": "2012",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "4",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "1",
+          "top25": "3",
+          "cutsMade": "3",
+          "cutsMissed": "1",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "284,672",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2013",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "27",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "1",
+          "top10": "2",
+          "top25": "6",
+          "cutsMade": "14",
+          "cutsMissed": "13",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "991,902",
+          "fedexRnkReg": "72",
+          "fedexPtsReg": "607",
+          "fedexRnkPO": "90",
+          "fedexPtsPO": "607",
+          "fedexStandRnk": "90",
+          "fedexStandPts": "607",
+          "fedexBonusMny": "75,000",
+          "moneyRank": "83",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "250",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "310",
+                "permNum": "100",
+                "trnName": "The Open Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "033",
+                "trnName": "PGA Championship"
+              },
+              "finPos": {
+                "finPos": "T47",
+                "finCode": "T",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "200",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "370",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            }
+          ]
+        },
+        {
+          "year": "2014",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "26",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "2",
+          "top25": "6",
+          "cutsMade": "18",
+          "cutsMissed": "8",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "840,555",
+          "fedexRnkReg": "95",
+          "fedexPtsReg": "575",
+          "fedexRnkPO": "106",
+          "fedexPtsPO": "580",
+          "fedexStandRnk": "106",
+          "fedexStandPts": "580",
+          "fedexBonusMny": "",
+          "moneyRank": "111",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": [
+            {
+              "trn": {
+                "trnNum": "350",
+                "permNum": "026",
+                "trnName": "U.S. Open"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "300",
+                "permNum": "011",
+                "trnName": "THE PLAYERS Championship"
+              },
+              "finPos": {
+                "finPos": "CUT",
+                "finCode": "C",
+                "playOff": ""
+              }
+            },
+            {
+              "trn": {
+                "trnNum": "460",
+                "permNum": "027",
+                "trnName": "The Barclays"
+              },
+              "finPos": {
+                "finPos": "T71",
+                "finCode": "T",
+                "playOff": ""
+              }
+            }
+          ]
+        }
+      ],
+      "largestPayChk": {
+        "money": "0408000",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "090",
+              "permNum": "010",
+              "trnName": "The Honda Classic"
+            },
+            "finPos": {
+              "finPos": "003",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2013"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "063",
+        "times": "01",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "090",
+              "permNum": "010",
+              "trnName": "The Honda Classic"
+            },
+            "year": "2013",
+            "rndNum": "02"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "090",
+              "permNum": "010",
+              "trnName": "The Honda Classic"
+            },
+            "finPos": {
+              "finPos": "003",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2013"
+          }
+        ]
+      }
+    },
+    {
+      "tourCodeLC": "h",
+      "tourCodeUC": "H",
+      "tourDesc": "Web.com Tour",
+      "careerTotals": {
+        "events": "11",
+        "rnds": "38",
+        "firsts": "2",
+        "seconds": "1",
+        "thirds": "1",
+        "top10": "7",
+        "top25": "7",
+        "cutsMade": "8",
+        "cutsMissed": "3",
+        "dq": "",
+        "wd": "",
+        "officialMoney": "410,593",
+        "moneyRank": "242",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "",
+          "losses": "1"
+        }
+      },
+      "detail": [
+        {
+          "year": "2011",
+          "amateurStatus": "A",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "1",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "1",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "moneyRank": "",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2012",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "10",
+          "firsts": "2",
+          "seconds": "1",
+          "thirds": "1",
+          "top10": "7",
+          "top25": "7",
+          "cutsMade": "8",
+          "cutsMissed": "2",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "410,593",
+          "moneyRank": "2",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        }
+      ],
+      "largestPayChk": {
+        "money": "0130500",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "210",
+              "permNum": "027",
+              "trnName": "Albertsons Boise Open Presented by Kraft"
+            },
+            "finPos": {
+              "finPos": "001",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2012"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "062",
+        "times": "02",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "160",
+              "permNum": "059",
+              "trnName": "Cox Classic Presented by Lexus of Omaha"
+            },
+            "year": "2012",
+            "rndNum": "01"
+          },
+          {
+            "trn": {
+              "trnNum": "210",
+              "permNum": "027",
+              "trnName": "Albertsons Boise Open Presented by Kraft"
+            },
+            "year": "2012",
+            "rndNum": "03"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "210",
+              "permNum": "027",
+              "trnName": "Albertsons Boise Open Presented by Kraft"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2012"
+          },
+          {
+            "trn": {
+              "trnNum": "220",
+              "permNum": "038",
+              "trnName": "WNB Golf Classic"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2012"
+          }
+        ]
+      }
+    }
+  ]
+}

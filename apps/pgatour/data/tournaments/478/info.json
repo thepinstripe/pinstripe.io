@@ -1,0 +1,2579 @@
+{
+  "msgId": "28660",
+  "updated": {
+    "dateYYYY": "2013",
+    "dateMM": "12",
+    "dateDD": "08",
+    "timeHH": "21",
+    "timeMM": "23",
+    "timeSS": "48"
+  },
+  "event": {
+    "year": "2014",
+    "tour": "TOR",
+    "permNum": "478",
+    "type": "TOR",
+    "tz": "PT",
+    "detailtz": "America/Los_Angeles",
+    "fieldSize": "18",
+    "totalRnds": "4",
+    "currentRnd": "4",
+    "name": "Northwestern Mutual World Challenge",
+    "cup": {
+      "inCup": "n",
+      "totalPoints": "0",
+      "winnerShare": "0"
+    },
+    "money": {
+      "totalPurse": "3500000",
+      "winnerShare": "0"
+    },
+    "history": {
+      "champion": "",
+      "championId": "00000",
+      "championScore": "E",
+      "record": "E"
+    },
+    "dataSet": {
+      "walkingScorers": "y",
+      "lasers": "y",
+      "fedExCup": "n"
+    }
+  },
+  "courseInfos": [
+    {
+      "id": "463",
+      "code": "SW",
+      "name": "Sherwood CC",
+      "host": "y",
+      "parFront": "36",
+      "parBack": "36",
+      "parTotal": "72",
+      "sigHole": "00",
+      "record": "0"
+    }
+  ],
+  "field": [
+    {
+      "id": "33141",
+      "name": {
+        "last": "Bradley",
+        "first": "Keegan",
+        "leader": "BRADLEY",
+        "freeze": "BRADLEY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "305667",
+        "ytdRank": "27",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "37",
+        "ytdRankTied": "n",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Woodstock, VT"
+      }
+    },
+    {
+      "id": "28089",
+      "name": {
+        "last": "Day",
+        "first": "Jason",
+        "leader": "DAY",
+        "freeze": "DAY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "187",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "187",
+        "ytdRankTied": "y",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "AUS",
+        "countryOfBirth": "AUS",
+        "hometown": "Brisbane, Australia"
+      }
+    },
+    {
+      "id": "25686",
+      "name": {
+        "last": "Dufner",
+        "first": "Jason",
+        "leader": "DUFNER",
+        "freeze": "DUFNER"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "64000",
+        "ytdRank": "111",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "135",
+        "ytdRankTied": "n",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Auburn, AL"
+      }
+    },
+    {
+      "id": "10809",
+      "name": {
+        "last": "Furyk",
+        "first": "Jim",
+        "leader": "FURYK",
+        "freeze": "FURYK"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "187",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "187",
+        "ytdRankTied": "y",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Ponte Vedra Bch, FL"
+      }
+    },
+    {
+      "id": "24924",
+      "name": {
+        "last": "Haas",
+        "first": "Bill",
+        "leader": "HAAS",
+        "freeze": "HAAS"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "187100",
+        "ytdRank": "52",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "59",
+        "ytdRankTied": "n",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Greenville, SC"
+      }
+    },
+    {
+      "id": "24024",
+      "name": {
+        "last": "Johnson",
+        "first": "Zach",
+        "leader": "JOHNSON",
+        "freeze": "JOHNSON"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "109850",
+        "ytdRank": "78",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "72",
+        "ytdRankTied": "y",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Cedar Rapids, IA"
+      }
+    },
+    {
+      "id": "30925",
+      "name": {
+        "last": "Johnson",
+        "first": "Dustin",
+        "leader": "JOHNSON",
+        "freeze": "JOHNSON"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "1400000",
+        "ytdRank": "2",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "6",
+        "ytdRankTied": "n",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Jupiter, FL"
+      }
+    },
+    {
+      "id": "23108",
+      "name": {
+        "last": "Kuchar",
+        "first": "Matt",
+        "leader": "KUCHAR",
+        "freeze": "KUCHAR"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "171417",
+        "ytdRank": "54",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "71",
+        "ytdRankTied": "n",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Sea Island, GA"
+      }
+    },
+    {
+      "id": "24781",
+      "name": {
+        "last": "Mahan",
+        "first": "Hunter",
+        "leader": "MAHAN",
+        "freeze": "MAHAN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "187",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "187",
+        "ytdRankTied": "y",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Dallas, TX"
+      }
+    },
+    {
+      "id": "25572",
+      "name": {
+        "last": "McDowell",
+        "first": "Graeme",
+        "leader": "MCDOWELL",
+        "freeze": "MCDOWEL"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "480000",
+        "ytdRank": "19",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "22",
+        "ytdRankTied": "n",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "NIR",
+        "countryOfBirth": "NIR",
+        "hometown": "Portrush, Northern Ireland"
+      }
+    },
+    {
+      "id": "28237",
+      "name": {
+        "last": "McIlroy",
+        "first": "Rory",
+        "leader": "MCILROY",
+        "freeze": "MCILROY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "231500",
+        "ytdRank": "38",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "57",
+        "ytdRankTied": "y",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "NIR",
+        "countryOfBirth": "NIR",
+        "hometown": "Holywood, Northern Ireland"
+      }
+    },
+    {
+      "id": "24138",
+      "name": {
+        "last": "Poulter",
+        "first": "Ian",
+        "leader": "POULTER",
+        "freeze": "POULTER"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "850000",
+        "ytdRank": "8",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "13",
+        "ytdRankTied": "n",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "ENG",
+        "countryOfBirth": "ENG",
+        "hometown": "Woburn, England"
+      }
+    },
+    {
+      "id": "29221",
+      "name": {
+        "last": "Simpson",
+        "first": "Webb",
+        "leader": "SIMPSON",
+        "freeze": "SIMPSON"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "1251417",
+        "ytdRank": "5",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "4",
+        "ytdRankTied": "n",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Charlotte, NC"
+      }
+    },
+    {
+      "id": "34046",
+      "name": {
+        "last": "Spieth",
+        "first": "Jordan",
+        "leader": "SPIETH",
+        "freeze": "SPIETH"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "90000",
+        "ytdRank": "93",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "110",
+        "ytdRankTied": "n",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Dallas, TX"
+      }
+    },
+    {
+      "id": "06527",
+      "name": {
+        "last": "Stricker",
+        "first": "Steve",
+        "leader": "STRICKER",
+        "freeze": "STRICKE"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "187",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "187",
+        "ytdRankTied": "y",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Madison, WI"
+      }
+    },
+    {
+      "id": "25804",
+      "name": {
+        "last": "Watson",
+        "first": "Bubba",
+        "leader": "WATSON",
+        "freeze": "WATSON"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "206117",
+        "ytdRank": "51",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "49",
+        "ytdRankTied": "n",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Bagdad, FL"
+      }
+    },
+    {
+      "id": "20396",
+      "name": {
+        "last": "Westwood",
+        "first": "Lee",
+        "leader": "WESTWOOD",
+        "freeze": "WESTWOO"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "46250",
+        "ytdRank": "133",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "167",
+        "ytdRankTied": "y",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "ENG",
+        "countryOfBirth": "ENG",
+        "hometown": "Close House GC, England"
+      }
+    },
+    {
+      "id": "08793",
+      "name": {
+        "last": "Woods",
+        "first": "Tiger",
+        "leader": "WOODS",
+        "freeze": "WOODS"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "187",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "187",
+        "ytdRankTied": "y",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Jupiter, FL"
+      }
+    }
+  ],
+  "alts": [],
+  "rnds": [
+    {
+      "num": "1",
+      "state": "Official",
+      "maxGroup": "2",
+      "cutRound": "n",
+      "playoff": "n",
+      "revisedTeeTimes": "y",
+      "courses": [
+        {
+          "id": "463",
+          "yardsTotal": "7023",
+          "holes": [
+            {
+              "num": "1",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "342",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "2",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "531",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "3",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "198",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "4",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "456",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "5",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "531",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "6",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "422",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "7",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "446",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "8",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "228",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "9",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "422",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "10",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "359",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "11",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "517",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "12",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "186",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "13",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "568",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "14",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "455",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "15",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "189",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "16",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "563",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "17",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "166",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "18",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "444",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            }
+          ],
+          "teetimes": [
+            {
+              "id": "1",
+              "startTee": "1",
+              "groups": [
+                {
+                  "id": "1",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "12",
+                    "dateDD": "05",
+                    "timeHH": "10",
+                    "timeMM": "30",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "28237",
+                    "25572"
+                  ]
+                },
+                {
+                  "id": "2",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "12",
+                    "dateDD": "05",
+                    "timeHH": "10",
+                    "timeMM": "41",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "24138",
+                    "20396"
+                  ]
+                },
+                {
+                  "id": "3",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "12",
+                    "dateDD": "05",
+                    "timeHH": "10",
+                    "timeMM": "52",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "24024",
+                    "28089"
+                  ]
+                },
+                {
+                  "id": "4",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "12",
+                    "dateDD": "05",
+                    "timeHH": "11",
+                    "timeMM": "03",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "24781",
+                    "24924"
+                  ]
+                },
+                {
+                  "id": "5",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "12",
+                    "dateDD": "05",
+                    "timeHH": "11",
+                    "timeMM": "14",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "06527",
+                    "34046"
+                  ]
+                },
+                {
+                  "id": "6",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "12",
+                    "dateDD": "05",
+                    "timeHH": "11",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "08793",
+                    "23108"
+                  ]
+                },
+                {
+                  "id": "7",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "12",
+                    "dateDD": "05",
+                    "timeHH": "11",
+                    "timeMM": "36",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "30925",
+                    "25804"
+                  ]
+                },
+                {
+                  "id": "8",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "12",
+                    "dateDD": "05",
+                    "timeHH": "11",
+                    "timeMM": "47",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "29221",
+                    "10809"
+                  ]
+                },
+                {
+                  "id": "9",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "12",
+                    "dateDD": "05",
+                    "timeHH": "11",
+                    "timeMM": "58",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "25686",
+                    "33141"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": "2",
+      "state": "Official",
+      "maxGroup": "2",
+      "cutRound": "n",
+      "playoff": "n",
+      "revisedTeeTimes": "y",
+      "courses": [
+        {
+          "id": "463",
+          "yardsTotal": "7023",
+          "holes": [
+            {
+              "num": "1",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "342",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "2",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "531",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "3",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "198",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "4",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "456",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "5",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "531",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "6",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "422",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "7",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "446",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "8",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "228",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "9",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "422",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "10",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "359",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "11",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "517",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "12",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "186",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "13",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "568",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "14",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "455",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "15",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "189",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "16",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "563",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "17",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "166",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "18",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "444",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            }
+          ],
+          "teetimes": [
+            {
+              "id": "1",
+              "startTee": "1",
+              "groups": [
+                {
+                  "id": "1",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "30",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "28089",
+                    "34046"
+                  ]
+                },
+                {
+                  "id": "2",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "41",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "33141",
+                    "24138"
+                  ]
+                },
+                {
+                  "id": "3",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "52",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "25686",
+                    "06527"
+                  ]
+                },
+                {
+                  "id": "4",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "11",
+                    "timeMM": "03",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "20396",
+                    "30925"
+                  ]
+                },
+                {
+                  "id": "5",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "11",
+                    "timeMM": "14",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "24924",
+                    "29221"
+                  ]
+                },
+                {
+                  "id": "6",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "11",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "10809",
+                    "28237"
+                  ]
+                },
+                {
+                  "id": "7",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "11",
+                    "timeMM": "36",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "08793",
+                    "25572"
+                  ]
+                },
+                {
+                  "id": "8",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "11",
+                    "timeMM": "47",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "24781",
+                    "25804"
+                  ]
+                },
+                {
+                  "id": "9",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "11",
+                    "timeMM": "58",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "24024",
+                    "23108"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": "3",
+      "state": "Official",
+      "maxGroup": "2",
+      "cutRound": "n",
+      "playoff": "n",
+      "revisedTeeTimes": "n",
+      "courses": [
+        {
+          "id": "463",
+          "yardsTotal": "7023",
+          "holes": [
+            {
+              "num": "1",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "342",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "2",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "531",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "3",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "198",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "4",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "456",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "5",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "531",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "6",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "422",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "7",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "446",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "8",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "228",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "9",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "422",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "10",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "359",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "11",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "517",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "12",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "186",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "13",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "568",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "14",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "455",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "15",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "189",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "16",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "563",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "17",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "166",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "18",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "444",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            }
+          ],
+          "teetimes": [
+            {
+              "id": "1",
+              "startTee": "1",
+              "groups": [
+                {
+                  "id": "1",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "09",
+                    "timeMM": "30",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "24781",
+                    "30925"
+                  ]
+                },
+                {
+                  "id": "2",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "09",
+                    "timeMM": "41",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "20396",
+                    "28237"
+                  ]
+                },
+                {
+                  "id": "3",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "09",
+                    "timeMM": "52",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "34046",
+                    "06527"
+                  ]
+                },
+                {
+                  "id": "4",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "03",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "29221",
+                    "25686"
+                  ]
+                },
+                {
+                  "id": "5",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "14",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "24138",
+                    "28089"
+                  ]
+                },
+                {
+                  "id": "6",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "10809",
+                    "33141"
+                  ]
+                },
+                {
+                  "id": "7",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "36",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "25804",
+                    "24924"
+                  ]
+                },
+                {
+                  "id": "8",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "47",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "23108",
+                    "25572"
+                  ]
+                },
+                {
+                  "id": "9",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "58",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "08793",
+                    "24024"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": "4",
+      "state": "Official",
+      "maxGroup": "2",
+      "cutRound": "n",
+      "playoff": "n",
+      "revisedTeeTimes": "n",
+      "courses": [
+        {
+          "id": "463",
+          "yardsTotal": "7023",
+          "holes": [
+            {
+              "num": "1",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "342",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "2",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "531",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "3",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "198",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "4",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "456",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "5",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "531",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "6",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "422",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "7",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "446",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "8",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "228",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "9",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "422",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "10",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "359",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "11",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "517",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "12",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "186",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "13",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "568",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "14",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "455",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "15",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "189",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "16",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "563",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "17",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "166",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "18",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "444",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            }
+          ],
+          "teetimes": [
+            {
+              "id": "1",
+              "startTee": "1",
+              "groups": [
+                {
+                  "id": "1",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "24924",
+                    "24138"
+                  ]
+                },
+                {
+                  "id": "3",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "25572",
+                    "10809"
+                  ]
+                },
+                {
+                  "id": "5",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "29221",
+                    "28089"
+                  ]
+                },
+                {
+                  "id": "7",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "25804",
+                    "23108"
+                  ]
+                },
+                {
+                  "id": "9",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "08793",
+                    "24024"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "startTee": "10",
+              "groups": [
+                {
+                  "id": "2",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "28237",
+                    "33141"
+                  ]
+                },
+                {
+                  "id": "4",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "24781",
+                    "20396"
+                  ]
+                },
+                {
+                  "id": "6",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "06527",
+                    "25686"
+                  ]
+                },
+                {
+                  "id": "8",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "10",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "30925",
+                    "34046"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": "401",
+      "state": "Official",
+      "maxGroup": "3",
+      "cutRound": "n",
+      "playoff": "y",
+      "revisedTeeTimes": "n",
+      "courses": [
+        {
+          "id": "463",
+          "yardsTotal": "969",
+          "holes": [
+            {
+              "num": "1",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "2",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "3",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "4",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "5",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "6",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "7",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "8",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "9",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "10",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "359",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "11",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "12",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "13",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "14",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "15",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "16",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {},
+              "pin": {}
+            },
+            {
+              "num": "17",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "166",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "18",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "444",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            }
+          ],
+          "teetimes": [
+            {
+              "id": "1",
+              "startTee": "18",
+              "groups": [
+                {
+                  "id": "1",
+                  "start": {
+                    "dateYYYY": "1899",
+                    "dateMM": "12",
+                    "dateDD": "30",
+                    "timeHH": "00",
+                    "timeMM": "00",
+                    "timeSS": "00",
+                    "utcOffset": "-08"
+                  },
+                  "players": [
+                    "08793",
+                    "24024"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

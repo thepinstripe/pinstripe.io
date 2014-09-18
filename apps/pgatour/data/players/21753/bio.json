@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Brian Davis",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_21753.png",
+    "country": "England",
+    "Height": "5  ft, 11  in",
+    "Weight": "185 lbs",
+    "Birthday": "08/02/1974",
+    "Turned Pro": "1994",
+    "Birthplace": "London, England"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.21753.brian-davis.html",
+    "season": "http://www.pgatour.com/players/player.21753.brian-davis.html/season",
+    "career": "http://www.pgatour.com/players/player.21753.brian-davis.html/career",
+    "statistics": "http://www.pgatour.com/players/player.21753.brian-davis.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.21753.brian-davis.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.21753.brian-davis.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.21753.brian-davis.html/profile"
+  }
+}

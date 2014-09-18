@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Andrew Svoboda",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_29425.png",
+    "country": "United States",
+    "Height": "5  ft, 9  in",
+    "Weight": "200 lbs",
+    "Birthday": "10/02/1979",
+    "College": "St. Johns University (2003, Marketing)",
+    "Turned Pro": "2004",
+    "Birthplace": "New Rochelle, New York"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.29425.andrew-svoboda.html",
+    "season": "http://www.pgatour.com/players/player.29425.andrew-svoboda.html/season",
+    "career": "http://www.pgatour.com/players/player.29425.andrew-svoboda.html/career",
+    "statistics": "http://www.pgatour.com/players/player.29425.andrew-svoboda.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.29425.andrew-svoboda.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.29425.andrew-svoboda.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.29425.andrew-svoboda.html/profile"
+  }
+}

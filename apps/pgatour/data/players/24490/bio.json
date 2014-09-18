@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "George McNeill",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_24490.png",
+    "country": "United States",
+    "Height": "6  ft, 1  in",
+    "Weight": "180 lbs",
+    "Birthday": "10/02/1975",
+    "College": "Florida State University",
+    "Turned Pro": "1998",
+    "Birthplace": "Naples, Florida"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.24490.george-mcneill.html",
+    "season": "http://www.pgatour.com/players/player.24490.george-mcneill.html/season",
+    "career": "http://www.pgatour.com/players/player.24490.george-mcneill.html/career",
+    "statistics": "http://www.pgatour.com/players/player.24490.george-mcneill.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.24490.george-mcneill.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.24490.george-mcneill.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.24490.george-mcneill.html/profile"
+  }
+}

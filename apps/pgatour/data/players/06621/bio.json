@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Joe Durant",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_06621.png",
+    "country": "United States",
+    "Height": "5  ft, 10  in",
+    "Weight": "170 lbs",
+    "Birthday": "04/07/1964",
+    "College": "Huntingdon College (1987, Marketing)",
+    "Turned Pro": "1987",
+    "Birthplace": "Pensacola, Florida"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.06621.joe-durant.html",
+    "season": "http://www.pgatour.com/players/player.06621.joe-durant.html/season",
+    "career": "http://www.pgatour.com/players/player.06621.joe-durant.html/career",
+    "statistics": "http://www.pgatour.com/players/player.06621.joe-durant.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.06621.joe-durant.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.06621.joe-durant.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.06621.joe-durant.html/profile"
+  }
+}

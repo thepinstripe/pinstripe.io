@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Bubba Watson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_25804.png",
+    "country": "United States",
+    "Height": "6  ft, 3  in",
+    "Weight": "180 lbs",
+    "Birthday": "11/05/1978",
+    "College": "Faulkner State Community College; University of Georgia (2008, Consumer Economics)",
+    "Turned Pro": "2002",
+    "Birthplace": "Bagdad, Florida"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.25804.bubba-watson.html",
+    "season": "http://www.pgatour.com/players/player.25804.bubba-watson.html/season",
+    "career": "http://www.pgatour.com/players/player.25804.bubba-watson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.25804.bubba-watson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.25804.bubba-watson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.25804.bubba-watson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.25804.bubba-watson.html/profile"
+  }
+}

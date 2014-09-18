@@ -1,0 +1,12 @@
+{
+  "name": "pgatour-prototype",
+  "dependencies": {
+    "d3": "~3.4.11",
+    "gsap": "~1.13.2",
+    "gsap-react-plugin": "~1.0.2",
+    "snap.svg": "~0.3.0",
+    "lodash": "~2.4.1",
+    "d3-tip": "~0.6.4",
+    "d3.chart": "~0.2.1"
+  }
+}

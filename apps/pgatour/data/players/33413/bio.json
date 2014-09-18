@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Ben Martin",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_33413.png",
+    "country": "United States",
+    "Height": "5  ft, 11  in",
+    "Weight": "175 lbs",
+    "Birthday": "08/26/1987",
+    "College": "Clemson University (2009, Financial Management)",
+    "Turned Pro": "2010",
+    "Birthplace": "Greenwood, South Carolina"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.33413.ben-martin.html",
+    "season": "http://www.pgatour.com/players/player.33413.ben-martin.html/season",
+    "career": "http://www.pgatour.com/players/player.33413.ben-martin.html/career",
+    "statistics": "http://www.pgatour.com/players/player.33413.ben-martin.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.33413.ben-martin.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.33413.ben-martin.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.33413.ben-martin.html/profile"
+  }
+}

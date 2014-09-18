@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Jordan Spieth",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_34046.png",
+    "country": "United States",
+    "Height": "6  ft, 1  in",
+    "Weight": "185 lbs",
+    "Birthday": "07/27/1993",
+    "College": "University of Texas",
+    "Turned Pro": "2012",
+    "Birthplace": "Dallas, Texas"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.34046.jordan-spieth.html",
+    "season": "http://www.pgatour.com/players/player.34046.jordan-spieth.html/season",
+    "career": "http://www.pgatour.com/players/player.34046.jordan-spieth.html/career",
+    "statistics": "http://www.pgatour.com/players/player.34046.jordan-spieth.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.34046.jordan-spieth.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.34046.jordan-spieth.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.34046.jordan-spieth.html/profile"
+  }
+}

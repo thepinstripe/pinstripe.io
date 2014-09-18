@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Rickie Fowler",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_32102.png",
+    "country": "United States",
+    "Height": "5  ft, 9  in",
+    "Weight": "150 lbs",
+    "Birthday": "12/13/1988",
+    "College": "Oklahoma State University",
+    "Turned Pro": "2009",
+    "Birthplace": "Murrieta, California"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.32102.rickie-fowler.html",
+    "season": "http://www.pgatour.com/players/player.32102.rickie-fowler.html/season",
+    "career": "http://www.pgatour.com/players/player.32102.rickie-fowler.html/career",
+    "statistics": "http://www.pgatour.com/players/player.32102.rickie-fowler.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.32102.rickie-fowler.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.32102.rickie-fowler.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.32102.rickie-fowler.html/profile"
+  }
+}

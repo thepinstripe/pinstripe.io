@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Ernie Els",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_06522.png",
+    "country": "South Africa",
+    "Height": "6  ft, 3  in",
+    "Weight": "210 lbs",
+    "Birthday": "10/17/1969",
+    "Turned Pro": "1989",
+    "Birthplace": "Johannesburg, South Africa"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.06522.ernie-els.html",
+    "season": "http://www.pgatour.com/players/player.06522.ernie-els.html/season",
+    "career": "http://www.pgatour.com/players/player.06522.ernie-els.html/career",
+    "statistics": "http://www.pgatour.com/players/player.06522.ernie-els.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.06522.ernie-els.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.06522.ernie-els.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.06522.ernie-els.html/profile"
+  }
+}

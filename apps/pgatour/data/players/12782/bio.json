@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Tim Herron",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_12782.png",
+    "country": "United States",
+    "Height": "5  ft, 10  in",
+    "Weight": "250 lbs",
+    "Birthday": "02/06/1970",
+    "College": "University of New Mexico",
+    "Turned Pro": "1993",
+    "Birthplace": "Minneapolis, Minnesota"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.12782.tim-herron.html",
+    "season": "http://www.pgatour.com/players/player.12782.tim-herron.html/season",
+    "career": "http://www.pgatour.com/players/player.12782.tim-herron.html/career",
+    "statistics": "http://www.pgatour.com/players/player.12782.tim-herron.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.12782.tim-herron.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.12782.tim-herron.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.12782.tim-herron.html/profile"
+  }
+}

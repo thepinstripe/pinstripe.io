@@ -1,0 +1,24 @@
+//------------------------------------------------------------------------------
+//
+//  Colour palette
+//
+//------------------------------------------------------------------------------
+
+$navy:        #16191e;
+$contrast:    #fff;
+$chrome:      #edecf1;
+$lemon:       #f1e400;
+$pear:        #c8d300;
+$spearmint:   #7dcad3;
+$peppermint:  #3bb8bb;
+
+$palette:     $navy $contrast $chrome $lemon $pear $spearmint $peppermint;
+
+//------------------------------------------------------------------------------
+//
+//  Transitions
+//
+//------------------------------------------------------------------------------
+
+$hover-transition-time: 0.3s;
+$hover-transition-easing: ease-out;

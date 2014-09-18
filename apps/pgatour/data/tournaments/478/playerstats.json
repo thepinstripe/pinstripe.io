@@ -1,0 +1,7596 @@
+{
+  "tournamentNumber": "016",
+  "tourCode": "R",
+  "players": [
+    {
+      "pid": "07867",
+      "pn": "Woody Austin",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "37273",
+      "pn": "Derek Ernst",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "27936",
+      "pn": "Martin Laird",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "29479",
+      "pn": "Scott Brown",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "20104",
+      "pn": "Ken Duke",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "28259",
+      "pn": "Sang-Moon Bae",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "32150",
+      "pn": "Michael Thompson",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "19846",
+      "pn": "Brian Gay",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "27895",
+      "pn": "Jonas Blixt",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "34360",
+      "pn": "Patrick Reed",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "34098",
+      "pn": "Russell Henley",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "26596",
+      "pn": "Ryan Moore",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "25632",
+      "pn": "Jimmy Walker",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "27933",
+      "pn": "John Merrick",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "30926",
+      "pn": "Chris Kirk",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "34099",
+      "pn": "Harris English",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "25240",
+      "pn": "D.A. Points",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "26289",
+      "pn": "Boo Weekley",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "24924",
+      "pn": "Bill Haas",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "27214",
+      "pn": "Kevin Streelman",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "25686",
+      "pn": "Jason Dufner",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "31323",
+      "pn": "Gary Woodland",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "29420",
+      "pn": "Billy Horschel",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "27649",
+      "pn": "Brandt Snedeker",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "29221",
+      "pn": "Webb Simpson",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "34046",
+      "pn": "Jordan Spieth",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "23108",
+      "pn": "Matt Kuchar",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "24024",
+      "pn": "Zach Johnson",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "24502",
+      "pn": "Adam Scott",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "30925",
+      "pn": "Dustin Johnson",
+      "stats": [
+        {
+          "statId": "106",
+          "name": "Eagles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "107",
+          "name": "Birdies",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "523",
+          "name": "Pars",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "184",
+          "name": "Bogeys",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "520",
+          "name": "Doubles",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "521",
+          "name": "Other",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "522",
+          "name": "Penalties",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "101",
+          "name": "Driving Distance Avg",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "102",
+          "name": "Fairways Hit",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10200",
+          "name": "Fairway Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "159",
+          "name": "Longest Drive",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "103",
+          "name": "GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10300",
+          "name": "GIR Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "111",
+          "name": "Sand Saves",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "11100",
+          "name": "Sand Saves Opportunities",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "104",
+          "name": "Average Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "10400",
+          "name": "Total Putts - GIR",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "119",
+          "name": "Putts Per Round",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        },
+        {
+          "statId": "02564",
+          "name": "Strokes Gained - Putting",
+          "tValue": "",
+          "rank": "",
+          "rankAll": "",
+          "rounds": [
+            {
+              "r": "1",
+              "rValue": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

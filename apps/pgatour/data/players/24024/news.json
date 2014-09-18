@@ -1,0 +1,268 @@
+[
+  {
+    "id": "8fd44141",
+    "type": "article",
+    "title": "Phil Mickelson qualifies for Ryder Cup team with PGA runner-up",
+    "description": null,
+    "link": "http://www.pgatour.com/news/2014/08/10/phil-mickelson-ryder-cup.html",
+    "image": "/content/dam/pgatour/editorial/2014/08/10/philmickelson-847-andylyons.jpg",
+    "franchise": ""
+  },
+  {
+    "id": "8cfba175",
+    "type": "article",
+    "title": "Fantasy Insider: PGA Championship",
+    "description": null,
+    "link": "http://www.pgatour.com/fantasy-insider/2014/08/06/PGA-Championship.html",
+    "image": "/content/dam/pgatour/editorial/2014/08/06/ZJohnson-847-Lecka.jpg",
+    "franchise": "Fantasy"
+  },
+  {
+    "id": "0f61c596",
+    "type": "article",
+    "title": "The Upshot: Gritty Harman joins winning ranks",
+    "description": null,
+    "link": "http://www.pgatour.com/the-upshot/2014/07/13/brian-harman-wins-john-deere-classic.html",
+    "image": "/content/dam/pgatour/editorial/2014/07/13/Harman-Upshot-Shamus.jpg",
+    "franchise": "The Upshot"
+  },
+  {
+    "id": "efff7999",
+    "type": "article",
+    "title": "Wrap-up: Harman holds on for John Deere victory",
+    "description": null,
+    "link": "http://www.pgatour.com/daily-wrapup/2014/07/13/brian-harman-wins-john-deere-classic.html",
+    "image": "/content/dam/pgatour/editorial/2014/07/13/Harman-847-GregoryShamus.jpg",
+    "franchise": ""
+  },
+  {
+    "id": "915eb87b",
+    "type": "article",
+    "title": "Wrap-up: Johnson, McGirt share 36-hole lead",
+    "description": null,
+    "link": "http://www.pgatour.com/daily-wrapup/2014/07/11/william-mcgirt-zach-johnson-lead-john-deere-classic-round2.html",
+    "image": "/content/dam/pgatour/editorial/2014/07/11/Johnson-847-GregoryShamus.jpg",
+    "franchise": "Daily Wrap-Up"
+  },
+  {
+    "id": "a868bc7d",
+    "type": "article",
+    "title": "Home sweet home: Z. Johnson back on track at John Deere",
+    "description": null,
+    "link": "http://www.pgatour.com/the-upshot/2014/07/10/zach-johnson-tied-for-lead-john-deere-classic.html",
+    "image": "/content/dam/pgatour/editorial/2014/07/10/zach-847-gregoryshamus.jpg",
+    "franchise": "The Upshot"
+  },
+  {
+    "id": "270ed5c8",
+    "type": "article",
+    "title": "Expert Picks: John Deere Classic",
+    "description": null,
+    "link": "http://www.pgatour.com/expert-picks/2014/07/08/john-deere-classic.html",
+    "image": "/content/dam/pgatour/editorial/2014/07/08/Stricker-847-ToddWarshaw.jpg",
+    "franchise": ""
+  },
+  {
+    "id": "357f1eca",
+    "type": "article",
+    "title": "What does it feel like at Augusta National?",
+    "description": null,
+    "link": "http://www.pgatour.com/news/2014/04/07/the-masters-augusta-national-how-does-it-feel.html",
+    "image": "/content/dam/pgatour/editorial/2014/04/06/adam-scott-847-harry-how.jpg",
+    "franchise": ""
+  },
+  {
+    "id": "1dba342f",
+    "type": "article",
+    "title": "Featured Groups: Cadillac Championship",
+    "description": null,
+    "link": "http://www.pgatour.com/tourreport/2014/03/04/featured-groups--cadillac-championship.html",
+    "image": "/content/dam/pgatour/editorial/2014/03/04/spieth-847.jpg",
+    "franchise": ""
+  },
+  {
+    "id": "e7d83200",
+    "type": "article",
+    "title": "A history of Accenture's No. 1 seeds",
+    "description": null,
+    "link": "http://www.pgatour.com/news/2014/02/18/a-history-of-accenture-s-no--1-seeds.html",
+    "image": "/content/dam/pgatour/editorial/2014/02/18/StensonRoryRoseZJ-847-Getty.jpg",
+    "franchise": ""
+  },
+  {
+    "id": "9ce4eb18",
+    "type": "article",
+    "title": "Johnson overwhelms Furyk down the stretch to win BMW Championship",
+    "description": null,
+    "link": "http://www.pgatour.com/news/2013/09/16/column-johnson-wins-bmw.html",
+    "franchise": ""
+  },
+  {
+    "id": "b1b50721",
+    "type": "article",
+    "title": "BMW interview: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/what-they-said/2013/09/16/bmw-zach-johnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "3e6ab83e",
+    "type": "article",
+    "title": "Daily Wrap-up: BMW Championship, Monday",
+    "description": null,
+    "link": "http://www.pgatour.com/daily-wrapup/2013/09/16/bmw-monday.html",
+    "franchise": ""
+  },
+  {
+    "id": "09628d11",
+    "type": "article",
+    "title": "BMW interview: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/what-they-said/2013/09/14/bmw-zach-johnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "b2b3ac7a",
+    "type": "article",
+    "title": "BMW Championship interview: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/what-they-said/2013/09/12/bmw-championship-interview--zach-johnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "0d91c2ef",
+    "type": "article",
+    "title": "BMW Championship interview: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/what-they-said/2013/09/11/bmw-zach-johnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "022a3811",
+    "type": "article",
+    "title": "Threat of weather adds to storyline-filled Sunday at Wyndham",
+    "description": null,
+    "link": "http://www.pgatour.com/news/2013/08/17/setup-column.html",
+    "franchise": ""
+  },
+  {
+    "id": "f38e507e",
+    "type": "article",
+    "title": "John Deere Classic interview: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/what-they-said/2013/07/14/john-deere-classic-interview--zach-johnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "2f43bd7a",
+    "type": "article",
+    "title": "John Deere Classic interview: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/what-they-said/2013/07/13/john-deere-classic-interview--zach-johnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "5fdfbb63",
+    "type": "article",
+    "title": "John Deere Classic interview: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/what-they-said/2013/07/12/jdc-johnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "a0f26a36",
+    "type": "article",
+    "title": "Daily Wrap-up: John Deere Classic, Round 2",
+    "description": null,
+    "link": "http://www.pgatour.com/daily-wrapup/2013/07/12/john-deere2.html",
+    "franchise": ""
+  },
+  {
+    "id": "9eff9d90",
+    "type": "article",
+    "title": "Daily Wrap-up: John Deere Classic, Round 1",
+    "description": null,
+    "link": "http://www.pgatour.com/daily-wrapup/2013/07/11/john-deere-first-round.html",
+    "franchise": ""
+  },
+  {
+    "id": "4659b740",
+    "type": "article",
+    "title": "John Deere Classic interview: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/what-they-said/2013/07/11/jdc-Johnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "ade6aa02",
+    "type": "article",
+    "title": "Johnson looking to go back-to-back at John Deere",
+    "description": null,
+    "link": "http://www.pgatour.com/news/2013/07/10/John-Deere-advance-ZJohnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "9146ad0e",
+    "type": "article",
+    "title": "Insider: Johnson's honesty breath of fresh air in era of cliches",
+    "description": null,
+    "link": "http://www.pgatour.com/tour-insider/2013/07/10/zach-johnson-honesty-breath-of-fresh-air.html",
+    "franchise": ""
+  },
+  {
+    "id": "81d0d7b9",
+    "type": "article",
+    "title": "Monday Backspin: Kuchar warming up",
+    "description": null,
+    "link": "http://www.pgatour.com/monday-backspin/2013/05/27/backspin-kuchar-heating-up.html",
+    "franchise": "Monday Backspin"
+  },
+  {
+    "id": "678ec617",
+    "type": "article",
+    "title": "Crowne Plaza Inv. at Colonial interview: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/what-they-said/2013/05/26/crowne-plaza-inv--at-colonial-interview--zach-johnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "324b5620",
+    "type": "article",
+    "title": "Crowne Plaza Inv. interview: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/what-they-said/2013/05/25/crowne-plaza-inv--interview--zach-johnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "7a166535",
+    "type": "article",
+    "title": "Z. Johnson finds perfect match for his game at Colonial",
+    "description": null,
+    "link": "http://www.pgatour.com/news/2013/05/22/Crowne-Plaza-advance-McAllister.html",
+    "franchise": ""
+  },
+  {
+    "id": "418b79cd",
+    "type": "article",
+    "title": "FedExCup spotlight: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/fedexcup/2013/05/22/spotlight-zjohnson.html",
+    "franchise": "FedExCup"
+  },
+  {
+    "id": "54895732",
+    "type": "article",
+    "title": "Humana Challenge interview: Zach Johnson",
+    "description": null,
+    "link": "http://www.pgatour.com/what-they-said/2013/01/18/humana-challenge-interview--zach-johnson.html",
+    "franchise": ""
+  },
+  {
+    "id": "544484da",
+    "type": "article",
+    "title": "Snedeker, Dufner, Z. Johnson, Mahan commit",
+    "description": null,
+    "link": "http://www.pgatour.com/news/2012/12/18/snedeker--dufner--z--johnson--mahan-commit.html",
+    "franchise": ""
+  }
+]

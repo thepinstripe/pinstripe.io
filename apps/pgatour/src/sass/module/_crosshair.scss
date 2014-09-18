@@ -1,0 +1,9 @@
+.crosshair {
+  @include transition($hover-transition-time $hover-transition-easing fill);
+  pointer-events: none;
+
+  line {
+    @extend .stroke--peppermint;
+    opacity: 0.3;
+  }
+}

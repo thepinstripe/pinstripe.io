@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Patrick Reed",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_34360.png",
+    "country": "United States",
+    "Height": "6  ft, 0  in",
+    "Weight": "200 lbs",
+    "Birthday": "08/05/1990",
+    "College": "Augusta State University",
+    "Turned Pro": "2011",
+    "Birthplace": "San Antonio, Texas"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.34360.patrick-reed.html",
+    "season": "http://www.pgatour.com/players/player.34360.patrick-reed.html/season",
+    "career": "http://www.pgatour.com/players/player.34360.patrick-reed.html/career",
+    "statistics": "http://www.pgatour.com/players/player.34360.patrick-reed.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.34360.patrick-reed.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.34360.patrick-reed.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.34360.patrick-reed.html/profile"
+  }
+}

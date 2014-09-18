@@ -1,0 +1,7623 @@
+{
+  "msgId": "122423",
+  "updated": {
+    "dateYYYY": "2013",
+    "dateMM": "11",
+    "dateDD": "17",
+    "timeHH": "17",
+    "timeMM": "25",
+    "timeSS": "44"
+  },
+  "event": {
+    "year": "2014",
+    "tour": "TOR",
+    "permNum": "457",
+    "type": "TOR",
+    "tz": "CT",
+    "detailtz": "America/Chicago",
+    "fieldSize": "132",
+    "totalRnds": "4",
+    "currentRnd": "4",
+    "name": "OHL Classic at Mayakoba",
+    "cup": {
+      "inCup": "y",
+      "totalPoints": "3513",
+      "winnerShare": "500"
+    },
+    "money": {
+      "totalPurse": "6000000",
+      "winnerShare": "1080000"
+    },
+    "history": {
+      "champion": "",
+      "championId": "00000",
+      "championScore": "E",
+      "record": "E"
+    },
+    "dataSet": {
+      "walkingScorers": "y",
+      "lasers": "y",
+      "fedExCup": "y"
+    }
+  },
+  "courseInfos": [
+    {
+      "id": "733",
+      "code": "EC",
+      "name": "El Camaleon",
+      "host": "y",
+      "parFront": "36",
+      "parBack": "35",
+      "parTotal": "71",
+      "sigHole": "00",
+      "record": "0"
+    }
+  ],
+  "field": [
+    {
+      "id": "25900",
+      "name": {
+        "last": "Glover",
+        "first": "Lucas",
+        "leader": "GLOVER",
+        "freeze": "GLOVER"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "34430",
+        "ytdRank": "125",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "33",
+        "ytdRank": "120",
+        "ytdRankTied": "y",
+        "ytdTrailing": "651"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Sea Island, GA"
+      }
+    },
+    {
+      "id": "24663",
+      "name": {
+        "last": "Yang",
+        "first": "Y.E.",
+        "leader": "YANG",
+        "freeze": "YANG"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "36582",
+        "ytdRank": "120",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "36",
+        "ytdRank": "115",
+        "ytdRankTied": "n",
+        "ytdTrailing": "648"
+      },
+      "info": {
+        "country": "KOR",
+        "countryOfBirth": "KOR",
+        "hometown": "Jeju Island, South Korea"
+      }
+    },
+    {
+      "id": "23135",
+      "name": {
+        "last": "Clark",
+        "first": "Tim",
+        "leader": "CLARK",
+        "freeze": "CLARK"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "538050",
+        "ytdRank": "12",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "285",
+        "ytdRank": "11",
+        "ytdRankTied": "n",
+        "ytdTrailing": "399"
+      },
+      "info": {
+        "country": "UNX",
+        "countryOfBirth": "RSA",
+        "hometown": "South Africa, Unknown"
+      }
+    },
+    {
+      "id": "19825",
+      "name": {
+        "last": "Clarke",
+        "first": "Darren",
+        "leader": "CLARKE",
+        "freeze": "CLARKE"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "11385",
+        "ytdRank": "164",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "5",
+        "ytdRank": "164",
+        "ytdRankTied": "n",
+        "ytdTrailing": "679"
+      },
+      "info": {
+        "country": "NIR",
+        "countryOfBirth": "NIR",
+        "hometown": "Portrush, Northern Ireland"
+      }
+    },
+    {
+      "id": "29479",
+      "name": {
+        "last": "Brown",
+        "first": "Scott",
+        "leader": "BROWN",
+        "freeze": "BROWN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "481053",
+        "ytdRank": "15",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "250",
+        "ytdRank": "14",
+        "ytdRankTied": "n",
+        "ytdTrailing": "434"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Aiken, SC"
+      }
+    },
+    {
+      "id": "22621",
+      "name": {
+        "last": "Curtis",
+        "first": "Ben",
+        "leader": "CURTIS",
+        "freeze": "CURTIS"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "47095",
+        "ytdRank": "111",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "59",
+        "ytdRank": "89",
+        "ytdRankTied": "y",
+        "ytdTrailing": "625"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Kent, OH"
+      }
+    },
+    {
+      "id": "34099",
+      "name": {
+        "last": "English",
+        "first": "Harris",
+        "leader": "ENGLISH",
+        "freeze": "ENGLISH"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "281817",
+        "ytdRank": "27",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "157",
+        "ytdRank": "24",
+        "ytdRankTied": "n",
+        "ytdTrailing": "527"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Sea Island, GA"
+      }
+    },
+    {
+      "id": "37273",
+      "name": {
+        "last": "Ernst",
+        "first": "Derek",
+        "leader": "ERNST",
+        "freeze": "ERNST"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "44250",
+        "ytdRank": "116",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "10",
+        "ytdRank": "156",
+        "ytdRankTied": "y",
+        "ytdTrailing": "674"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Las Vegas, NV"
+      }
+    },
+    {
+      "id": "30750",
+      "name": {
+        "last": "Gainey",
+        "first": "Tommy",
+        "leader": "GAINEY",
+        "freeze": "GAINEY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Bishopville, SC"
+      }
+    },
+    {
+      "id": "19846",
+      "name": {
+        "last": "Gay",
+        "first": "Brian",
+        "leader": "GAY",
+        "freeze": "GAY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "298057",
+        "ytdRank": "25",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "160",
+        "ytdRank": "23",
+        "ytdRankTied": "n",
+        "ytdTrailing": "524"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Windermere, FL"
+      }
+    },
+    {
+      "id": "23353",
+      "name": {
+        "last": "Henry",
+        "first": "J.J.",
+        "leader": "HENRY",
+        "freeze": "HENRY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "175821",
+        "ytdRank": "48",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "126",
+        "ytdRank": "36",
+        "ytdRankTied": "n",
+        "ytdTrailing": "558"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Ft. Worth, TX"
+      }
+    },
+    {
+      "id": "34174",
+      "name": {
+        "last": "Huh",
+        "first": "John",
+        "leader": "HUH",
+        "freeze": "HUH"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "62358",
+        "ytdRank": "101",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "54",
+        "ytdRank": "95",
+        "ytdRankTied": "y",
+        "ytdTrailing": "630"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Dallas, TX"
+      }
+    },
+    {
+      "id": "24490",
+      "name": {
+        "last": "McNeill",
+        "first": "George",
+        "leader": "MCNEILL",
+        "freeze": "MCNEILL"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "226890",
+        "ytdRank": "35",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "143",
+        "ytdRank": "31",
+        "ytdRankTied": "n",
+        "ytdTrailing": "541"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Ft. Myers, FL"
+      }
+    },
+    {
+      "id": "26596",
+      "name": {
+        "last": "Moore",
+        "first": "Ryan",
+        "leader": "MOORE",
+        "freeze": "MOORE"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "1471000",
+        "ytdRank": "1",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "594",
+        "ytdRank": "2",
+        "ytdRankTied": "n",
+        "ytdTrailing": "90"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Las Vegas, NV"
+      }
+    },
+    {
+      "id": "25818",
+      "name": {
+        "last": "Piercy",
+        "first": "Scott",
+        "leader": "PIERCY",
+        "freeze": "PIERCY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "86815",
+        "ytdRank": "83",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "53",
+        "ytdRank": "98",
+        "ytdRankTied": "y",
+        "ytdTrailing": "631"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Las Vegas, NV"
+      }
+    },
+    {
+      "id": "30692",
+      "name": {
+        "last": "Stallings",
+        "first": "Scott",
+        "leader": "STALLINGS",
+        "freeze": "STALLIN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "18223",
+        "ytdRank": "147",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "22",
+        "ytdRank": "136",
+        "ytdRankTied": "n",
+        "ytdTrailing": "662"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Oak Ridge, TN"
+      }
+    },
+    {
+      "id": "30110",
+      "name": {
+        "last": "Stanley",
+        "first": "Kyle",
+        "leader": "STANLEY",
+        "freeze": "STANLEY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "120077",
+        "ytdRank": "64",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "98",
+        "ytdRank": "51",
+        "ytdRankTied": "n",
+        "ytdTrailing": "586"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Seattle, WA"
+      }
+    },
+    {
+      "id": "26951",
+      "name": {
+        "last": "Wagner",
+        "first": "Johnson",
+        "leader": "WAGNER",
+        "freeze": "WAGNER"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "11050",
+        "ytdRank": "166",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "12",
+        "ytdRank": "155",
+        "ytdRankTied": "n",
+        "ytdTrailing": "672"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Charlotte, NC"
+      }
+    },
+    {
+      "id": "21878",
+      "name": {
+        "last": "Wilson",
+        "first": "Mark",
+        "leader": "WILSON M",
+        "freeze": "WILSN M"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "13671",
+        "ytdRank": "155",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "20",
+        "ytdRank": "138",
+        "ytdRankTied": "y",
+        "ytdTrailing": "664"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Chicago, IL"
+      }
+    },
+    {
+      "id": "10885",
+      "name": {
+        "last": "Allenby",
+        "first": "Robert",
+        "leader": "ALLENBY",
+        "freeze": "ALLENBY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "10500",
+        "ytdRank": "169",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "6",
+        "ytdRank": "160",
+        "ytdRankTied": "y",
+        "ytdTrailing": "678"
+      },
+      "info": {
+        "country": "AUS",
+        "countryOfBirth": "AUS",
+        "hometown": "Melbourne, Australia"
+      }
+    },
+    {
+      "id": "06004",
+      "name": {
+        "last": "Ames",
+        "first": "Stephen",
+        "leader": "AMES",
+        "freeze": "AMES"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "15264",
+        "ytdRank": "149",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "21",
+        "ytdRank": "137",
+        "ytdRankTied": "n",
+        "ytdTrailing": "663"
+      },
+      "info": {
+        "country": "CAN",
+        "countryOfBirth": "CAN",
+        "hometown": "Calgary, AB, Canada"
+      }
+    },
+    {
+      "id": "01161",
+      "name": {
+        "last": "Calcavecchia",
+        "first": "Mark",
+        "leader": "CALCAVECC",
+        "freeze": "CALCAVE"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Tequesta, FL"
+      }
+    },
+    {
+      "id": "01381",
+      "name": {
+        "last": "Funk",
+        "first": "Fred",
+        "leader": "FUNK",
+        "freeze": "FUNK"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Ponte Vedra Beach, FL"
+      }
+    },
+    {
+      "id": "02239",
+      "name": {
+        "last": "Verplank",
+        "first": "Scott",
+        "leader": "VERPLANK",
+        "freeze": "VERPLAN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Edmond, OK"
+      }
+    },
+    {
+      "id": "10423",
+      "name": {
+        "last": "Weir",
+        "first": "Mike",
+        "leader": "WEIR",
+        "freeze": "WEIR"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "22820",
+        "ytdRank": "142",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "19",
+        "ytdRank": "141",
+        "ytdRankTied": "n",
+        "ytdTrailing": "665"
+      },
+      "info": {
+        "country": "CAN",
+        "countryOfBirth": "CAN",
+        "hometown": "Brights Grv, ON, Canada"
+      }
+    },
+    {
+      "id": "28093",
+      "name": {
+        "last": "Carballo",
+        "first": "Miguel Angel",
+        "leader": "CARBALLO",
+        "freeze": "CARBALL"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "ARG",
+        "countryOfBirth": "ARG",
+        "hometown": "Buenos Aires, Argentina"
+      }
+    },
+    {
+      "id": "32333",
+      "name": {
+        "last": "Tway",
+        "first": "Kevin",
+        "leader": "TWAY",
+        "freeze": "TWAY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "19000",
+        "ytdRank": "146",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "29",
+        "ytdRank": "128",
+        "ytdRankTied": "n",
+        "ytdTrailing": "655"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Edmond, OK"
+      }
+    },
+    {
+      "id": "21949",
+      "name": {
+        "last": "Ogilvie",
+        "first": "Joe",
+        "leader": "OGILVIE",
+        "freeze": "OGILVIE"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Austin, TX"
+      }
+    },
+    {
+      "id": "10213",
+      "name": {
+        "last": "Pride",
+        "first": "Dicky",
+        "leader": "PRIDE",
+        "freeze": "PRIDE"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Tuscaloosa, AL"
+      }
+    },
+    {
+      "id": "09011",
+      "name": {
+        "last": "Duval",
+        "first": "David",
+        "leader": "DUVAL",
+        "freeze": "DUVAL"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Denver, CO"
+      }
+    },
+    {
+      "id": "36689",
+      "name": {
+        "last": "Koepka",
+        "first": "Brooks",
+        "leader": "KOEPKA",
+        "freeze": "KOEPKA"
+      },
+      "status": {
+        "member": "n",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "",
+        "ytdRankTied": ""
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "",
+        "ytdRankTied": "",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Tallahassee, FL"
+      }
+    },
+    {
+      "id": "32215",
+      "name": {
+        "last": "Garcia Pinto",
+        "first": "Jordi",
+        "leader": "PINTO",
+        "freeze": "PINTO"
+      },
+      "status": {
+        "member": "n",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "",
+        "ytdRankTied": ""
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "",
+        "ytdRankTied": "",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "UNX",
+        "countryOfBirth": "ESP",
+        "hometown": "Spain, Unknown"
+      }
+    },
+    {
+      "id": "27072",
+      "name": {
+        "last": "Quiros",
+        "first": "Alvaro",
+        "leader": "QUIROS",
+        "freeze": "QUIROS"
+      },
+      "status": {
+        "member": "n",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "",
+        "ytdRankTied": ""
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "",
+        "ytdRankTied": "",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "ESP",
+        "countryOfBirth": "ESP",
+        "hometown": "Cadiz, Spain"
+      }
+    },
+    {
+      "id": "35376",
+      "name": {
+        "last": "Diaz",
+        "first": "Roberto",
+        "leader": "DIAZ",
+        "freeze": "DIAZ"
+      },
+      "status": {
+        "member": "n",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "",
+        "ytdRankTied": ""
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "",
+        "ytdRankTied": "",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "UNX",
+        "countryOfBirth": "MEX",
+        "hometown": "Mexico, Unknown"
+      }
+    },
+    {
+      "id": "30736",
+      "name": {
+        "last": "Fraustro",
+        "first": "Oscar",
+        "leader": "FRAUSTRO",
+        "freeze": "FRAUSTR"
+      },
+      "status": {
+        "member": "n",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "",
+        "ytdRankTied": ""
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "",
+        "ytdRankTied": "",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "UNX",
+        "countryOfBirth": "MEX",
+        "hometown": "Mexico, Unknown"
+      }
+    },
+    {
+      "id": "32058",
+      "name": {
+        "last": "Rodriguez",
+        "first": "Jose de Jesus",
+        "leader": "RODRIGUEZ",
+        "freeze": "RODRIGU"
+      },
+      "status": {
+        "member": "n",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "",
+        "ytdRankTied": ""
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "",
+        "ytdRankTied": "",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "UNX",
+        "countryOfBirth": "MEX",
+        "hometown": "Mexico, Unknown"
+      }
+    },
+    {
+      "id": "06078",
+      "name": {
+        "last": "Toledo",
+        "first": "Esteban",
+        "leader": "TOLEDO",
+        "freeze": "TOLEDO"
+      },
+      "status": {
+        "member": "n",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "",
+        "ytdRankTied": ""
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "",
+        "ytdRankTied": "",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "UNX",
+        "countryOfBirth": "MEX",
+        "hometown": "Mexico, Unknown"
+      }
+    },
+    {
+      "id": "01761",
+      "name": {
+        "last": "Mattiace",
+        "first": "Len",
+        "leader": "MATTIACE",
+        "freeze": "MATTIAC"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Jacksonville, FL"
+      }
+    },
+    {
+      "id": "27171",
+      "name": {
+        "last": "McLuen",
+        "first": "Jay",
+        "leader": "MCLUEN",
+        "freeze": "MCLUEN"
+      },
+      "status": {
+        "member": "n",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "",
+        "ytdRankTied": ""
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "",
+        "ytdRankTied": "",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Forsyth, GA"
+      }
+    },
+    {
+      "id": "01948",
+      "name": {
+        "last": "Petrovic",
+        "first": "Tim",
+        "leader": "PETROVIC",
+        "freeze": "PETROVC"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Austin, TX"
+      }
+    },
+    {
+      "id": "23497",
+      "name": {
+        "last": "Ridings",
+        "first": "Tag",
+        "leader": "RIDINGS",
+        "freeze": "RIDINGS"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Keller, TX"
+      }
+    },
+    {
+      "id": "12652",
+      "name": {
+        "last": "Beckman",
+        "first": "Cameron",
+        "leader": "BECKMAN",
+        "freeze": "BECKMAN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "San Antonio, TX"
+      }
+    },
+    {
+      "id": "01706",
+      "name": {
+        "last": "Love III",
+        "first": "Davis",
+        "leader": "LOVE III",
+        "freeze": "LOVE II"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "23340",
+        "ytdRank": "139",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "14",
+        "ytdRank": "148",
+        "ytdRankTied": "y",
+        "ytdTrailing": "670"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Sea Island, GA"
+      }
+    },
+    {
+      "id": "26300",
+      "name": {
+        "last": "Jones",
+        "first": "Matt",
+        "leader": "JONES",
+        "freeze": "JONES"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "28000",
+        "ytdRank": "129",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "30",
+        "ytdRank": "124",
+        "ytdRankTied": "y",
+        "ytdTrailing": "654"
+      },
+      "info": {
+        "country": "AUS",
+        "countryOfBirth": "AUS",
+        "hometown": "Sydney, Australia"
+      }
+    },
+    {
+      "id": "26679",
+      "name": {
+        "last": "Stadler",
+        "first": "Kevin",
+        "leader": "STADLER",
+        "freeze": "STADLER"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "240267",
+        "ytdRank": "30",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "152",
+        "ytdRank": "29",
+        "ytdRankTied": "n",
+        "ytdTrailing": "532"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Denver, CO"
+      }
+    },
+    {
+      "id": "21961",
+      "name": {
+        "last": "Howell III",
+        "first": "Charles",
+        "leader": "HOWELL",
+        "freeze": "HOWELL"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "493824",
+        "ytdRank": "14",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "258",
+        "ytdRank": "13",
+        "ytdRankTied": "n",
+        "ytdTrailing": "426"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Orlando, FL"
+      }
+    },
+    {
+      "id": "25834",
+      "name": {
+        "last": "Summerhays",
+        "first": "Daniel",
+        "leader": "SUMMERHAY",
+        "freeze": "SUMMERH"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "210224",
+        "ytdRank": "40",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "153",
+        "ytdRank": "27",
+        "ytdRankTied": "n",
+        "ytdTrailing": "531"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Farmington, UT"
+      }
+    },
+    {
+      "id": "27963",
+      "name": {
+        "last": "Stroud",
+        "first": "Chris",
+        "leader": "STROUD",
+        "freeze": "STROUD"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "406000",
+        "ytdRank": "18",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "163",
+        "ytdRank": "22",
+        "ytdRankTied": "n",
+        "ytdTrailing": "521"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Houston, TX"
+      }
+    },
+    {
+      "id": "23621",
+      "name": {
+        "last": "Sabbatini",
+        "first": "Rory",
+        "leader": "SABBATINI",
+        "freeze": "SABBATI"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "26853",
+        "ytdRank": "132",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "15",
+        "ytdRank": "146",
+        "ytdRankTied": "n",
+        "ytdTrailing": "669"
+      },
+      "info": {
+        "country": "RSA",
+        "countryOfBirth": "RSA",
+        "hometown": "Durban, South Africa"
+      }
+    },
+    {
+      "id": "21753",
+      "name": {
+        "last": "Davis",
+        "first": "Brian",
+        "leader": "DAVIS",
+        "freeze": "DAVIS"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "92487",
+        "ytdRank": "80",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "82",
+        "ytdRank": "67",
+        "ytdRankTied": "n",
+        "ytdTrailing": "602"
+      },
+      "info": {
+        "country": "ENG",
+        "countryOfBirth": "ENG",
+        "hometown": "London, England"
+      }
+    },
+    {
+      "id": "28307",
+      "name": {
+        "last": "Every",
+        "first": "Matt",
+        "leader": "EVERY",
+        "freeze": "EVERY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "189640",
+        "ytdRank": "45",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "107",
+        "ytdRank": "45",
+        "ytdRankTied": "n",
+        "ytdTrailing": "577"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Jacksonville Bch., FL"
+      }
+    },
+    {
+      "id": "12716",
+      "name": {
+        "last": "Hoffman",
+        "first": "Charley",
+        "leader": "HOFFMAN",
+        "freeze": "HOFFMAN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "356708",
+        "ytdRank": "19",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "197",
+        "ytdRank": "17",
+        "ytdRankTied": "n",
+        "ytdTrailing": "487"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Las Vegas, NV"
+      }
+    },
+    {
+      "id": "29518",
+      "name": {
+        "last": "Steele",
+        "first": "Brendan",
+        "leader": "STEELE",
+        "freeze": "STEELE"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "66753",
+        "ytdRank": "98",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "56",
+        "ytdRank": "93",
+        "ytdRankTied": "n",
+        "ytdTrailing": "628"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Idyllwild, CA"
+      }
+    },
+    {
+      "id": "23320",
+      "name": {
+        "last": "Palmer",
+        "first": "Ryan",
+        "leader": "PALMER",
+        "freeze": "PALMER"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "15908",
+        "ytdRank": "148",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "15",
+        "ytdRank": "147",
+        "ytdRankTied": "n",
+        "ytdTrailing": "669"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Amarillo, TX"
+      }
+    },
+    {
+      "id": "21731",
+      "name": {
+        "last": "Jacobson",
+        "first": "Freddie",
+        "leader": "JACOBSON",
+        "freeze": "JACOBSO"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "162000",
+        "ytdRank": "51",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "75",
+        "ytdRank": "73",
+        "ytdRankTied": "n",
+        "ytdTrailing": "609"
+      },
+      "info": {
+        "country": "SWE",
+        "countryOfBirth": "SWE",
+        "hometown": "Gothenburg, Sweden"
+      }
+    },
+    {
+      "id": "34409",
+      "name": {
+        "last": "Lingmerth",
+        "first": "David",
+        "leader": "LINGMERTH",
+        "freeze": "LINGMER"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "14630",
+        "ytdRank": "151",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "6",
+        "ytdRank": "162",
+        "ytdRankTied": "n",
+        "ytdTrailing": "678"
+      },
+      "info": {
+        "country": "SWE",
+        "countryOfBirth": "SWE",
+        "hometown": "Tranas, Sweden"
+      }
+    },
+    {
+      "id": "27330",
+      "name": {
+        "last": "Teater",
+        "first": "Josh",
+        "leader": "TEATER",
+        "freeze": "TEATER"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "39674",
+        "ytdRank": "119",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "33",
+        "ytdRank": "120",
+        "ytdRankTied": "y",
+        "ytdTrailing": "651"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Lexington, KY"
+      }
+    },
+    {
+      "id": "33419",
+      "name": {
+        "last": "Tringale",
+        "first": "Cameron",
+        "leader": "TRINGALE",
+        "freeze": "TRINGAL"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "72430",
+        "ytdRank": "94",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "69",
+        "ytdRank": "75",
+        "ytdRankTied": "n",
+        "ytdTrailing": "615"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Laguna Niguel, CA"
+      }
+    },
+    {
+      "id": "22913",
+      "name": {
+        "last": "Rollins",
+        "first": "John",
+        "leader": "ROLLINS",
+        "freeze": "ROLLINS"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "58641",
+        "ytdRank": "102",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "61",
+        "ytdRank": "86",
+        "ytdRankTied": "n",
+        "ytdTrailing": "623"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Dallas, TX"
+      }
+    },
+    {
+      "id": "27770",
+      "name": {
+        "last": "Villegas",
+        "first": "Camilo",
+        "leader": "VILLEGAS",
+        "freeze": "VILLEGA"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "78400",
+        "ytdRank": "89",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "96",
+        "ytdRank": "54",
+        "ytdRankTied": "n",
+        "ytdTrailing": "588"
+      },
+      "info": {
+        "country": "COL",
+        "countryOfBirth": "COL",
+        "hometown": "Medellin, Colombia"
+      }
+    },
+    {
+      "id": "01320",
+      "name": {
+        "last": "Estes",
+        "first": "Bob",
+        "leader": "ESTES",
+        "freeze": "ESTES"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Austin, TX"
+      }
+    },
+    {
+      "id": "08075",
+      "name": {
+        "last": "Kelly",
+        "first": "Jerry",
+        "leader": "KELLY",
+        "freeze": "KELLY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "93200",
+        "ytdRank": "79",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "64",
+        "ytdRank": "83",
+        "ytdRankTied": "n",
+        "ytdTrailing": "620"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Madison, WI"
+      }
+    },
+    {
+      "id": "10860",
+      "name": {
+        "last": "Leonard",
+        "first": "Justin",
+        "leader": "LEONARD",
+        "freeze": "LEONARD"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "20485",
+        "ytdRank": "144",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "5",
+        "ytdRank": "163",
+        "ytdRankTied": "n",
+        "ytdTrailing": "679"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Dallas, TX"
+      }
+    },
+    {
+      "id": "28500",
+      "name": {
+        "last": "Flores",
+        "first": "Martin",
+        "leader": "FLORES",
+        "freeze": "FLORES"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "25760",
+        "ytdRank": "134",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "14",
+        "ytdRank": "151",
+        "ytdRankTied": "n",
+        "ytdTrailing": "670"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Dallas, TX"
+      }
+    },
+    {
+      "id": "35539",
+      "name": {
+        "last": "Guthrie",
+        "first": "Luke",
+        "leader": "GUTHRIE",
+        "freeze": "GUTHRIE"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "229750",
+        "ytdRank": "34",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "125",
+        "ytdRank": "37",
+        "ytdRankTied": "n",
+        "ytdTrailing": "559"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Quincy, IL"
+      }
+    },
+    {
+      "id": "24358",
+      "name": {
+        "last": "Garrigus",
+        "first": "Robert",
+        "leader": "GARRIGUS",
+        "freeze": "GARRIGU"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "207450",
+        "ytdRank": "43",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "153",
+        "ytdRank": "28",
+        "ytdRankTied": "n",
+        "ytdTrailing": "531"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Scottsdale, AZ"
+      }
+    },
+    {
+      "id": "31560",
+      "name": {
+        "last": "Stuard",
+        "first": "Brian",
+        "leader": "STUARD",
+        "freeze": "STUARD"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "98200",
+        "ytdRank": "74",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "64",
+        "ytdRank": "82",
+        "ytdRankTied": "n",
+        "ytdTrailing": "620"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Jackson, MI"
+      }
+    },
+    {
+      "id": "27644",
+      "name": {
+        "last": "Harman",
+        "first": "Brian",
+        "leader": "HARMAN",
+        "freeze": "HARMAN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "298431",
+        "ytdRank": "24",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "172",
+        "ytdRank": "21",
+        "ytdRankTied": "n",
+        "ytdTrailing": "512"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "St Simons Island, GA"
+      }
+    },
+    {
+      "id": "20098",
+      "name": {
+        "last": "Appleby",
+        "first": "Stuart",
+        "leader": "APPLEBY",
+        "freeze": "APPLEBY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "79869",
+        "ytdRank": "88",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "80",
+        "ytdRank": "68",
+        "ytdRankTied": "n",
+        "ytdTrailing": "604"
+      },
+      "info": {
+        "country": "AUS",
+        "countryOfBirth": "AUS",
+        "hometown": "Cohuna, Australia"
+      }
+    },
+    {
+      "id": "35139",
+      "name": {
+        "last": "Lee",
+        "first": "Richard H.",
+        "leader": "LEE",
+        "freeze": "LEE"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "54310",
+        "ytdRank": "106",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "60",
+        "ytdRank": "87",
+        "ytdRankTied": "n",
+        "ytdTrailing": "624"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Bellevue, WA"
+      }
+    },
+    {
+      "id": "20593",
+      "name": {
+        "last": "Chalmers",
+        "first": "Greg",
+        "leader": "CHALMERS",
+        "freeze": "CHALMER"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "209067",
+        "ytdRank": "42",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "116",
+        "ytdRank": "42",
+        "ytdRankTied": "n",
+        "ytdTrailing": "568"
+      },
+      "info": {
+        "country": "AUS",
+        "countryOfBirth": "AUS",
+        "hometown": "Sydney, Australia"
+      }
+    },
+    {
+      "id": "24361",
+      "name": {
+        "last": "Perez",
+        "first": "Pat",
+        "leader": "PEREZ",
+        "freeze": "PEREZ"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "24721",
+        "ytdRank": "136",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "32",
+        "ytdRank": "122",
+        "ytdRankTied": "n",
+        "ytdTrailing": "652"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Scottsdale, AZ"
+      }
+    },
+    {
+      "id": "24494",
+      "name": {
+        "last": "Compton",
+        "first": "Erik",
+        "leader": "COMPTON",
+        "freeze": "COMPTON"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "11715",
+        "ytdRank": "163",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "8",
+        "ytdRank": "159",
+        "ytdRankTied": "n",
+        "ytdTrailing": "676"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Coral Gables, FL"
+      }
+    },
+    {
+      "id": "31202",
+      "name": {
+        "last": "McGirt",
+        "first": "William",
+        "leader": "MCGIRT",
+        "freeze": "MCGIRT"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "43500",
+        "ytdRank": "117",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "43",
+        "ytdRank": "109",
+        "ytdRankTied": "n",
+        "ytdTrailing": "641"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Boiling Springs, SC"
+      }
+    },
+    {
+      "id": "23409",
+      "name": {
+        "last": "Driscoll",
+        "first": "James",
+        "leader": "DRISCOLL",
+        "freeze": "DRISCOL"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "95500",
+        "ytdRank": "75",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "91",
+        "ytdRank": "58",
+        "ytdRankTied": "y",
+        "ytdTrailing": "593"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Boston, MA"
+      }
+    },
+    {
+      "id": "28475",
+      "name": {
+        "last": "Overton",
+        "first": "Jeff",
+        "leader": "OVERTON",
+        "freeze": "OVERTON"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "349000",
+        "ytdRank": "20",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "182",
+        "ytdRank": "19",
+        "ytdRankTied": "n",
+        "ytdTrailing": "502"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Evansville, IN"
+      }
+    },
+    {
+      "id": "20645",
+      "name": {
+        "last": "Senden",
+        "first": "John",
+        "leader": "SENDEN",
+        "freeze": "SENDEN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "241223",
+        "ytdRank": "29",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "132",
+        "ytdRank": "34",
+        "ytdRankTied": "n",
+        "ytdTrailing": "552"
+      },
+      "info": {
+        "country": "AUS",
+        "countryOfBirth": "AUS",
+        "hometown": "Brisbane, Australia"
+      }
+    },
+    {
+      "id": "32448",
+      "name": {
+        "last": "Hahn",
+        "first": "James",
+        "leader": "HAHN",
+        "freeze": "HAHN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "13671",
+        "ytdRank": "155",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "20",
+        "ytdRank": "138",
+        "ytdRankTied": "y",
+        "ytdTrailing": "664"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Alameda, CA"
+      }
+    },
+    {
+      "id": "24507",
+      "name": {
+        "last": "Bohn",
+        "first": "Jason",
+        "leader": "BOHN",
+        "freeze": "BOHN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "547000",
+        "ytdRank": "11",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "274",
+        "ytdRank": "12",
+        "ytdRankTied": "n",
+        "ytdTrailing": "410"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Acworth, GA"
+      }
+    },
+    {
+      "id": "01724",
+      "name": {
+        "last": "Maggert",
+        "first": "Jeff",
+        "leader": "MAGGERT",
+        "freeze": "MAGGERT"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "9000",
+        "ytdRank": "174",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "1",
+        "ytdRank": "174",
+        "ytdRankTied": "n",
+        "ytdTrailing": "683"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Houston, TX"
+      }
+    },
+    {
+      "id": "25444",
+      "name": {
+        "last": "Hicks",
+        "first": "Justin",
+        "leader": "HICKS",
+        "freeze": "HICKS"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "94800",
+        "ytdRank": "76",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "79",
+        "ytdRank": "69",
+        "ytdRankTied": "n",
+        "ytdTrailing": "605"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "West Palm Beach, FL"
+      }
+    },
+    {
+      "id": "33461",
+      "name": {
+        "last": "Hoffmann",
+        "first": "Morgan",
+        "leader": "HOFFMANN",
+        "freeze": "HFFMANN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "33660",
+        "ytdRank": "126",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "49",
+        "ytdRank": "105",
+        "ytdRankTied": "n",
+        "ytdTrailing": "635"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Wyckoff, NJ"
+      }
+    },
+    {
+      "id": "28092",
+      "name": {
+        "last": "Lee",
+        "first": "D.H.",
+        "leader": "LEE DH",
+        "freeze": "LEE DH"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "10945",
+        "ytdRank": "167",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "1",
+        "ytdRank": "169",
+        "ytdRankTied": "n",
+        "ytdTrailing": "683"
+      },
+      "info": {
+        "country": "KOR",
+        "countryOfBirth": "KOR",
+        "hometown": "Seoul, South Korea"
+      }
+    },
+    {
+      "id": "25562",
+      "name": {
+        "last": "Romero",
+        "first": "Andres",
+        "leader": "ROMERO",
+        "freeze": "ROMERO"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "11110",
+        "ytdRank": "165",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "2",
+        "ytdRank": "167",
+        "ytdRankTied": "n",
+        "ytdTrailing": "682"
+      },
+      "info": {
+        "country": "ARG",
+        "countryOfBirth": "ARG",
+        "hometown": "Tucuman, Argentina"
+      }
+    },
+    {
+      "id": "34261",
+      "name": {
+        "last": "Langley",
+        "first": "Scott",
+        "leader": "LANGLEY",
+        "freeze": "LANGLEY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "63850",
+        "ytdRank": "100",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "59",
+        "ytdRank": "89",
+        "ytdRankTied": "y",
+        "ytdTrailing": "625"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Jupiter, FL"
+      }
+    },
+    {
+      "id": "25274",
+      "name": {
+        "last": "Bowditch",
+        "first": "Steven",
+        "leader": "BOWDITCH",
+        "freeze": "BOWDITC"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "11880",
+        "ytdRank": "159",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "9",
+        "ytdRank": "158",
+        "ytdRankTied": "n",
+        "ytdTrailing": "675"
+      },
+      "info": {
+        "country": "AUS",
+        "countryOfBirth": "AUS",
+        "hometown": "Brisbane, QLD, Australia"
+      }
+    },
+    {
+      "id": "28158",
+      "name": {
+        "last": "Marino",
+        "first": "Steve",
+        "leader": "MARINO",
+        "freeze": "MARINO"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Tequesta, FL"
+      }
+    },
+    {
+      "id": "25396",
+      "name": {
+        "last": "Na",
+        "first": "Kevin",
+        "leader": "NA",
+        "freeze": "NA"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "240000",
+        "ytdRank": "31",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "134",
+        "ytdRank": "33",
+        "ytdRankTied": "n",
+        "ytdTrailing": "550"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Las Vegas, NV"
+      }
+    },
+    {
+      "id": "29910",
+      "name": {
+        "last": "Adams",
+        "first": "Blake",
+        "leader": "ADAMS B",
+        "freeze": "ADAMS B"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "12320",
+        "ytdRank": "158",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "13",
+        "ytdRank": "154",
+        "ytdRankTied": "n",
+        "ytdTrailing": "671"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Eatonton, GA"
+      }
+    },
+    {
+      "id": "20498",
+      "name": {
+        "last": "Baird",
+        "first": "Briny",
+        "leader": "BAIRD",
+        "freeze": "BAIRD"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "548375",
+        "ytdRank": "10",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "321",
+        "ytdRank": "7",
+        "ytdRankTied": "n",
+        "ytdTrailing": "363"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Palm City, FL"
+      }
+    },
+    {
+      "id": "27466",
+      "name": {
+        "last": "Levin",
+        "first": "Spencer",
+        "leader": "LEVIN",
+        "freeze": "LEVIN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "127460",
+        "ytdRank": "61",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "89",
+        "ytdRank": "60",
+        "ytdRankTied": "n",
+        "ytdTrailing": "595"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Elk Grove, CA"
+      }
+    },
+    {
+      "id": "27064",
+      "name": {
+        "last": "Vegas",
+        "first": "Jhonattan",
+        "leader": "VEGAS",
+        "freeze": "VEGAS"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "24600",
+        "ytdRank": "137",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "30",
+        "ytdRank": "123",
+        "ytdRankTied": "n",
+        "ytdTrailing": "654"
+      },
+      "info": {
+        "country": "VEN",
+        "countryOfBirth": "VEN",
+        "hometown": "Maturin, Venezuela"
+      }
+    },
+    {
+      "id": "19972",
+      "name": {
+        "last": "Coceres",
+        "first": "Jose",
+        "leader": "COCERES",
+        "freeze": "COCERES"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "36450",
+        "ytdRank": "121",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "39",
+        "ytdRank": "113",
+        "ytdRankTied": "y",
+        "ytdTrailing": "645"
+      },
+      "info": {
+        "country": "ARG",
+        "countryOfBirth": "ARG",
+        "hometown": "El Chaco, Argentina"
+      }
+    },
+    {
+      "id": "21805",
+      "name": {
+        "last": "Frazar",
+        "first": "Harrison",
+        "leader": "FRAZAR",
+        "freeze": "FRAZAR"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Dallas, TX"
+      }
+    },
+    {
+      "id": "28486",
+      "name": {
+        "last": "Putnam",
+        "first": "Michael",
+        "leader": "PUTNAM M",
+        "freeze": "PUTNM M"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "24171",
+        "ytdRank": "138",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "26",
+        "ytdRank": "130",
+        "ytdRankTied": "y",
+        "ytdTrailing": "658"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "University Place, WA"
+      }
+    },
+    {
+      "id": "19970",
+      "name": {
+        "last": "Karlsson",
+        "first": "Robert",
+        "leader": "KARLSSON",
+        "freeze": "KARLSSO"
+      },
+      "status": {
+        "member": "n",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "",
+        "ytdRankTied": ""
+      },
+      "cup": {
+        "ytdTotal": "",
+        "ytdRank": "",
+        "ytdRankTied": "",
+        "ytdTrailing": ""
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "SWE",
+        "hometown": "Charlotte, NC"
+      }
+    },
+    {
+      "id": "34563",
+      "name": {
+        "last": "Hadley",
+        "first": "Chesson",
+        "leader": "HADLEY",
+        "freeze": "HADLEY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "220350",
+        "ytdRank": "39",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "97",
+        "ytdRank": "52",
+        "ytdRankTied": "n",
+        "ytdTrailing": "587"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Raleigh, NC"
+      }
+    },
+    {
+      "id": "29289",
+      "name": {
+        "last": "Noh",
+        "first": "Seung-Yul",
+        "leader": "NOH",
+        "freeze": "NOH"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "52370",
+        "ytdRank": "107",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "54",
+        "ytdRank": "95",
+        "ytdRankTied": "y",
+        "ytdTrailing": "630"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "KOR",
+        "hometown": "Irving, TX"
+      }
+    },
+    {
+      "id": "29425",
+      "name": {
+        "last": "Svoboda",
+        "first": "Andrew",
+        "leader": "SVOBODA",
+        "freeze": "SVOBODA"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "87150",
+        "ytdRank": "82",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "53",
+        "ytdRank": "101",
+        "ytdRankTied": "n",
+        "ytdTrailing": "631"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Palm Bch Gardens, FL"
+      }
+    },
+    {
+      "id": "22378",
+      "name": {
+        "last": "Immelman",
+        "first": "Trevor",
+        "leader": "IMMELMAN",
+        "freeze": "IMMELMA"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "120750",
+        "ytdRank": "63",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "99",
+        "ytdRank": "50",
+        "ytdRankTied": "n",
+        "ytdTrailing": "585"
+      },
+      "info": {
+        "country": "RSA",
+        "countryOfBirth": "RSA",
+        "hometown": "Cape Town, South Africa"
+      }
+    },
+    {
+      "id": "24912",
+      "name": {
+        "last": "MacKenzie",
+        "first": "Will",
+        "leader": "MACKENZIE",
+        "freeze": "MACKENZ"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "222150",
+        "ytdRank": "38",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "128",
+        "ytdRank": "35",
+        "ytdRankTied": "n",
+        "ytdTrailing": "556"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Jupiter, FL"
+      }
+    },
+    {
+      "id": "24399",
+      "name": {
+        "last": "Gardiner",
+        "first": "Scott",
+        "leader": "GARDINER",
+        "freeze": "GARDINR"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "AUS",
+        "countryOfBirth": "AUS",
+        "hometown": "Coolangatta, Qld, Australia"
+      }
+    },
+    {
+      "id": "24940",
+      "name": {
+        "last": "Loar",
+        "first": "Edward",
+        "leader": "LOAR",
+        "freeze": "LOAR"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Rockwall, TX"
+      }
+    },
+    {
+      "id": "33413",
+      "name": {
+        "last": "Martin",
+        "first": "Ben",
+        "leader": "MARTIN",
+        "freeze": "MARTIN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "75000",
+        "ytdRank": "91",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "53",
+        "ytdRank": "98",
+        "ytdRankTied": "y",
+        "ytdTrailing": "631"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Greenwood, SC"
+      }
+    },
+    {
+      "id": "30927",
+      "name": {
+        "last": "Todd",
+        "first": "Brendon",
+        "leader": "TODD",
+        "freeze": "TODD"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "246750",
+        "ytdRank": "28",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "156",
+        "ytdRank": "25",
+        "ytdRankTied": "n",
+        "ytdTrailing": "528"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Atlanta, GA"
+      }
+    },
+    {
+      "id": "29478",
+      "name": {
+        "last": "Kisner",
+        "first": "Kevin",
+        "leader": "KISNER",
+        "freeze": "KISNER"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "94607",
+        "ytdRank": "77",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "86",
+        "ytdRank": "62",
+        "ytdRankTied": "n",
+        "ytdTrailing": "598"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Aiken, SC"
+      }
+    },
+    {
+      "id": "24140",
+      "name": {
+        "last": "O'Hair",
+        "first": "Sean",
+        "leader": "O'HAIR",
+        "freeze": "O'HAIR"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "122650",
+        "ytdRank": "62",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "95",
+        "ytdRank": "56",
+        "ytdRankTied": "n",
+        "ytdTrailing": "589"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "West Chester, PA"
+      }
+    },
+    {
+      "id": "27120",
+      "name": {
+        "last": "Matteson",
+        "first": "Troy",
+        "leader": "MATTESON",
+        "freeze": "MATTESO"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "230550",
+        "ytdRank": "33",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "124",
+        "ytdRank": "38",
+        "ytdRankTied": "n",
+        "ytdTrailing": "560"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Austin, TX"
+      }
+    },
+    {
+      "id": "34021",
+      "name": {
+        "last": "Cauley",
+        "first": "Bud",
+        "leader": "CAULEY",
+        "freeze": "CAULEY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "9900",
+        "ytdRank": "171",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "1",
+        "ytdRank": "170",
+        "ytdRankTied": "n",
+        "ytdTrailing": "683"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Jacksonville Bch, FL"
+      }
+    },
+    {
+      "id": "22293",
+      "name": {
+        "last": "Slocum",
+        "first": "Heath",
+        "leader": "SLOCUM",
+        "freeze": "SLOCUM"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "104250",
+        "ytdRank": "69",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "82",
+        "ytdRank": "66",
+        "ytdRankTied": "n",
+        "ytdTrailing": "602"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Milton, GA"
+      }
+    },
+    {
+      "id": "33122",
+      "name": {
+        "last": "Knox",
+        "first": "Russell",
+        "leader": "KNOX",
+        "freeze": "KNOX"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "103781",
+        "ytdRank": "70",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "118",
+        "ytdRank": "41",
+        "ytdRankTied": "n",
+        "ytdTrailing": "566"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "SCO",
+        "hometown": "Jacksonville Beach, FL"
+      }
+    },
+    {
+      "id": "34264",
+      "name": {
+        "last": "Swafford",
+        "first": "Hudson",
+        "leader": "SWAFFORD",
+        "freeze": "SWAFFRD"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "36450",
+        "ytdRank": "121",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "39",
+        "ytdRank": "113",
+        "ytdRankTied": "y",
+        "ytdTrailing": "645"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "St Simons Island, GA"
+      }
+    },
+    {
+      "id": "28455",
+      "name": {
+        "last": "Claxton",
+        "first": "Will",
+        "leader": "CLAXTON W",
+        "freeze": "CLXTN W"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "45540",
+        "ytdRank": "115",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "51",
+        "ytdRank": "102",
+        "ytdRankTied": "n",
+        "ytdTrailing": "633"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Auburn, AL"
+      }
+    },
+    {
+      "id": "29535",
+      "name": {
+        "last": "Garnett",
+        "first": "Brice",
+        "leader": "GARNETT",
+        "freeze": "GARNETT"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "52125",
+        "ytdRank": "108",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "68",
+        "ytdRank": "78",
+        "ytdRankTied": "n",
+        "ytdTrailing": "616"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Gallatin, MO"
+      }
+    },
+    {
+      "id": "28132",
+      "name": {
+        "last": "Van Aswegen",
+        "first": "Tyrone",
+        "leader": "VAN ASWEG",
+        "freeze": "VAN ASW"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "31540",
+        "ytdRank": "127",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "34",
+        "ytdRank": "118",
+        "ytdRankTied": "y",
+        "ytdTrailing": "650"
+      },
+      "info": {
+        "country": "RSA",
+        "countryOfBirth": "RSA",
+        "hometown": "Johannesburg, South Africa"
+      }
+    },
+    {
+      "id": "25720",
+      "name": {
+        "last": "Collins",
+        "first": "Chad",
+        "leader": "COLLINS",
+        "freeze": "COLLINS"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "9600",
+        "ytdRank": "172",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "1",
+        "ytdRank": "172",
+        "ytdRankTied": "n",
+        "ytdTrailing": "683"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Cloverdale, IN"
+      }
+    },
+    {
+      "id": "29222",
+      "name": {
+        "last": "Hurley III",
+        "first": "Billy",
+        "leader": "HURLY III",
+        "freeze": "HURLEY"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "150264",
+        "ytdRank": "55",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "96",
+        "ytdRank": "53",
+        "ytdRankTied": "n",
+        "ytdTrailing": "588"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Annapolis, MD"
+      }
+    },
+    {
+      "id": "29926",
+      "name": {
+        "last": "Lee",
+        "first": "Danny",
+        "leader": "LEE D",
+        "freeze": "LEE D"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "45657",
+        "ytdRank": "114",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "63",
+        "ytdRank": "85",
+        "ytdRankTied": "n",
+        "ytdTrailing": "621"
+      },
+      "info": {
+        "country": "NZL",
+        "countryOfBirth": "NZL",
+        "hometown": "Rotorua, New Zealand"
+      }
+    },
+    {
+      "id": "31557",
+      "name": {
+        "last": "Herman",
+        "first": "Jim",
+        "leader": "HERMAN",
+        "freeze": "HERMAN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "48820",
+        "ytdRank": "110",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "54",
+        "ytdRank": "95",
+        "ytdRankTied": "y",
+        "ytdTrailing": "630"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Palm City, FL"
+      }
+    },
+    {
+      "id": "06621",
+      "name": {
+        "last": "Durant",
+        "first": "Joe",
+        "leader": "DURANT",
+        "freeze": "DURANT"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Pensacola, FL"
+      }
+    },
+    {
+      "id": "31193",
+      "name": {
+        "last": "Renner",
+        "first": "Jim",
+        "leader": "RENNER",
+        "freeze": "RENNER"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Plainville, MA"
+      }
+    },
+    {
+      "id": "28310",
+      "name": {
+        "last": "Williams",
+        "first": "Lee",
+        "leader": "WILLIMS L",
+        "freeze": "WLLMS L"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "11767",
+        "ytdRank": "160",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "18",
+        "ytdRank": "142",
+        "ytdRankTied": "y",
+        "ytdTrailing": "666"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Alexander City, AL"
+      }
+    },
+    {
+      "id": "35300",
+      "name": {
+        "last": "Loupe",
+        "first": "Andrew",
+        "leader": "LOUPE",
+        "freeze": "LOUPE"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Baton Rouge, LA"
+      }
+    },
+    {
+      "id": "24846",
+      "name": {
+        "last": "Barnes",
+        "first": "Ricky",
+        "leader": "BARNES",
+        "freeze": "BARNES"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "113007",
+        "ytdRank": "66",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "88",
+        "ytdRank": "61",
+        "ytdRankTied": "n",
+        "ytdTrailing": "596"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Phoenix, AZ"
+      }
+    },
+    {
+      "id": "34466",
+      "name": {
+        "last": "Malnati",
+        "first": "Peter",
+        "leader": "MALNATI",
+        "freeze": "MALNATI"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Knoxville, TN"
+      }
+    },
+    {
+      "id": "32698",
+      "name": {
+        "last": "Gates",
+        "first": "Bobby",
+        "leader": "GATES",
+        "freeze": "GATES"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "The Woodlands, TX"
+      }
+    },
+    {
+      "id": "26956",
+      "name": {
+        "last": "La'Cassie",
+        "first": "Bronson",
+        "leader": "LA'CASSIE",
+        "freeze": "LA'CASS"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "AUS",
+        "countryOfBirth": "AUS",
+        "hometown": "Brisbane, Australia"
+      }
+    },
+    {
+      "id": "25936",
+      "name": {
+        "last": "Aragon",
+        "first": "Alex",
+        "leader": "ARAGON",
+        "freeze": "ARAGON"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "9250",
+        "ytdRank": "173",
+        "ytdRankTied": "n"
+      },
+      "cup": {
+        "ytdTotal": "1",
+        "ytdRank": "173",
+        "ytdRankTied": "n",
+        "ytdTrailing": "683"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "San Diego, CA"
+      }
+    },
+    {
+      "id": "25349",
+      "name": {
+        "last": "Wilkinson",
+        "first": "Tim",
+        "leader": "WILKINSON",
+        "freeze": "WILKNSN"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "NZL",
+        "countryOfBirth": "NZL",
+        "hometown": "Palmerston North, New Zealand"
+      }
+    },
+    {
+      "id": "29461",
+      "name": {
+        "last": "Lovemark",
+        "first": "Jamie",
+        "leader": "LOVEMARK",
+        "freeze": "LOVEMRK"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "10500",
+        "ytdRank": "169",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "6",
+        "ytdRank": "160",
+        "ytdRankTied": "y",
+        "ytdTrailing": "678"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Jupiter, FL"
+      }
+    },
+    {
+      "id": "35732",
+      "name": {
+        "last": "Roach",
+        "first": "Wes",
+        "leader": "ROACH",
+        "freeze": "ROACH"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Knoxville, TN"
+      }
+    },
+    {
+      "id": "30946",
+      "name": {
+        "last": "Prugh",
+        "first": "Alex",
+        "leader": "PRUGH",
+        "freeze": "PRUGH"
+      },
+      "status": {
+        "member": "y",
+        "amateur": "n",
+        "alternate": "n"
+      },
+      "money": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y"
+      },
+      "cup": {
+        "ytdTotal": "0",
+        "ytdRank": "175",
+        "ytdRankTied": "y",
+        "ytdTrailing": "684"
+      },
+      "info": {
+        "country": "USA",
+        "countryOfBirth": "USA",
+        "hometown": "Las Vegas, NV"
+      }
+    }
+  ],
+  "alts": [],
+  "rnds": [
+    {
+      "num": "1",
+      "state": "Official",
+      "maxGroup": "3",
+      "cutRound": "n",
+      "playoff": "n",
+      "revisedTeeTimes": "y",
+      "courses": [
+        {
+          "id": "733",
+          "yardsTotal": "6987",
+          "holes": [
+            {
+              "num": "1",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "438",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "2",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "428",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "3",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "389",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "4",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "116",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "5",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "y",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "554",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "6",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "416",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "7",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "554",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "8",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "151",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "9",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "462",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "10",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "200",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "11",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "360",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "12",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "451",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "13",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "y",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "532",
+                "yardsCalculated": "532"
+              },
+              "pin": {}
+            },
+            {
+              "num": "14",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "452",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "15",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "155",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "16",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "485",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "17",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "386",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "18",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "458",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            }
+          ],
+          "teetimes": [
+            {
+              "id": "1",
+              "startTee": "1",
+              "groups": [
+                {
+                  "id": "1",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "27120",
+                    "22913",
+                    "21949"
+                  ]
+                },
+                {
+                  "id": "2",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "01948",
+                    "28158",
+                    "26300"
+                  ]
+                },
+                {
+                  "id": "3",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "01381",
+                    "01761",
+                    "24846"
+                  ]
+                },
+                {
+                  "id": "4",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "12716",
+                    "10423",
+                    "02239"
+                  ]
+                },
+                {
+                  "id": "5",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "34099",
+                    "25818",
+                    "10860"
+                  ]
+                },
+                {
+                  "id": "6",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24490",
+                    "30110",
+                    "20098"
+                  ]
+                },
+                {
+                  "id": "7",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "07",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "01724",
+                    "20498",
+                    "31560"
+                  ]
+                },
+                {
+                  "id": "8",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "07",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "08075",
+                    "27644",
+                    "33419"
+                  ]
+                },
+                {
+                  "id": "9",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "07",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25349",
+                    "28310",
+                    "32333"
+                  ]
+                },
+                {
+                  "id": "10",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "07",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29461",
+                    "34563",
+                    "28132"
+                  ]
+                },
+                {
+                  "id": "11",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "07",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29425",
+                    "34264",
+                    "32215"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "startTee": "10",
+              "groups": [
+                {
+                  "id": "12",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "20645",
+                    "21753",
+                    "25274"
+                  ]
+                },
+                {
+                  "id": "13",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24912",
+                    "06621",
+                    "29910"
+                  ]
+                },
+                {
+                  "id": "14",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23497",
+                    "27330",
+                    "24494"
+                  ]
+                },
+                {
+                  "id": "15",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25396",
+                    "21805",
+                    "29518"
+                  ]
+                },
+                {
+                  "id": "16",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23135",
+                    "01706",
+                    "27072"
+                  ]
+                },
+                {
+                  "id": "17",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "06",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "19846",
+                    "26951",
+                    "19825"
+                  ]
+                },
+                {
+                  "id": "18",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "07",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "22378",
+                    "01161",
+                    "35539"
+                  ]
+                },
+                {
+                  "id": "19",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "07",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "22293",
+                    "28475",
+                    "32448"
+                  ]
+                },
+                {
+                  "id": "20",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "07",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25720",
+                    "25936",
+                    "26956"
+                  ]
+                },
+                {
+                  "id": "21",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "07",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29926",
+                    "31557",
+                    "33413"
+                  ]
+                },
+                {
+                  "id": "22",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "07",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "30946",
+                    "28455",
+                    "36689"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "startTee": "1",
+              "groups": [
+                {
+                  "id": "23",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "12",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24358",
+                    "25834",
+                    "33461"
+                  ]
+                },
+                {
+                  "id": "24",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "13",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "21731",
+                    "10213",
+                    "34409"
+                  ]
+                },
+                {
+                  "id": "25",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "13",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "27770",
+                    "28307",
+                    "31202"
+                  ]
+                },
+                {
+                  "id": "26",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "06",
+                    "timeMM": "50",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "30750",
+                    "22621",
+                    "24663"
+                  ]
+                },
+                {
+                  "id": "27",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "00",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "26596",
+                    "34174",
+                    "27064"
+                  ]
+                },
+                {
+                  "id": "28",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "10",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "21878",
+                    "21961",
+                    "10885"
+                  ]
+                },
+                {
+                  "id": "29",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "20",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "12652",
+                    "24361",
+                    "28500"
+                  ]
+                },
+                {
+                  "id": "30",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "30",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "09011",
+                    "30927",
+                    "25444"
+                  ]
+                },
+                {
+                  "id": "31",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "40",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29289",
+                    "31193",
+                    "28093"
+                  ]
+                },
+                {
+                  "id": "32",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "50",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29478",
+                    "24399",
+                    "35300"
+                  ]
+                },
+                {
+                  "id": "33",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "08",
+                    "timeMM": "00",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "34021",
+                    "29222",
+                    "30736"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "startTee": "10",
+              "groups": [
+                {
+                  "id": "34",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "12",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23320",
+                    "25562",
+                    "26679"
+                  ]
+                },
+                {
+                  "id": "35",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "13",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24507",
+                    "28092",
+                    "06078"
+                  ]
+                },
+                {
+                  "id": "36",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "14",
+                    "timeHH": "13",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "01320",
+                    "19972",
+                    "20593"
+                  ]
+                },
+                {
+                  "id": "37",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "06",
+                    "timeMM": "50",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24140",
+                    "27466",
+                    "19970"
+                  ]
+                },
+                {
+                  "id": "38",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "00",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23353",
+                    "30692",
+                    "25900"
+                  ]
+                },
+                {
+                  "id": "39",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "10",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "37273",
+                    "29479",
+                    "23621"
+                  ]
+                },
+                {
+                  "id": "40",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "20",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "06004",
+                    "27963",
+                    "35139"
+                  ]
+                },
+                {
+                  "id": "41",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "30",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23409",
+                    "28486",
+                    "34261"
+                  ]
+                },
+                {
+                  "id": "42",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "40",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "35732",
+                    "34466",
+                    "27171"
+                  ]
+                },
+                {
+                  "id": "43",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "07",
+                    "timeMM": "50",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "32698",
+                    "33122",
+                    "32058"
+                  ]
+                },
+                {
+                  "id": "44",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "08",
+                    "timeMM": "00",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24940",
+                    "29535",
+                    "35376"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": "2",
+      "state": "Official",
+      "maxGroup": "3",
+      "cutRound": "y",
+      "playoff": "n",
+      "revisedTeeTimes": "y",
+      "courses": [
+        {
+          "id": "733",
+          "yardsTotal": "6987",
+          "holes": [
+            {
+              "num": "1",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "438",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "2",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "428",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "3",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "389",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "4",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "116",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "5",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "y",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "554",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "6",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "416",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "7",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "554",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "8",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "151",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "9",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "462",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "10",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "200",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "11",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "360",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "12",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "451",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "13",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "y",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "532",
+                "yardsCalculated": "532"
+              },
+              "pin": {}
+            },
+            {
+              "num": "14",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "452",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "15",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "155",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "16",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "485",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "17",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "386",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "18",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "458",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            }
+          ],
+          "teetimes": [
+            {
+              "id": "4",
+              "startTee": "10",
+              "groups": [
+                {
+                  "id": "1",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "16",
+                    "timeMM": "20",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "27120",
+                    "22913",
+                    "21949"
+                  ]
+                },
+                {
+                  "id": "2",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "16",
+                    "timeMM": "30",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "01948",
+                    "28158",
+                    "26300"
+                  ]
+                },
+                {
+                  "id": "3",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "16",
+                    "timeMM": "40",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "01381",
+                    "01761",
+                    "24846"
+                  ]
+                },
+                {
+                  "id": "4",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "06",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "12716",
+                    "10423",
+                    "02239"
+                  ]
+                },
+                {
+                  "id": "5",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "06",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "34099",
+                    "25818",
+                    "10860"
+                  ]
+                },
+                {
+                  "id": "6",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24490",
+                    "30110",
+                    "20098"
+                  ]
+                },
+                {
+                  "id": "7",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "01724",
+                    "20498",
+                    "31560"
+                  ]
+                },
+                {
+                  "id": "8",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "08075",
+                    "27644",
+                    "33419"
+                  ]
+                },
+                {
+                  "id": "9",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25349",
+                    "28310",
+                    "32333"
+                  ]
+                },
+                {
+                  "id": "10",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29461",
+                    "34563",
+                    "28132"
+                  ]
+                },
+                {
+                  "id": "11",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29425",
+                    "34264",
+                    "32215"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "startTee": "1",
+              "groups": [
+                {
+                  "id": "12",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "16",
+                    "timeMM": "20",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "20645",
+                    "21753",
+                    "25274"
+                  ]
+                },
+                {
+                  "id": "13",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "16",
+                    "timeMM": "30",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24912",
+                    "06621",
+                    "29910"
+                  ]
+                },
+                {
+                  "id": "14",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "16",
+                    "timeMM": "40",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23497",
+                    "27330",
+                    "24494"
+                  ]
+                },
+                {
+                  "id": "15",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "06",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25396",
+                    "21805",
+                    "29518"
+                  ]
+                },
+                {
+                  "id": "16",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "06",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23135",
+                    "01706",
+                    "27072"
+                  ]
+                },
+                {
+                  "id": "17",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "19846",
+                    "26951",
+                    "19825"
+                  ]
+                },
+                {
+                  "id": "18",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "22378",
+                    "01161",
+                    "35539"
+                  ]
+                },
+                {
+                  "id": "19",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "22293",
+                    "28475",
+                    "32448"
+                  ]
+                },
+                {
+                  "id": "20",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25720",
+                    "25936",
+                    "26956"
+                  ]
+                },
+                {
+                  "id": "21",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29926",
+                    "31557",
+                    "33413"
+                  ]
+                },
+                {
+                  "id": "22",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "07",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "30946",
+                    "28455",
+                    "36689"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "startTee": "10",
+              "groups": [
+                {
+                  "id": "23",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "11",
+                    "timeMM": "50",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24358",
+                    "25834",
+                    "33461"
+                  ]
+                },
+                {
+                  "id": "24",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "00",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "21731",
+                    "10213",
+                    "34409"
+                  ]
+                },
+                {
+                  "id": "25",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "10",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "27770",
+                    "28307",
+                    "31202"
+                  ]
+                },
+                {
+                  "id": "26",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "20",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "30750",
+                    "22621",
+                    "24663"
+                  ]
+                },
+                {
+                  "id": "27",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "30",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "26596",
+                    "34174",
+                    "27064"
+                  ]
+                },
+                {
+                  "id": "28",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "40",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "21878",
+                    "21961",
+                    "10885"
+                  ]
+                },
+                {
+                  "id": "29",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "50",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "12652",
+                    "24361",
+                    "28500"
+                  ]
+                },
+                {
+                  "id": "30",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "13",
+                    "timeMM": "00",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "09011",
+                    "30927",
+                    "25444"
+                  ]
+                },
+                {
+                  "id": "31",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "13",
+                    "timeMM": "10",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29289",
+                    "31193",
+                    "28093"
+                  ]
+                },
+                {
+                  "id": "32",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "13",
+                    "timeMM": "20",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29478",
+                    "24399",
+                    "35300"
+                  ]
+                },
+                {
+                  "id": "33",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "13",
+                    "timeMM": "30",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "34021",
+                    "29222",
+                    "30736"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "1",
+              "startTee": "1",
+              "groups": [
+                {
+                  "id": "34",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "11",
+                    "timeMM": "50",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23320",
+                    "26679"
+                  ]
+                },
+                {
+                  "id": "35",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "00",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24507",
+                    "28092",
+                    "06078"
+                  ]
+                },
+                {
+                  "id": "36",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "10",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "01320",
+                    "19972",
+                    "20593"
+                  ]
+                },
+                {
+                  "id": "37",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "20",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24140",
+                    "27466",
+                    "19970"
+                  ]
+                },
+                {
+                  "id": "38",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "30",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23353",
+                    "30692",
+                    "25900"
+                  ]
+                },
+                {
+                  "id": "39",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "40",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "37273",
+                    "29479",
+                    "23621"
+                  ]
+                },
+                {
+                  "id": "40",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "12",
+                    "timeMM": "50",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "06004",
+                    "27963",
+                    "35139"
+                  ]
+                },
+                {
+                  "id": "41",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "13",
+                    "timeMM": "00",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23409",
+                    "28486",
+                    "34261"
+                  ]
+                },
+                {
+                  "id": "42",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "13",
+                    "timeMM": "10",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "35732",
+                    "34466",
+                    "27171"
+                  ]
+                },
+                {
+                  "id": "43",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "13",
+                    "timeMM": "20",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "32698",
+                    "33122",
+                    "32058"
+                  ]
+                },
+                {
+                  "id": "44",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "15",
+                    "timeHH": "13",
+                    "timeMM": "30",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24940",
+                    "29535",
+                    "35376"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": "3",
+      "state": "Official",
+      "maxGroup": "3",
+      "cutRound": "n",
+      "playoff": "n",
+      "revisedTeeTimes": "n",
+      "courses": [
+        {
+          "id": "733",
+          "yardsTotal": "6987",
+          "holes": [
+            {
+              "num": "1",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "438",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "2",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "428",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "3",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "389",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "4",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "116",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "5",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "y",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "554",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "6",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "416",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "7",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "554",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "8",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "151",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "9",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "462",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "10",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "200",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "11",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "360",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "12",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "451",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "13",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "y",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "532",
+                "yardsCalculated": "532"
+              },
+              "pin": {}
+            },
+            {
+              "num": "14",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "452",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "15",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "155",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "16",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "485",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "17",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "386",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "18",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "458",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            }
+          ],
+          "teetimes": [
+            {
+              "id": "1",
+              "startTee": "1",
+              "groups": [
+                {
+                  "id": "1",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "13",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "34174",
+                    "10885",
+                    "28486"
+                  ]
+                },
+                {
+                  "id": "2",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "13",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "28307",
+                    "31202",
+                    "27466"
+                  ]
+                },
+                {
+                  "id": "3",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "13",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "27072",
+                    "10860",
+                    "29461"
+                  ]
+                },
+                {
+                  "id": "4",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "13",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "33122",
+                    "01761",
+                    "01706"
+                  ]
+                },
+                {
+                  "id": "5",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "13",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23409",
+                    "30927",
+                    "35732"
+                  ]
+                },
+                {
+                  "id": "6",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "19972",
+                    "27770",
+                    "23353"
+                  ]
+                },
+                {
+                  "id": "7",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29518",
+                    "25720",
+                    "01320"
+                  ]
+                },
+                {
+                  "id": "8",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25444",
+                    "27171",
+                    "24494"
+                  ]
+                },
+                {
+                  "id": "9",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "01724",
+                    "31560",
+                    "30750"
+                  ]
+                },
+                {
+                  "id": "10",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24361",
+                    "24507",
+                    "29479"
+                  ]
+                },
+                {
+                  "id": "11",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "27064",
+                    "21961",
+                    "27963"
+                  ]
+                },
+                {
+                  "id": "12",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "15",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23621",
+                    "25349",
+                    "26596"
+                  ]
+                },
+                {
+                  "id": "13",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "15",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "26679",
+                    "19970",
+                    "34099"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "startTee": "10",
+              "groups": [
+                {
+                  "id": "14",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "13",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "34466",
+                    "29222",
+                    "24912"
+                  ]
+                },
+                {
+                  "id": "15",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "13",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "06621",
+                    "26300",
+                    "28475"
+                  ]
+                },
+                {
+                  "id": "16",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "13",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "28132",
+                    "21731",
+                    "37273"
+                  ]
+                },
+                {
+                  "id": "17",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "13",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "12652",
+                    "29289",
+                    "01948"
+                  ]
+                },
+                {
+                  "id": "18",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "13",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23497",
+                    "19825",
+                    "33413"
+                  ]
+                },
+                {
+                  "id": "19",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "33461",
+                    "20593",
+                    "22621"
+                  ]
+                },
+                {
+                  "id": "20",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25900",
+                    "35139",
+                    "28500"
+                  ]
+                },
+                {
+                  "id": "21",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "09011",
+                    "29478",
+                    "24399"
+                  ]
+                },
+                {
+                  "id": "22",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "30736",
+                    "23320",
+                    "24663"
+                  ]
+                },
+                {
+                  "id": "23",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "20645",
+                    "21753",
+                    "27330"
+                  ]
+                },
+                {
+                  "id": "24",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "14",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25396",
+                    "12716",
+                    "10423"
+                  ]
+                },
+                {
+                  "id": "25",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "15",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23135",
+                    "19846",
+                    "30110"
+                  ]
+                },
+                {
+                  "id": "26",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "16",
+                    "timeHH": "15",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "01161",
+                    "35539",
+                    "28310"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": "4",
+      "state": "Official",
+      "maxGroup": "3",
+      "cutRound": "n",
+      "playoff": "n",
+      "revisedTeeTimes": "n",
+      "courses": [
+        {
+          "id": "733",
+          "yardsTotal": "6987",
+          "holes": [
+            {
+              "num": "1",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "438",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "2",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "428",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "3",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "389",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "4",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "116",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "5",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "y",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "554",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "6",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "416",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "7",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "554",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "8",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "151",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "9",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "462",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "10",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "200",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "11",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "360",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "12",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "451",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "13",
+              "par": "5",
+              "validCoords": "n",
+              "distanceHole": "y",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "532",
+                "yardsCalculated": "532"
+              },
+              "pin": {}
+            },
+            {
+              "num": "14",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "452",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "15",
+              "par": "3",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "155",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "16",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "485",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "17",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "386",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            },
+            {
+              "num": "18",
+              "par": "4",
+              "validCoords": "n",
+              "distanceHole": "n",
+              "laser": "n",
+              "tee": {
+                "x": "0",
+                "y": "0",
+                "z": "0",
+                "yards": "458",
+                "yardsCalculated": "0"
+              },
+              "pin": {}
+            }
+          ],
+          "teetimes": [
+            {
+              "id": "1",
+              "startTee": "1",
+              "groups": [
+                {
+                  "id": "1",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "08",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "34174",
+                    "10885",
+                    "28486"
+                  ]
+                },
+                {
+                  "id": "2",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "08",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "28307",
+                    "31202",
+                    "27466"
+                  ]
+                },
+                {
+                  "id": "3",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "27072",
+                    "10860",
+                    "29461"
+                  ]
+                },
+                {
+                  "id": "4",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "33122",
+                    "01761",
+                    "01706"
+                  ]
+                },
+                {
+                  "id": "5",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23409",
+                    "30927",
+                    "35732"
+                  ]
+                },
+                {
+                  "id": "6",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "19972",
+                    "27770",
+                    "23353"
+                  ]
+                },
+                {
+                  "id": "7",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "29518",
+                    "25720",
+                    "01320"
+                  ]
+                },
+                {
+                  "id": "8",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25444",
+                    "27171",
+                    "24494"
+                  ]
+                },
+                {
+                  "id": "9",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "10",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "01724",
+                    "31560",
+                    "30750"
+                  ]
+                },
+                {
+                  "id": "10",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "10",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "24361",
+                    "24507",
+                    "29479"
+                  ]
+                },
+                {
+                  "id": "11",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "10",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "27064",
+                    "21961",
+                    "27963"
+                  ]
+                },
+                {
+                  "id": "12",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "10",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23621",
+                    "25349",
+                    "26596"
+                  ]
+                },
+                {
+                  "id": "13",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "10",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "26679",
+                    "19970",
+                    "34099"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "startTee": "10",
+              "groups": [
+                {
+                  "id": "14",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "08",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "34466",
+                    "29222",
+                    "24912"
+                  ]
+                },
+                {
+                  "id": "15",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "08",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "06621",
+                    "26300",
+                    "28475"
+                  ]
+                },
+                {
+                  "id": "16",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "28132",
+                    "21731",
+                    "37273"
+                  ]
+                },
+                {
+                  "id": "17",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "12652",
+                    "29289",
+                    "01948"
+                  ]
+                },
+                {
+                  "id": "18",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23497",
+                    "19825",
+                    "33413"
+                  ]
+                },
+                {
+                  "id": "19",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "33461",
+                    "20593",
+                    "22621"
+                  ]
+                },
+                {
+                  "id": "20",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25900",
+                    "35139",
+                    "28500"
+                  ]
+                },
+                {
+                  "id": "21",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "09",
+                    "timeMM": "55",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "09011",
+                    "29478",
+                    "24399"
+                  ]
+                },
+                {
+                  "id": "22",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "10",
+                    "timeMM": "05",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "30736",
+                    "23320",
+                    "24663"
+                  ]
+                },
+                {
+                  "id": "23",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "10",
+                    "timeMM": "15",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "20645",
+                    "21753",
+                    "27330"
+                  ]
+                },
+                {
+                  "id": "24",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "10",
+                    "timeMM": "25",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "25396",
+                    "12716",
+                    "10423"
+                  ]
+                },
+                {
+                  "id": "25",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "10",
+                    "timeMM": "35",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "23135",
+                    "19846",
+                    "30110"
+                  ]
+                },
+                {
+                  "id": "26",
+                  "start": {
+                    "dateYYYY": "2013",
+                    "dateMM": "11",
+                    "dateDD": "17",
+                    "timeHH": "10",
+                    "timeMM": "45",
+                    "timeSS": "00",
+                    "utcOffset": "-06"
+                  },
+                  "players": [
+                    "35539",
+                    "28310"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

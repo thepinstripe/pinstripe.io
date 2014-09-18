@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Matt Kuchar",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_23108.png",
+    "country": "United States",
+    "Height": "6  ft, 4  in",
+    "Weight": "195 lbs",
+    "Birthday": "06/21/1978",
+    "College": "Georgia Tech (2007, Management)",
+    "Turned Pro": "2000",
+    "Birthplace": "Winter Park, Florida"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.23108.matt-kuchar.html",
+    "season": "http://www.pgatour.com/players/player.23108.matt-kuchar.html/season",
+    "career": "http://www.pgatour.com/players/player.23108.matt-kuchar.html/career",
+    "statistics": "http://www.pgatour.com/players/player.23108.matt-kuchar.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.23108.matt-kuchar.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.23108.matt-kuchar.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.23108.matt-kuchar.html/profile"
+  }
+}

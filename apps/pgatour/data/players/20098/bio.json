@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Stuart Appleby",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_20098.png",
+    "country": "Australia",
+    "Height": "6  ft, 1  in",
+    "Weight": "185 lbs",
+    "Birthday": "05/01/1971",
+    "Turned Pro": "1992",
+    "Birthplace": "Cohuna, Australia"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.20098.stuart-appleby.html",
+    "season": "http://www.pgatour.com/players/player.20098.stuart-appleby.html/season",
+    "career": "http://www.pgatour.com/players/player.20098.stuart-appleby.html/career",
+    "statistics": "http://www.pgatour.com/players/player.20098.stuart-appleby.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.20098.stuart-appleby.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.20098.stuart-appleby.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.20098.stuart-appleby.html/profile"
+  }
+}

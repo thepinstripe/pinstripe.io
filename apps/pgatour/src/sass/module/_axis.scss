@@ -1,0 +1,19 @@
+.axis {
+  &--x {
+    
+  }
+  
+  .tick line {
+    stroke: $chrome;
+    stroke-opacity: 0.25;
+    stroke-dasharray: 1, 4;
+  }
+  
+  text {
+    fill: $chrome;
+    fill-opacity: 0.1;
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: -0.05em;
+  }
+}

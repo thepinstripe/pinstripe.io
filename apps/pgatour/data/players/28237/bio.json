@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Rory McIlroy",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_28237.png",
+    "country": "Northern Ireland",
+    "Height": "5  ft, 10  in",
+    "Weight": "160 lbs",
+    "Birthday": "05/04/1989",
+    "Turned Pro": "2007",
+    "Birthplace": "Holywood, Northern Ireland"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.28237.rory-mcilroy.html",
+    "season": "http://www.pgatour.com/players/player.28237.rory-mcilroy.html/season",
+    "career": "http://www.pgatour.com/players/player.28237.rory-mcilroy.html/career",
+    "statistics": "http://www.pgatour.com/players/player.28237.rory-mcilroy.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.28237.rory-mcilroy.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.28237.rory-mcilroy.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.28237.rory-mcilroy.html/profile"
+  }
+}

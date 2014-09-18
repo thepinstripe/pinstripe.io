@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Peter Hanson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_22792.png",
+    "country": "Sweden",
+    "Height": "6  ft, 3  in",
+    "Weight": "210 lbs",
+    "Birthday": "10/04/1977",
+    "Turned Pro": "1998",
+    "Birthplace": "Svedala, Sweden"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.22792.peter-hanson.html",
+    "season": "http://www.pgatour.com/players/player.22792.peter-hanson.html/season",
+    "career": "http://www.pgatour.com/players/player.22792.peter-hanson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.22792.peter-hanson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.22792.peter-hanson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.22792.peter-hanson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.22792.peter-hanson.html/profile"
+  }
+}

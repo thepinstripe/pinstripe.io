@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Lee Westwood",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_20396.png",
+    "country": "England",
+    "Height": "6  ft, 0  in",
+    "Weight": "205 lbs",
+    "Birthday": "04/24/1973",
+    "Turned Pro": "1993",
+    "Birthplace": "Worksop, England"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.20396.lee-westwood.html",
+    "season": "http://www.pgatour.com/players/player.20396.lee-westwood.html/season",
+    "career": "http://www.pgatour.com/players/player.20396.lee-westwood.html/career",
+    "statistics": "http://www.pgatour.com/players/player.20396.lee-westwood.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.20396.lee-westwood.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.20396.lee-westwood.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.20396.lee-westwood.html/profile"
+  }
+}

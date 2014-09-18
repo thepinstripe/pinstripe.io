@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Patrick Cantlay",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_35450.png",
+    "country": "United States",
+    "Height": "5  ft, 10  in",
+    "Weight": "160 lbs",
+    "Birthday": "03/17/1992",
+    "College": "UCLA",
+    "Turned Pro": "2012",
+    "Birthplace": "Long Beach, California"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.35450.patrick-cantlay.html",
+    "season": "http://www.pgatour.com/players/player.35450.patrick-cantlay.html/season",
+    "career": "http://www.pgatour.com/players/player.35450.patrick-cantlay.html/career",
+    "statistics": "http://www.pgatour.com/players/player.35450.patrick-cantlay.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.35450.patrick-cantlay.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.35450.patrick-cantlay.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.35450.patrick-cantlay.html/profile"
+  }
+}

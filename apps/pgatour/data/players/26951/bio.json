@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Johnson Wagner",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_26951.png",
+    "country": "United States",
+    "Height": "6  ft, 3  in",
+    "Weight": "230 lbs",
+    "Birthday": "03/23/1980",
+    "College": "Virginia Tech",
+    "Turned Pro": "2002",
+    "Birthplace": "Amarillo, Texas"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.26951.johnson-wagner.html",
+    "season": "http://www.pgatour.com/players/player.26951.johnson-wagner.html/season",
+    "career": "http://www.pgatour.com/players/player.26951.johnson-wagner.html/career",
+    "statistics": "http://www.pgatour.com/players/player.26951.johnson-wagner.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.26951.johnson-wagner.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.26951.johnson-wagner.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.26951.johnson-wagner.html/profile"
+  }
+}

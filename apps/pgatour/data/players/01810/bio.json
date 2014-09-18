@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Phil Mickelson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_01810.png",
+    "country": "United States",
+    "Height": "6  ft, 3  in",
+    "Weight": "200 lbs",
+    "Birthday": "06/16/1970",
+    "College": "Arizona State University (1992, Psychology)",
+    "Turned Pro": "1992",
+    "Birthplace": "San Diego, California"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.01810.phil-mickelson.html",
+    "season": "http://www.pgatour.com/players/player.01810.phil-mickelson.html/season",
+    "career": "http://www.pgatour.com/players/player.01810.phil-mickelson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.01810.phil-mickelson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.01810.phil-mickelson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.01810.phil-mickelson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.01810.phil-mickelson.html/profile"
+  }
+}

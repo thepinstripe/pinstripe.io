@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Bill Haas",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_24924.png",
+    "country": "United States",
+    "Height": "6  ft, 2  in",
+    "Weight": "185 lbs",
+    "Birthday": "05/24/1982",
+    "College": "Wake Forest University (2004 Religious Studies)",
+    "Turned Pro": "2004",
+    "Birthplace": "Charlotte, North Carolina"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.24924.bill-haas.html",
+    "season": "http://www.pgatour.com/players/player.24924.bill-haas.html/season",
+    "career": "http://www.pgatour.com/players/player.24924.bill-haas.html/career",
+    "statistics": "http://www.pgatour.com/players/player.24924.bill-haas.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.24924.bill-haas.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.24924.bill-haas.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.24924.bill-haas.html/profile"
+  }
+}

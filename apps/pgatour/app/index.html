@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pinstripe.io</title>
+    <link rel="stylesheet" href="/stylesheets/pinstripe.css">
+    <script src="/components/lodash/dist/lodash.js"></script>
+    <script src="/components/d3/d3.js"></script>
+    <script src="/components/d3.chart/d3.chart.js"></script>
+    <script src="/components/d3-tip/index.js"></script>
+</head>
+
+<body>
+
+    <div class="global">
+        <header class="header">
+            <div class="header__logo pinstripe"></div>
+        </header>
+        
+        <section class="content">
+            <h2>PGA Tour Driving Stats, 2014</h2>
+            <article class="graph">
+                <div id="actions" class="hlist pull--right">
+                    <button class="hlist__item toggle" data-config="accuracy">Driving Accuracy</button>
+                    <button class="hlist__item toggle" data-config="tendency">Driving Tendency</button>
+                </div>
+            </article>
+        </section>
+    </div>
+    
+    <script src="/scripts/index.js"></script>
+</body>
+
+</html>

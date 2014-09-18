@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Matt Jones",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_26300.png",
+    "country": "Australia",
+    "Height": "6  ft, 0  in",
+    "Weight": "170 lbs",
+    "Birthday": "04/19/1980",
+    "College": "Arizona State University (2001)",
+    "Turned Pro": "2001",
+    "Birthplace": "Sydney, New South Wales, Australia"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.26300.matt-jones.html",
+    "season": "http://www.pgatour.com/players/player.26300.matt-jones.html/season",
+    "career": "http://www.pgatour.com/players/player.26300.matt-jones.html/career",
+    "statistics": "http://www.pgatour.com/players/player.26300.matt-jones.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.26300.matt-jones.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.26300.matt-jones.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.26300.matt-jones.html/profile"
+  }
+}

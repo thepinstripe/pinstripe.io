@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "David Toms",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_02206.png",
+    "country": "United States",
+    "Height": "5  ft, 10  in",
+    "Weight": "160 lbs",
+    "Birthday": "01/04/1967",
+    "College": "Louisiana State University",
+    "Turned Pro": "1989",
+    "Birthplace": "Monroe, Louisiana"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.02206.david-toms.html",
+    "season": "http://www.pgatour.com/players/player.02206.david-toms.html/season",
+    "career": "http://www.pgatour.com/players/player.02206.david-toms.html/career",
+    "statistics": "http://www.pgatour.com/players/player.02206.david-toms.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.02206.david-toms.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.02206.david-toms.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.02206.david-toms.html/profile"
+  }
+}

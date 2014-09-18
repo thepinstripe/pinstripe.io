@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "John Peterson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_35541.png",
+    "country": "United States",
+    "Height": "5  ft, 11  in",
+    "Weight": "175 lbs",
+    "Birthday": "04/18/1989",
+    "College": "Louisiana State University",
+    "Turned Pro": "2011",
+    "Birthplace": "Fort Worth, Texas"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.35541.john-peterson.html",
+    "season": "http://www.pgatour.com/players/player.35541.john-peterson.html/season",
+    "career": "http://www.pgatour.com/players/player.35541.john-peterson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.35541.john-peterson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.35541.john-peterson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.35541.john-peterson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.35541.john-peterson.html/profile"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Andres Romero",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_25562.png",
+    "country": "Argentina",
+    "Height": "5  ft, 10  in",
+    "Weight": "165 lbs",
+    "Birthday": "05/08/1981",
+    "Turned Pro": "1998",
+    "Birthplace": "Tucuman, Argentina"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.25562.andres-romero.html",
+    "season": "http://www.pgatour.com/players/player.25562.andres-romero.html/season",
+    "career": "http://www.pgatour.com/players/player.25562.andres-romero.html/career",
+    "statistics": "http://www.pgatour.com/players/player.25562.andres-romero.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.25562.andres-romero.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.25562.andres-romero.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.25562.andres-romero.html/profile"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Carl Pettersson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_25345.png",
+    "country": "Sweden",
+    "Height": "5  ft, 11  in",
+    "Weight": "195 lbs",
+    "Birthday": "08/29/1977",
+    "College": "North Carolina State University",
+    "Turned Pro": "2000",
+    "Birthplace": "Gothenburg, Sweden"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.25345.carl-pettersson.html",
+    "season": "http://www.pgatour.com/players/player.25345.carl-pettersson.html/season",
+    "career": "http://www.pgatour.com/players/player.25345.carl-pettersson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.25345.carl-pettersson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.25345.carl-pettersson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.25345.carl-pettersson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.25345.carl-pettersson.html/profile"
+  }
+}

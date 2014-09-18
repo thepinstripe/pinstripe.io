@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Mike Weir",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_10423.png",
+    "country": "Canada",
+    "Height": "5  ft, 9  in",
+    "Weight": "155 lbs",
+    "Birthday": "05/12/1970",
+    "College": "Brigham Young University (1993, Recreation Management)",
+    "Turned Pro": "1992",
+    "Birthplace": "Sarnia, Ontario, Canada"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.10423.mike-weir.html",
+    "season": "http://www.pgatour.com/players/player.10423.mike-weir.html/season",
+    "career": "http://www.pgatour.com/players/player.10423.mike-weir.html/career",
+    "statistics": "http://www.pgatour.com/players/player.10423.mike-weir.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.10423.mike-weir.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.10423.mike-weir.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.10423.mike-weir.html/profile"
+  }
+}

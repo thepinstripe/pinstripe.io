@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "John Huh",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_34174.png",
+    "country": "United States",
+    "Height": "6  ft, 0  in",
+    "Weight": "190 lbs",
+    "Birthday": "05/21/1990",
+    "College": "University of California-Northridge",
+    "Turned Pro": "2008",
+    "Birthplace": "New York, New York"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.34174.john-huh.html",
+    "season": "http://www.pgatour.com/players/player.34174.john-huh.html/season",
+    "career": "http://www.pgatour.com/players/player.34174.john-huh.html/career",
+    "statistics": "http://www.pgatour.com/players/player.34174.john-huh.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.34174.john-huh.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.34174.john-huh.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.34174.john-huh.html/profile"
+  }
+}

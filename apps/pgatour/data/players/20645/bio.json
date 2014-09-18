@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "John Senden",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_20645.png",
+    "country": "Australia",
+    "Height": "6  ft, 4  in",
+    "Weight": "200 lbs",
+    "Birthday": "04/20/1971",
+    "Turned Pro": "1992",
+    "Birthplace": "Brisbane, Queensland, Australia"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.20645.john-senden.html",
+    "season": "http://www.pgatour.com/players/player.20645.john-senden.html/season",
+    "career": "http://www.pgatour.com/players/player.20645.john-senden.html/career",
+    "statistics": "http://www.pgatour.com/players/player.20645.john-senden.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.20645.john-senden.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.20645.john-senden.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.20645.john-senden.html/profile"
+  }
+}

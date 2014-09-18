@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Michael Thompson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_32150.png",
+    "country": "United States",
+    "Height": "6  ft, 0  in",
+    "Weight": "185 lbs",
+    "Birthday": "04/16/1985",
+    "College": "University of Alabama (2008, Accounting)",
+    "Turned Pro": "2008",
+    "Birthplace": "Tucson, Arizona"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.32150.michael-thompson.html",
+    "season": "http://www.pgatour.com/players/player.32150.michael-thompson.html/season",
+    "career": "http://www.pgatour.com/players/player.32150.michael-thompson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.32150.michael-thompson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.32150.michael-thompson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.32150.michael-thompson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.32150.michael-thompson.html/profile"
+  }
+}

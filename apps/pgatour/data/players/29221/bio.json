@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Webb Simpson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_29221.png",
+    "country": "United States",
+    "Height": "6  ft, 2  in",
+    "Weight": "185 lbs",
+    "Birthday": "08/08/1985",
+    "College": "Wake Forest University (2008, Religion)",
+    "Turned Pro": "2008",
+    "Birthplace": "Raleigh, North Carolina"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.29221.webb-simpson.html",
+    "season": "http://www.pgatour.com/players/player.29221.webb-simpson.html/season",
+    "career": "http://www.pgatour.com/players/player.29221.webb-simpson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.29221.webb-simpson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.29221.webb-simpson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.29221.webb-simpson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.29221.webb-simpson.html/profile"
+  }
+}

@@ -1,0 +1,2273 @@
+{
+  "plrNum": "01945",
+  "plrName": "Kenny Perry",
+  "years": [
+    {
+      "year": "2014",
+      "disclaimer": "Player did not meet the minimum number of rounds requirement to be officially ranked. The rank indicated is the position the player would be ranked if the minimum had been met.",
+      "tours": [
+        {
+          "tourCodeLC": "s",
+          "tourCodeUC": "S",
+          "tourName": "Champions Tour",
+          "minRndsMet": "Y",
+          "year": "2014",
+          "lastTrnProc": "Boeing Classic",
+          "trnNum": "190",
+          "permNum": "619",
+          "statCats": [
+            {
+              "catName": "STANDARD STATS",
+              "stats": [
+                {
+                  "statID": "101",
+                  "name": "Driving Distance",
+                  "value": "288.3",
+                  "rank": "4",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Tot. Dist.",
+                      "value": "22,491"
+                    },
+                    {
+                      "title": "Tot. Drvs.",
+                      "value": "78"
+                    }
+                  ]
+                },
+                {
+                  "statID": "102",
+                  "name": "Driving Accuracy Percentage",
+                  "value": "67.77%",
+                  "rank": "54",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Fwys Hit",
+                      "value": "370"
+                    },
+                    {
+                      "title": "Poss. Fwys",
+                      "value": "546"
+                    }
+                  ]
+                },
+                {
+                  "statID": "103",
+                  "name": "Greens in Regulation Percentage",
+                  "value": "76.35%",
+                  "rank": "4",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "536"
+                    },
+                    {
+                      "title": "# Holes",
+                      "value": "702"
+                    }
+                  ]
+                },
+                {
+                  "statID": "104",
+                  "name": "Putting Average",
+                  "value": "1.750",
+                  "rank": "14",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "GIR Putts",
+                      "value": "938"
+                    },
+                    {
+                      "title": "Greens Hit",
+                      "value": "536"
+                    }
+                  ]
+                },
+                {
+                  "statID": "155",
+                  "name": "Eagles (Holes per)",
+                  "value": "86.0",
+                  "rank": "2",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "# Holes",
+                      "value": "774"
+                    },
+                    {
+                      "title": "# Eagles",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "statID": "156",
+                  "name": "Birdie Average",
+                  "value": "4.30",
+                  "rank": "4",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "# Birdies",
+                      "value": "185"
+                    },
+                    {
+                      "title": "Tot. Rnds.",
+                      "value": "43"
+                    }
+                  ]
+                },
+                {
+                  "statID": "108",
+                  "name": "Scoring Average (Actual)",
+                  "value": "69.44",
+                  "rank": "4",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Tot. strks",
+                      "value": "2,986"
+                    },
+                    {
+                      "title": "Tot. rnds",
+                      "value": "43"
+                    }
+                  ]
+                },
+                {
+                  "statID": "111",
+                  "name": "Sand Save Percentage",
+                  "value": "48.98%",
+                  "rank": "30",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "# Saves",
+                      "value": "24"
+                    },
+                    {
+                      "title": "# Bunkers",
+                      "value": "49"
+                    }
+                  ]
+                },
+                {
+                  "statID": "129",
+                  "name": "Total Driving",
+                  "value": "58",
+                  "rank": "11",
+                  "projRank": "",
+                  "additionals": [],
+                  "explanation": "Total rank from stats 1 & 2",
+                  "explanationYesNo": ""
+                },
+                {
+                  "statID": "127",
+                  "name": "All-Around Ranking",
+                  "value": "116",
+                  "rank": "3",
+                  "projRank": "",
+                  "additionals": [],
+                  "explanation": "Total rank from stats 1-8",
+                  "explanationYesNo": ""
+                },
+                {
+                  "statID": "109",
+                  "name": "Money Leaders",
+                  "value": "$1,183,900",
+                  "rank": "4",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "YTD Victories",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "statID": "105",
+                  "name": "Par Breakers",
+                  "value": "25.06%",
+                  "rank": "3",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "#Bird/Eagl",
+                      "value": "194"
+                    },
+                    {
+                      "title": "#Holes",
+                      "value": "774"
+                    }
+                  ]
+                },
+                {
+                  "statID": "119",
+                  "name": "Putts Per Round",
+                  "value": "29.85",
+                  "rank": "48",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Tot. Putts",
+                      "value": "1,164"
+                    },
+                    {
+                      "title": "Tot. Rnds.",
+                      "value": "39"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "catName": "BIRDIE STATS",
+              "stats": [
+                {
+                  "statID": "112",
+                  "name": "Par 3 Birdie or Better Leaders",
+                  "value": "13.64%",
+                  "rank": "34",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Par3 Birds",
+                      "value": "24"
+                    },
+                    {
+                      "title": "Par3 holes",
+                      "value": "24"
+                    }
+                  ]
+                },
+                {
+                  "statID": "113",
+                  "name": "Par 4 Birdie or Better Leaders",
+                  "value": "21.77%",
+                  "rank": "1",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Par4 Birds",
+                      "value": "96"
+                    },
+                    {
+                      "title": "Par4 holes",
+                      "value": "95"
+                    }
+                  ]
+                },
+                {
+                  "statID": "114",
+                  "name": "Par 5 Birdie or Better Leaders",
+                  "value": "47.13%",
+                  "rank": "10",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Par5 Birds",
+                      "value": "74"
+                    },
+                    {
+                      "title": "Par5 holes",
+                      "value": "66"
+                    }
+                  ]
+                },
+                {
+                  "statID": "115",
+                  "name": "Birdie or Better Conversion Percentage",
+                  "value": "32.96%",
+                  "rank": "7",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "# Birdies",
+                      "value": "176"
+                    },
+                    {
+                      "title": "Greens Hit",
+                      "value": "534"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "catName": "POINTS STATS",
+              "stats": [
+                {
+                  "statID": "193",
+                  "name": "Charles Schwab Cup Points",
+                  "value": "1,495",
+                  "rank": "3",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "125",
+                  "name": "Constellation SENIOR PLAYERS Points",
+                  "value": "474,946",
+                  "rank": "5",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "catName": "OTHER STATS",
+              "stats": [
+                {
+                  "statID": "106",
+                  "name": "Total Eagles",
+                  "value": "9",
+                  "rank": "2",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "107",
+                  "name": "Total Birdies",
+                  "value": "185",
+                  "rank": "22",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "110",
+                  "name": "Champions Career Money Leaders",
+                  "value": "$5,504,013",
+                  "rank": "69",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "121",
+                  "name": "All Time Money Leaders",
+                  "value": "37,484,753",
+                  "rank": "3",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "138",
+                  "name": "Top 10 Finishes",
+                  "value": "7",
+                  "rank": "4",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "1st Place",
+                      "value": "2"
+                    },
+                    {
+                      "title": "2nd Place",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "statID": "158",
+                  "name": "Ball Striking",
+                  "value": "15",
+                  "rank": "5",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Tot. Drv.",
+                      "value": "11"
+                    },
+                    {
+                      "title": "GIR Rank",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "statID": "159",
+                  "name": "Longest Drives",
+                  "value": "338",
+                  "rank": "13",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Tournament",
+                      "value": "Insperity"
+                    },
+                    {
+                      "title": "Round",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "statID": "130",
+                  "name": "Scrambling",
+                  "value": "58.43%",
+                  "rank": "31",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Par or <",
+                      "value": "97"
+                    },
+                    {
+                      "title": "Missed GIR",
+                      "value": "166"
+                    }
+                  ]
+                },
+                {
+                  "statID": "160",
+                  "name": "Bounce Back",
+                  "value": "22.68%",
+                  "rank": "20",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tourCodeLC": "r",
+          "tourCodeUC": "R",
+          "tourName": "PGA TOUR",
+          "minRndsMet": "N",
+          "year": "2014",
+          "lastTrnProc": "The Barclays",
+          "trnNum": "460",
+          "permNum": "027",
+          "statCats": [
+            {
+              "catName": "STANDARD STATS",
+              "stats": [
+                {
+                  "statID": "101",
+                  "name": "Driving Distance",
+                  "value": "288.5",
+                  "rank": "999",
+                  "projRank": "97",
+                  "additionals": [
+                    {
+                      "title": "Tot. Dist.",
+                      "value": "8,077"
+                    },
+                    {
+                      "title": "Tot. Drvs.",
+                      "value": "28"
+                    }
+                  ]
+                },
+                {
+                  "statID": "102",
+                  "name": "Driving Accuracy Percentage",
+                  "value": "68.88%",
+                  "rank": "999",
+                  "projRank": "17",
+                  "additionals": [
+                    {
+                      "title": "Fwys Hit",
+                      "value": "135"
+                    },
+                    {
+                      "title": "Poss. Fwys",
+                      "value": "196"
+                    }
+                  ]
+                },
+                {
+                  "statID": "103",
+                  "name": "Greens in Regulation Percentage",
+                  "value": "63.10%",
+                  "rank": "999",
+                  "projRank": "145",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "159"
+                    },
+                    {
+                      "title": "# Holes",
+                      "value": "252"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02675",
+                  "name": "Strokes Gained: Total",
+                  "value": "-.436",
+                  "rank": "999",
+                  "projRank": "146",
+                  "additionals": [
+                    {
+                      "title": "Total SG:T",
+                      "value": "-4.357"
+                    },
+                    {
+                      "title": "Total SG:T2G",
+                      "value": "-1,060"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02674",
+                  "name": "Strokes Gained: Tee-to-Green",
+                  "value": "-.106",
+                  "rank": "999",
+                  "projRank": "122",
+                  "additionals": [
+                    {
+                      "title": "Green",
+                      "value": "1,060-"
+                    },
+                    {
+                      "title": "SG:Total",
+                      "value": "-4,357"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02564",
+                  "name": "Strokes Gained: Putting",
+                  "value": "-.330",
+                  "rank": "999",
+                  "projRank": "155",
+                  "additionals": [
+                    {
+                      "title": "Total Putts Gained",
+                      "value": "-3.297"
+                    },
+                    {
+                      "title": "Measured Rounds",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "statID": "155",
+                  "name": "Eagles (Holes per)",
+                  "value": "126.0",
+                  "rank": "999",
+                  "projRank": "13",
+                  "additionals": [
+                    {
+                      "title": "# Holes",
+                      "value": "252"
+                    },
+                    {
+                      "title": "# Eagles",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "statID": "156",
+                  "name": "Birdie Average",
+                  "value": "3.14",
+                  "rank": "999",
+                  "projRank": "158",
+                  "additionals": [
+                    {
+                      "title": "# Birdies",
+                      "value": "44"
+                    },
+                    {
+                      "title": "Tot. Rnds.",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "statID": "120",
+                  "name": "Scoring Average",
+                  "value": "70.501",
+                  "rank": "999",
+                  "projRank": "50",
+                  "additionals": [
+                    {
+                      "title": "Tot. Strks",
+                      "value": "1,000"
+                    },
+                    {
+                      "title": "Tot. Adj.",
+                      "value": "12,986-"
+                    }
+                  ]
+                },
+                {
+                  "statID": "111",
+                  "name": "Sand Save Percentage",
+                  "value": "46.43%",
+                  "rank": "999",
+                  "projRank": "137",
+                  "additionals": [
+                    {
+                      "title": "# Saves",
+                      "value": "13"
+                    },
+                    {
+                      "title": "# Bunkers",
+                      "value": "28"
+                    }
+                  ]
+                },
+                {
+                  "statID": "129",
+                  "name": "Total Driving",
+                  "value": "1,998",
+                  "rank": "999",
+                  "projRank": "187",
+                  "additionals": [],
+                  "explanation": "Total rank from stats 1 & 2",
+                  "explanationYesNo": ""
+                },
+                {
+                  "statID": "02394",
+                  "name": "FedExCup Season Points",
+                  "value": "83",
+                  "rank": "197",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Pts.Behind",
+                      "value": "2,499"
+                    },
+                    {
+                      "title": "# of Top 10's",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "109",
+                  "name": "Money Leaders",
+                  "value": "$130,588",
+                  "rank": "196",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "YTD Victories",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "105",
+                  "name": "Par Breakers",
+                  "value": "18.25%",
+                  "rank": "999",
+                  "projRank": "142",
+                  "additionals": [
+                    {
+                      "title": "#Bird/Eagl",
+                      "value": "46"
+                    },
+                    {
+                      "title": "#Holes",
+                      "value": "252"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02434",
+                  "name": "GIR Pct. - Fairway Bunker",
+                  "value": "33.3%",
+                  "rank": "999",
+                  "projRank": "181",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "3"
+                    },
+                    {
+                      "title": "# Holes",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02671",
+                  "name": "FedExCup Standings",
+                  "value": "83",
+                  "rank": "197",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Pts.Behind",
+                      "value": "3,193"
+                    },
+                    {
+                      "title": "# of Top 10's",
+                      "value": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "catName": "BIRDIE STATS",
+              "stats": [
+                {
+                  "statID": "112",
+                  "name": "Par 3 Birdie or Better Leaders",
+                  "value": "8.93%",
+                  "rank": "999",
+                  "projRank": "180",
+                  "additionals": [
+                    {
+                      "title": "Par3 Birds",
+                      "value": "5"
+                    },
+                    {
+                      "title": "Par3 holes",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "statID": "113",
+                  "name": "Par 4 Birdie or Better Leaders",
+                  "value": "16.88%",
+                  "rank": "999",
+                  "projRank": "50",
+                  "additionals": [
+                    {
+                      "title": "Par4 Birds",
+                      "value": "27"
+                    },
+                    {
+                      "title": "Par4 holes",
+                      "value": "25"
+                    }
+                  ]
+                },
+                {
+                  "statID": "114",
+                  "name": "Par 5 Birdie or Better Leaders",
+                  "value": "38.89%",
+                  "rank": "999",
+                  "projRank": "129",
+                  "additionals": [
+                    {
+                      "title": "Par5 Birds",
+                      "value": "14"
+                    },
+                    {
+                      "title": "Par5 holes",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "statID": "115",
+                  "name": "Birdie or Better Conversion Percentage",
+                  "value": "28.48%",
+                  "rank": "999",
+                  "projRank": "107",
+                  "additionals": [
+                    {
+                      "title": "# Birdies",
+                      "value": "45"
+                    },
+                    {
+                      "title": "Greens Hit",
+                      "value": "158"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "catName": "SCORING AVG. STATS",
+              "stats": [
+                {
+                  "statID": "108",
+                  "name": "Scoring Average (Actual)",
+                  "value": "71.43",
+                  "rank": "999",
+                  "projRank": "147",
+                  "additionals": [
+                    {
+                      "title": "Tot. Strks",
+                      "value": "1,000"
+                    },
+                    {
+                      "title": "Tot. Rnds.",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "statID": "116",
+                  "name": "Scoring Average Before Cut",
+                  "value": "71.90",
+                  "rank": "999",
+                  "projRank": "166",
+                  "additionals": [
+                    {
+                      "title": "Tot. Strks",
+                      "value": "719"
+                    },
+                    {
+                      "title": "Tot. Rnds.",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "statID": "117",
+                  "name": "Round 3 Scoring Average",
+                  "value": "71.50",
+                  "rank": "999",
+                  "projRank": "155",
+                  "additionals": [
+                    {
+                      "title": "Tot. Strks",
+                      "value": "143"
+                    },
+                    {
+                      "title": "Tot. Rnds.",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "statID": "118",
+                  "name": "Final Round Scoring Average",
+                  "value": "69.00",
+                  "rank": "999",
+                  "projRank": "5",
+                  "additionals": [
+                    {
+                      "title": "Tot. Strks",
+                      "value": "138"
+                    },
+                    {
+                      "title": "Tot. Rnds.",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "catName": "OTHER STATS",
+              "stats": [
+                {
+                  "statID": "106",
+                  "name": "Total Eagles",
+                  "value": "2",
+                  "rank": "999",
+                  "projRank": "157",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "107",
+                  "name": "Total Birdies",
+                  "value": "44",
+                  "rank": "999",
+                  "projRank": "187",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "110",
+                  "name": "Career Money Leaders",
+                  "value": "$31,980,740",
+                  "rank": "15",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "122",
+                  "name": "Consecutive Cuts",
+                  "value": "2",
+                  "rank": "77",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Start Tournament ID",
+                      "value": "2,014,350"
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "158",
+                  "name": "Ball Striking",
+                  "value": "1,998",
+                  "rank": "999",
+                  "projRank": "187",
+                  "additionals": [
+                    {
+                      "title": "Tot. Drv.",
+                      "value": "999"
+                    },
+                    {
+                      "title": "GIR Rank",
+                      "value": "999"
+                    }
+                  ]
+                },
+                {
+                  "statID": "159",
+                  "name": "Longest Drives",
+                  "value": "347",
+                  "rank": "958",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Tournament",
+                      "value": "Sony Open"
+                    },
+                    {
+                      "title": "Round",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "statID": "130",
+                  "name": "Scrambling",
+                  "value": "55.91%",
+                  "rank": "999",
+                  "projRank": "141",
+                  "additionals": [
+                    {
+                      "title": "Par or <",
+                      "value": "52"
+                    },
+                    {
+                      "title": "Missed GIR",
+                      "value": "93"
+                    }
+                  ]
+                },
+                {
+                  "statID": "160",
+                  "name": "Bounce Back",
+                  "value": "9.43%",
+                  "rank": "999",
+                  "projRank": "186",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "",
+                      "value": ""
+                    }
+                  ]
+                },
+                {
+                  "statID": "171",
+                  "name": "Par 3 Performance",
+                  "value": "+11",
+                  "rank": "999",
+                  "projRank": "56",
+                  "additionals": [
+                    {
+                      "title": "Par 3 Avg.",
+                      "value": "3.20"
+                    },
+                    {
+                      "title": "Total Par",
+                      "value": "168"
+                    }
+                  ]
+                },
+                {
+                  "statID": "172",
+                  "name": "Par 4 Performance",
+                  "value": "+13",
+                  "rank": "999",
+                  "projRank": "24",
+                  "additionals": [
+                    {
+                      "title": "Par 4 Avg.",
+                      "value": "4.08"
+                    },
+                    {
+                      "title": "Total Par",
+                      "value": "640"
+                    }
+                  ]
+                },
+                {
+                  "statID": "173",
+                  "name": "Par 5 Performance",
+                  "value": "-12",
+                  "rank": "999",
+                  "projRank": "187",
+                  "additionals": [
+                    {
+                      "title": "Par 5 Avg.",
+                      "value": "4.67"
+                    },
+                    {
+                      "title": "Total Par",
+                      "value": "180"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02422",
+                  "name": "Left Tendency",
+                  "value": "68.9",
+                  "rank": "999",
+                  "projRank": "187",
+                  "additionals": [
+                    {
+                      "title": "Number of Times",
+                      "value": "31"
+                    },
+                    {
+                      "title": "Attempts",
+                      "value": "45"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02423",
+                  "name": "Right Tendency",
+                  "value": "31.1",
+                  "rank": "999",
+                  "projRank": "1",
+                  "additionals": [
+                    {
+                      "title": "Number of Times",
+                      "value": "14"
+                    },
+                    {
+                      "title": "Attempts",
+                      "value": "45"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02426",
+                  "name": "Average Going for it Shot Distance (in Yards)",
+                  "value": "243.2",
+                  "rank": "999",
+                  "projRank": "2",
+                  "additionals": [
+                    {
+                      "title": "Distance (in inches)",
+                      "value": "148,855.00"
+                    },
+                    {
+                      "title": "Attempts",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "catName": "NEW SHOTLINK STATS",
+              "stats": [
+                {
+                  "statID": "336",
+                  "name": "Approaches from > 200 yards",
+                  "value": "45' 4\"",
+                  "rank": "999",
+                  "projRank": "8",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "1,813.083"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "40"
+                    }
+                  ]
+                },
+                {
+                  "statID": "366",
+                  "name": "Scrambling from > 30 yards",
+                  "value": "18.18%",
+                  "rank": "999",
+                  "projRank": "181",
+                  "additionals": [
+                    {
+                      "title": "Successes",
+                      "value": "2"
+                    },
+                    {
+                      "title": "Attempts",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "statID": "077",
+                  "name": "GIR Percentage - 100-125 yards",
+                  "value": "58.33%",
+                  "rank": "999",
+                  "projRank": "187",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "7"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "12"
+                    }
+                  ]
+                },
+                {
+                  "statID": "078",
+                  "name": "GIR Percentage - 75-100 yards",
+                  "value": "81.82%",
+                  "rank": "999",
+                  "projRank": "74",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "9"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "statID": "079",
+                  "name": "GIR Percentage - < 75 yards",
+                  "value": "100.00%",
+                  "rank": "999",
+                  "projRank": "1",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "23"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "statID": "326",
+                  "name": "GIR Percentage - 200+ yards",
+                  "value": "44.83%",
+                  "rank": "999",
+                  "projRank": "74",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "13"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "29"
+                    }
+                  ]
+                },
+                {
+                  "statID": "327",
+                  "name": "GIR Percentage - 175-200 yards",
+                  "value": "51.35%",
+                  "rank": "999",
+                  "projRank": "131",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "19"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "37"
+                    }
+                  ]
+                },
+                {
+                  "statID": "328",
+                  "name": "GIR Percentage - 150-175 yards",
+                  "value": "71.43%",
+                  "rank": "999",
+                  "projRank": "9",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "25"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "35"
+                    }
+                  ]
+                },
+                {
+                  "statID": "329",
+                  "name": "GIR Percentage - 125-150 yards",
+                  "value": "62.50%",
+                  "rank": "999",
+                  "projRank": "176",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "20"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "32"
+                    }
+                  ]
+                },
+                {
+                  "statID": "330",
+                  "name": "GIR Percentage - < 125 yards",
+                  "value": "84.78%",
+                  "rank": "999",
+                  "projRank": "28",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "39"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "46"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02330",
+                  "name": "GIR Percentage - < 100 yards",
+                  "value": "94.12%",
+                  "rank": "999",
+                  "projRank": "1",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "32"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "34"
+                    }
+                  ]
+                },
+                {
+                  "statID": "074",
+                  "name": "Approaches from 100-125 yards",
+                  "value": "10' 3\"",
+                  "rank": "999",
+                  "projRank": "1",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "71.583"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "statID": "075",
+                  "name": "Approaches from 75-100 yards",
+                  "value": "20' 11\"",
+                  "rank": "999",
+                  "projRank": "168",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "230.167"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "statID": "076",
+                  "name": "Approaches from 50-75 yards",
+                  "value": "23' 10\"",
+                  "rank": "999",
+                  "projRank": "184",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "23.833"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "statID": "337",
+                  "name": "Approaches from 175-200 yards",
+                  "value": "30' 2\"",
+                  "rank": "999",
+                  "projRank": "16",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "874.333"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "29"
+                    }
+                  ]
+                },
+                {
+                  "statID": "338",
+                  "name": "Approaches from 150-175 yards",
+                  "value": "26' 5\"",
+                  "rank": "999",
+                  "projRank": "43",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "714.167"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "27"
+                    }
+                  ]
+                },
+                {
+                  "statID": "339",
+                  "name": "Approaches from 125-150 yards",
+                  "value": "20' 8\"",
+                  "rank": "999",
+                  "projRank": "15",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "495.667"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "24"
+                    }
+                  ]
+                },
+                {
+                  "statID": "340",
+                  "name": "Approaches from 50-125 yards",
+                  "value": "17' 2\"",
+                  "rank": "999",
+                  "projRank": "28",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "325.583"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "19"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02358",
+                  "name": "Approaches from 200-225 yards",
+                  "value": "38' 2\"",
+                  "rank": "999",
+                  "projRank": "23",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "877.167"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "23"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02359",
+                  "name": "Approaches from 225-250 yards",
+                  "value": "57' 7\"",
+                  "rank": "999",
+                  "projRank": "163",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "633.417"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "11"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02361",
+                  "name": "Approaches from > 275 yards",
+                  "value": "40' 4\"",
+                  "rank": "999",
+                  "projRank": "1",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "40.333"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02360",
+                  "name": "Approaches from 250-275 yards",
+                  "value": "52' 5\"",
+                  "rank": "999",
+                  "projRank": "5",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "262.167"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "statID": "403",
+                  "name": "Putting from Inside 5'",
+                  "value": "95.71%",
+                  "rank": "999",
+                  "projRank": "144",
+                  "additionals": [
+                    {
+                      "title": "Attempts",
+                      "value": "140"
+                    },
+                    {
+                      "title": "Putts made",
+                      "value": "134"
+                    }
+                  ]
+                },
+                {
+                  "statID": "404",
+                  "name": "Putting from 5-10'",
+                  "value": "53.33%",
+                  "rank": "999",
+                  "projRank": "129",
+                  "additionals": [
+                    {
+                      "title": "Attempts",
+                      "value": "45"
+                    },
+                    {
+                      "title": "Putts made",
+                      "value": "24"
+                    }
+                  ]
+                },
+                {
+                  "statID": "405",
+                  "name": "Putting from - 10-15'",
+                  "value": "43.75%",
+                  "rank": "999",
+                  "projRank": "1",
+                  "additionals": [
+                    {
+                      "title": "Attempts",
+                      "value": "32"
+                    },
+                    {
+                      "title": "Putts made",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "statID": "406",
+                  "name": "Putting from - 15-20'",
+                  "value": "17.65%",
+                  "rank": "999",
+                  "projRank": "99",
+                  "additionals": [
+                    {
+                      "title": "Attempts",
+                      "value": "17"
+                    },
+                    {
+                      "title": "Putts made",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "statID": "407",
+                  "name": "Putting from - 20-25'",
+                  "value": "10.00%",
+                  "rank": "999",
+                  "projRank": "137",
+                  "additionals": [
+                    {
+                      "title": "Attempts",
+                      "value": "20"
+                    },
+                    {
+                      "title": "Putts made",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "statID": "408",
+                  "name": "Putting from - > 25'",
+                  "value": "4.76%",
+                  "rank": "999",
+                  "projRank": "126",
+                  "additionals": [
+                    {
+                      "title": "Attempts",
+                      "value": "42"
+                    },
+                    {
+                      "title": "Putts made",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02327",
+                  "name": "Putting from 5-15'",
+                  "value": "49.35%",
+                  "rank": "999",
+                  "projRank": "18",
+                  "additionals": [
+                    {
+                      "title": "Attempts",
+                      "value": "77"
+                    },
+                    {
+                      "title": "Putts made",
+                      "value": "38"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02328",
+                  "name": "Putting from 15-25'",
+                  "value": "13.51%",
+                  "rank": "999",
+                  "projRank": "146",
+                  "additionals": [
+                    {
+                      "title": "Attempts",
+                      "value": "37"
+                    },
+                    {
+                      "title": "Putts made",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02427",
+                  "name": "Putting from 3-5'",
+                  "value": "84.85%",
+                  "rank": "999",
+                  "projRank": "137",
+                  "additionals": [
+                    {
+                      "title": "Attempts",
+                      "value": "33"
+                    },
+                    {
+                      "title": "Putts made",
+                      "value": "28"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "catName": "NEW SHOTLINK STATS",
+              "stats": [
+                {
+                  "statID": "459",
+                  "name": "Left Rough Tendency",
+                  "value": "15.22%",
+                  "rank": "999",
+                  "projRank": "142",
+                  "additionals": [
+                    {
+                      "title": "Total Left rough",
+                      "value": "21"
+                    },
+                    {
+                      "title": "Possible Fwys",
+                      "value": "138"
+                    }
+                  ]
+                },
+                {
+                  "statID": "460",
+                  "name": "Right Rough Tendency",
+                  "value": "7.97%",
+                  "rank": "999",
+                  "projRank": "2",
+                  "additionals": [
+                    {
+                      "title": "Total Right rough",
+                      "value": "11"
+                    },
+                    {
+                      "title": "Possible Fwys",
+                      "value": "138"
+                    }
+                  ]
+                },
+                {
+                  "statID": "214",
+                  "name": "Driving Pct. 300+ (All Drives)",
+                  "value": "16.43%",
+                  "rank": "999",
+                  "projRank": "133",
+                  "additionals": [
+                    {
+                      "title": "Total Drives for 300+",
+                      "value": "23"
+                    },
+                    {
+                      "title": "Total Drives - Overall",
+                      "value": "140"
+                    }
+                  ]
+                },
+                {
+                  "statID": "199",
+                  "name": "GIR Percentage from Other than Fairway",
+                  "value": "44.26%",
+                  "rank": "999",
+                  "projRank": "176",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "27"
+                    },
+                    {
+                      "title": "# of holes",
+                      "value": "61"
+                    }
+                  ]
+                },
+                {
+                  "statID": "419",
+                  "name": "Going for the Green",
+                  "value": "56.67%",
+                  "rank": "999",
+                  "projRank": "40",
+                  "additionals": [
+                    {
+                      "title": "Attempts",
+                      "value": "17"
+                    },
+                    {
+                      "title": "Non-Attempts",
+                      "value": "13"
+                    }
+                  ]
+                },
+                {
+                  "statID": "331",
+                  "name": "Proximity to Hole",
+                  "value": "33' 0\"",
+                  "rank": "999",
+                  "projRank": "13",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "5,945.583"
+                    },
+                    {
+                      "title": "# of Attempts",
+                      "value": "180"
+                    }
+                  ]
+                },
+                {
+                  "statID": "431",
+                  "name": "Fairway Proximity",
+                  "value": "30' 3\"",
+                  "rank": "999",
+                  "projRank": "32",
+                  "additionals": [
+                    {
+                      "title": "",
+                      "value": ""
+                    },
+                    {
+                      "title": "Attempts",
+                      "value": "140"
+                    }
+                  ]
+                },
+                {
+                  "statID": "437",
+                  "name": "Rough Proximity",
+                  "value": "44' 10\"",
+                  "rank": "999",
+                  "projRank": "128",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (inches)",
+                      "value": "17,748"
+                    },
+                    {
+                      "title": "Attempts",
+                      "value": "33"
+                    }
+                  ]
+                },
+                {
+                  "statID": "375",
+                  "name": "Proximity to Hole from Sand",
+                  "value": "9' 1\"",
+                  "rank": "999",
+                  "projRank": "80",
+                  "additionals": [
+                    {
+                      "title": "Total Distance (feet)",
+                      "value": "108.833"
+                    },
+                    {
+                      "title": "# of Shots",
+                      "value": "12"
+                    }
+                  ]
+                },
+                {
+                  "statID": "363",
+                  "name": "Scrambling from the Rough",
+                  "value": "51.85%",
+                  "rank": "999",
+                  "projRank": "136",
+                  "additionals": [
+                    {
+                      "title": "Successes",
+                      "value": "14"
+                    },
+                    {
+                      "title": "Attempts",
+                      "value": "27"
+                    }
+                  ]
+                },
+                {
+                  "statID": "438",
+                  "name": "Average Distance of Putts made",
+                  "value": "79' 5\"",
+                  "rank": "999",
+                  "projRank": "6",
+                  "additionals": [
+                    {
+                      "title": "Total Dist. (inches)",
+                      "value": "9,529"
+                    },
+                    {
+                      "title": "Total Rounds",
+                      "value": "10"
+                    }
+                  ]
+                },
+                {
+                  "statID": "426",
+                  "name": "3-Putt Avoidance",
+                  "value": "5.95%",
+                  "rank": "999",
+                  "projRank": "187",
+                  "additionals": [
+                    {
+                      "title": "Total 3 Putts",
+                      "value": "15"
+                    },
+                    {
+                      "title": "Total Holes (overall)",
+                      "value": "252"
+                    }
+                  ]
+                },
+                {
+                  "statID": "207",
+                  "name": "Front 9 Scoring Average",
+                  "value": "36.36",
+                  "rank": "999",
+                  "projRank": "187",
+                  "additionals": [
+                    {
+                      "title": "Total Strokes",
+                      "value": "509"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "statID": "208",
+                  "name": "Back 9 Scoring Average",
+                  "value": "35.07",
+                  "rank": "999",
+                  "projRank": "5",
+                  "additionals": [
+                    {
+                      "title": "Total Strokes",
+                      "value": "491"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "14"
+                    }
+                  ]
+                },
+                {
+                  "statID": "299",
+                  "name": "Lowest Round",
+                  "value": "68",
+                  "rank": "284",
+                  "projRank": "",
+                  "additionals": [
+                    {
+                      "title": "Tourn/Course",
+                      "value": "PGA Champi"
+                    },
+                    {
+                      "title": "Round",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02332",
+                  "name": "GIR Percentage - 100+ yards",
+                  "value": "57.93%",
+                  "rank": "999",
+                  "projRank": "156",
+                  "additionals": [
+                    {
+                      "title": "Greens Hit",
+                      "value": "84"
+                    },
+                    {
+                      "title": "Total Holes",
+                      "value": "145"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02430",
+                  "name": "Average Distance to Hole After Tee Shot",
+                  "value": "175.3",
+                  "rank": "999",
+                  "projRank": "72",
+                  "additionals": [
+                    {
+                      "title": "Total Dist after Tee Shot",
+                      "value": "877,236.00"
+                    },
+                    {
+                      "title": "Total Tee Shots",
+                      "value": "139"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02431",
+                  "name": "Average Distance after Going for it Shot",
+                  "value": "15.4",
+                  "rank": "999",
+                  "projRank": "1",
+                  "additionals": [
+                    {
+                      "title": "Total Dist after GFG Shot",
+                      "value": "9,453.000"
+                    },
+                    {
+                      "title": "Total GFG Shots",
+                      "value": "17"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02432",
+                  "name": "Driving Pct. 300-320 (All Drives)",
+                  "value": "12.86%",
+                  "rank": "999",
+                  "projRank": "139",
+                  "additionals": [
+                    {
+                      "title": "Total Drives for 300-320",
+                      "value": "18"
+                    },
+                    {
+                      "title": "Total Drives - Overall",
+                      "value": "140"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02433",
+                  "name": "Driving Pct. 320+ (All Drives)",
+                  "value": "3.57%",
+                  "rank": "999",
+                  "projRank": "121",
+                  "additionals": [
+                    {
+                      "title": "Total Drives for 320+",
+                      "value": "5"
+                    },
+                    {
+                      "title": "Total Drives - Overall",
+                      "value": "140"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02435",
+                  "name": "Rough Tendency",
+                  "value": "23.19%",
+                  "rank": "999",
+                  "projRank": "16",
+                  "additionals": [
+                    {
+                      "title": "Total Rough",
+                      "value": "32"
+                    },
+                    {
+                      "title": "Possible Fwys",
+                      "value": "138"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "catName": "NEW SHOTLINK STATS",
+              "stats": [
+                {
+                  "statID": "02401",
+                  "name": "Club Head Speed",
+                  "value": "112.02",
+                  "rank": "999",
+                  "projRank": "114",
+                  "additionals": [
+                    {
+                      "title": "Tot Speed",
+                      "value": "784.12"
+                    },
+                    {
+                      "title": "# Measured",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02402",
+                  "name": "Ball Speed",
+                  "value": "165.37",
+                  "rank": "999",
+                  "projRank": "118",
+                  "additionals": [
+                    {
+                      "title": "Tot Speed",
+                      "value": "1,157.61"
+                    },
+                    {
+                      "title": "# Measured",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02403",
+                  "name": "Smash Factor",
+                  "value": "1.476",
+                  "rank": "999",
+                  "projRank": "148",
+                  "additionals": [
+                    {
+                      "title": "Tot Sm Fac",
+                      "value": "10.332"
+                    },
+                    {
+                      "title": "# Measured",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02404",
+                  "name": "Launch Angle",
+                  "value": "12.22",
+                  "rank": "999",
+                  "projRank": "32",
+                  "additionals": [
+                    {
+                      "title": "Tot VLA",
+                      "value": "85.54"
+                    },
+                    {
+                      "title": "# Measured",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02405",
+                  "name": "Spin Rate",
+                  "value": "2,309.5",
+                  "rank": "999",
+                  "projRank": "179",
+                  "additionals": [
+                    {
+                      "title": "Tot Spin",
+                      "value": "9,238"
+                    },
+                    {
+                      "title": "# Measured",
+                      "value": "4"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02406",
+                  "name": "Distance to Apex",
+                  "value": "169.9",
+                  "rank": "999",
+                  "projRank": "170",
+                  "additionals": [
+                    {
+                      "title": "Tot ApxDst",
+                      "value": "1,019.2"
+                    },
+                    {
+                      "title": "# Measured",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02407",
+                  "name": "Apex Height",
+                  "value": "90' 4\"",
+                  "rank": "999",
+                  "projRank": "144",
+                  "additionals": [
+                    {
+                      "title": "Tot Height",
+                      "value": "542' 1\""
+                    },
+                    {
+                      "title": "# Measured",
+                      "value": "6"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02408",
+                  "name": "Hang Time",
+                  "value": "5.8",
+                  "rank": "999",
+                  "projRank": "165",
+                  "additionals": [
+                    {
+                      "title": "Tot Time",
+                      "value": "40.3"
+                    },
+                    {
+                      "title": "# Measured",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02409",
+                  "name": "Carry Distance",
+                  "value": "268.6",
+                  "rank": "999",
+                  "projRank": "129",
+                  "additionals": [
+                    {
+                      "title": "Tot Dist",
+                      "value": "1,343.1"
+                    },
+                    {
+                      "title": "# Measured",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02410",
+                  "name": "Carry Efficiency",
+                  "value": "2.397",
+                  "rank": "999",
+                  "projRank": "121",
+                  "additionals": [
+                    {
+                      "title": "Avg Carry",
+                      "value": "268.6"
+                    },
+                    {
+                      "title": "Avg CH Spd",
+                      "value": "112.069"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02411",
+                  "name": "Total Distance Efficiency",
+                  "value": "2.561",
+                  "rank": "999",
+                  "projRank": "62",
+                  "additionals": [
+                    {
+                      "title": "Avg Dist",
+                      "value": "286.921"
+                    },
+                    {
+                      "title": "Avg CH Spd",
+                      "value": "112.017"
+                    }
+                  ]
+                },
+                {
+                  "statID": "02412",
+                  "name": "Total Driving Efficiency",
+                  "value": "1,998",
+                  "rank": "999",
+                  "projRank": "186",
+                  "additionals": [],
+                  "explanation": "Tot Rnk of Radar stats 10 & 11",
+                  "explanationYesNo": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

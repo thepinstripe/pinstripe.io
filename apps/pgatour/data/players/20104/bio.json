@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Ken Duke",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_20104.png",
+    "country": "United States",
+    "Height": "6  ft, 1  in",
+    "Weight": "205 lbs",
+    "Birthday": "01/29/1969",
+    "College": "Henderson State University (1992, Sports Management)",
+    "Turned Pro": "1994",
+    "Birthplace": "Hope, Arkansas"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.20104.ken-duke.html",
+    "season": "http://www.pgatour.com/players/player.20104.ken-duke.html/season",
+    "career": "http://www.pgatour.com/players/player.20104.ken-duke.html/career",
+    "statistics": "http://www.pgatour.com/players/player.20104.ken-duke.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.20104.ken-duke.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.20104.ken-duke.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.20104.ken-duke.html/profile"
+  }
+}

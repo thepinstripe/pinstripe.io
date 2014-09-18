@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Jimmy Walker",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_25632.png",
+    "country": "United States",
+    "Height": "6  ft, 2  in",
+    "Weight": "180 lbs",
+    "Birthday": "01/16/1979",
+    "College": "Baylor University",
+    "Turned Pro": "2001",
+    "Birthplace": "Oklahoma City, Oklahoma"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.25632.jimmy-walker.html",
+    "season": "http://www.pgatour.com/players/player.25632.jimmy-walker.html/season",
+    "career": "http://www.pgatour.com/players/player.25632.jimmy-walker.html/career",
+    "statistics": "http://www.pgatour.com/players/player.25632.jimmy-walker.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.25632.jimmy-walker.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.25632.jimmy-walker.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.25632.jimmy-walker.html/profile"
+  }
+}

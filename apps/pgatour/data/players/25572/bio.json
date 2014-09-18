@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Graeme McDowell",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_25572.png",
+    "country": "Northern Ireland",
+    "Height": "5  ft, 11  in",
+    "Weight": "168 lbs",
+    "Birthday": "07/30/1979",
+    "College": "University of Alabama-Birmingham (2002, Economics, Engineering)",
+    "Turned Pro": "2002",
+    "Birthplace": "Portrush, Northern Ireland"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.25572.graeme-mcdowell.html",
+    "season": "http://www.pgatour.com/players/player.25572.graeme-mcdowell.html/season",
+    "career": "http://www.pgatour.com/players/player.25572.graeme-mcdowell.html/career",
+    "statistics": "http://www.pgatour.com/players/player.25572.graeme-mcdowell.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.25572.graeme-mcdowell.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.25572.graeme-mcdowell.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.25572.graeme-mcdowell.html/profile"
+  }
+}

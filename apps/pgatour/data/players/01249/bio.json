@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "John Daly",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_01249.png",
+    "country": "United States",
+    "Height": "5  ft, 11  in",
+    "Weight": "215 lbs",
+    "Birthday": "04/28/1966",
+    "College": "University of Arkansas",
+    "Turned Pro": "1987",
+    "Birthplace": "Carmichael, California"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.01249.john-daly.html",
+    "season": "http://www.pgatour.com/players/player.01249.john-daly.html/season",
+    "career": "http://www.pgatour.com/players/player.01249.john-daly.html/career",
+    "statistics": "http://www.pgatour.com/players/player.01249.john-daly.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.01249.john-daly.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.01249.john-daly.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.01249.john-daly.html/profile"
+  }
+}

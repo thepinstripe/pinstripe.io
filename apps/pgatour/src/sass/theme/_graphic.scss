@@ -1,0 +1,52 @@
+//------------------------------------------------------------------------------
+//
+//  SVG elements
+//
+//------------------------------------------------------------------------------
+
+svg {
+  //background-color: rgba(255, 255, 255, 0.03);
+}
+
+//------------------------------------------------------------------------------
+//
+//  Utils
+//
+//------------------------------------------------------------------------------
+
+.hairline {
+  stroke: #fff;
+  stroke-opacity: 0.15;
+}
+
+//------------------------------------------------------------------------------
+//
+//  Colour palette
+//
+//------------------------------------------------------------------------------
+
+@mixin palette-colour($name, $colour) {
+  .stroke--#{$name} {
+    stroke: $colour;
+  }
+
+  .fill--#{$name} {
+    fill: $colour;
+  }
+  
+  .#{$name} {
+    color: $colour;
+  }
+  
+  .bg--#{$name} {
+    background-color: $colour;
+  }
+}
+
+@include palette-colour('navy', $navy);
+@include palette-colour('contrast', $contrast);
+@include palette-colour('chrome', $chrome);
+@include palette-colour('lemon', $lemon);
+@include palette-colour('pear', $pear);
+@include palette-colour('spearmint', $spearmint);
+@include palette-colour('peppermint', $peppermint);

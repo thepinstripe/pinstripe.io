@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Zach Johnson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_24024.png",
+    "country": "United States",
+    "Height": "5  ft, 11  in",
+    "Weight": "164 lbs",
+    "Birthday": "02/24/1976",
+    "College": "Drake University (1998, Business Management/Marketing)",
+    "Turned Pro": "1998",
+    "Birthplace": "Cedar Rapids, Iowa"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.24024.zach-johnson.html",
+    "season": "http://www.pgatour.com/players/player.24024.zach-johnson.html/season",
+    "career": "http://www.pgatour.com/players/player.24024.zach-johnson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.24024.zach-johnson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.24024.zach-johnson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.24024.zach-johnson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.24024.zach-johnson.html/profile"
+  }
+}

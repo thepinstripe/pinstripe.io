@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Tim Clark",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_23135.png",
+    "country": "South Africa",
+    "Height": "5  ft, 7  in",
+    "Weight": "165 lbs",
+    "Birthday": "12/17/1975",
+    "College": "North Carolina State University",
+    "Turned Pro": "1998",
+    "Birthplace": "Durban, South Africa"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.23135.tim-clark.html",
+    "season": "http://www.pgatour.com/players/player.23135.tim-clark.html/season",
+    "career": "http://www.pgatour.com/players/player.23135.tim-clark.html/career",
+    "statistics": "http://www.pgatour.com/players/player.23135.tim-clark.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.23135.tim-clark.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.23135.tim-clark.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.23135.tim-clark.html/profile"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Tiger Woods",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_08793.png",
+    "country": "United States",
+    "Height": "6  ft, 1  in",
+    "Weight": "185 lbs",
+    "Birthday": "12/30/1975",
+    "College": "Stanford University",
+    "Turned Pro": "1996",
+    "Birthplace": "Cypress, California"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.08793.tiger-woods.html",
+    "season": "http://www.pgatour.com/players/player.08793.tiger-woods.html/season",
+    "career": "http://www.pgatour.com/players/player.08793.tiger-woods.html/career",
+    "statistics": "http://www.pgatour.com/players/player.08793.tiger-woods.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.08793.tiger-woods.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.08793.tiger-woods.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.08793.tiger-woods.html/profile"
+  }
+}

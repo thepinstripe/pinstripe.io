@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "James Driscoll",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_23409.png",
+    "country": "United States",
+    "Height": "6  ft, 0  in",
+    "Weight": "190 lbs",
+    "Birthday": "10/09/1977",
+    "College": "University of Virginia",
+    "Turned Pro": "2001",
+    "Birthplace": "Boston, Massachusetts"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.23409.james-driscoll.html",
+    "season": "http://www.pgatour.com/players/player.23409.james-driscoll.html/season",
+    "career": "http://www.pgatour.com/players/player.23409.james-driscoll.html/career",
+    "statistics": "http://www.pgatour.com/players/player.23409.james-driscoll.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.23409.james-driscoll.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.23409.james-driscoll.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.23409.james-driscoll.html/profile"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Brian Stuard",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_31560.png",
+    "country": "United States",
+    "Height": "5  ft, 10  in",
+    "Weight": "175 lbs",
+    "Birthday": "12/10/1982",
+    "College": "Oakland University (2005, Business Management)",
+    "Turned Pro": "2005",
+    "Birthplace": "Jackson, Michigan"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.31560.brian-stuard.html",
+    "season": "http://www.pgatour.com/players/player.31560.brian-stuard.html/season",
+    "career": "http://www.pgatour.com/players/player.31560.brian-stuard.html/career",
+    "statistics": "http://www.pgatour.com/players/player.31560.brian-stuard.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.31560.brian-stuard.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.31560.brian-stuard.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.31560.brian-stuard.html/profile"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Alex Prugh",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_30946.png",
+    "country": "United States",
+    "Height": "5  ft, 10  in",
+    "Weight": "175 lbs",
+    "Birthday": "09/01/1984",
+    "College": "University of Washington (2007, Economics)",
+    "Turned Pro": "2007",
+    "Birthplace": "Spokane, Washington"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.30946.alex-prugh.html",
+    "season": "http://www.pgatour.com/players/player.30946.alex-prugh.html/season",
+    "career": "http://www.pgatour.com/players/player.30946.alex-prugh.html/career",
+    "statistics": "http://www.pgatour.com/players/player.30946.alex-prugh.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.30946.alex-prugh.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.30946.alex-prugh.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.30946.alex-prugh.html/profile"
+  }
+}

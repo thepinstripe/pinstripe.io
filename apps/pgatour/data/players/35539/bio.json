@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Luke Guthrie",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_35539.png",
+    "country": "United States",
+    "Height": "6  ft, 0  in",
+    "Weight": "175 lbs",
+    "Birthday": "01/31/1990",
+    "College": "University of Illinois",
+    "Turned Pro": "2012",
+    "Birthplace": "Quincy, Illinois"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.35539.luke-guthrie.html",
+    "season": "http://www.pgatour.com/players/player.35539.luke-guthrie.html/season",
+    "career": "http://www.pgatour.com/players/player.35539.luke-guthrie.html/career",
+    "statistics": "http://www.pgatour.com/players/player.35539.luke-guthrie.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.35539.luke-guthrie.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.35539.luke-guthrie.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.35539.luke-guthrie.html/profile"
+  }
+}

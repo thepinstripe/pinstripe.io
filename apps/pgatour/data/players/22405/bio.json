@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Justin Rose",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_22405.png",
+    "country": "England",
+    "Height": "6  ft, 3  in",
+    "Weight": "195 lbs",
+    "Birthday": "07/30/1980",
+    "Turned Pro": "1998",
+    "Birthplace": "Johannesburg, South Africa"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.22405.justin-rose.html",
+    "season": "http://www.pgatour.com/players/player.22405.justin-rose.html/season",
+    "career": "http://www.pgatour.com/players/player.22405.justin-rose.html/career",
+    "statistics": "http://www.pgatour.com/players/player.22405.justin-rose.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.22405.justin-rose.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.22405.justin-rose.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.22405.justin-rose.html/profile"
+  }
+}

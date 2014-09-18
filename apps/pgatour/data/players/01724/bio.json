@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Jeff Maggert",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_01724.png",
+    "country": "United States",
+    "Height": "5  ft, 9  in",
+    "Weight": "165 lbs",
+    "Birthday": "02/20/1964",
+    "College": "Texas A&M University",
+    "Turned Pro": "1986",
+    "Birthplace": "Columbia, Missouri"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.01724.jeff-maggert.html",
+    "season": "http://www.pgatour.com/players/player.01724.jeff-maggert.html/season",
+    "career": "http://www.pgatour.com/players/player.01724.jeff-maggert.html/career",
+    "statistics": "http://www.pgatour.com/players/player.01724.jeff-maggert.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.01724.jeff-maggert.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.01724.jeff-maggert.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.01724.jeff-maggert.html/profile"
+  }
+}

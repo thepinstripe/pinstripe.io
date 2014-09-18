@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Greg Chalmers",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_20593.png",
+    "country": "Australia",
+    "Height": "6  ft, 0  in",
+    "Weight": "200 lbs",
+    "Birthday": "10/11/1973",
+    "Turned Pro": "1995",
+    "Birthplace": "Sydney, Australia"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.20593.greg-chalmers.html",
+    "season": "http://www.pgatour.com/players/player.20593.greg-chalmers.html/season",
+    "career": "http://www.pgatour.com/players/player.20593.greg-chalmers.html/career",
+    "statistics": "http://www.pgatour.com/players/player.20593.greg-chalmers.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.20593.greg-chalmers.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.20593.greg-chalmers.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.20593.greg-chalmers.html/profile"
+  }
+}

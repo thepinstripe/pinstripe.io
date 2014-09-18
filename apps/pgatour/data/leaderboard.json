@@ -1,0 +1,2582 @@
+[
+  {
+    "id": "24781",
+    "rankThisWeek": 1,
+    "rankLastWeek": 62,
+    "name": "Hunter Mahan",
+    "events": 21,
+    "points": 3276,
+    "wins": null,
+    "top10s": 5
+  },
+  {
+    "id": "28237",
+    "rankThisWeek": 2,
+    "rankLastWeek": 1,
+    "name": "Rory McIlroy",
+    "events": 13,
+    "points": 2810,
+    "wins": 3,
+    "top10s": 9
+  },
+  {
+    "id": "25632",
+    "rankThisWeek": 3,
+    "rankLastWeek": 2,
+    "name": "Jimmy Walker",
+    "events": 23,
+    "points": 2493,
+    "wins": 3,
+    "top10s": 9
+  },
+  {
+    "id": "23108",
+    "rankThisWeek": 4,
+    "rankLastWeek": 4,
+    "name": "Matt Kuchar",
+    "events": 20,
+    "points": 2421,
+    "wins": 1,
+    "top10s": 10
+  },
+  {
+    "id": "25804",
+    "rankThisWeek": 5,
+    "rankLastWeek": 3,
+    "name": "Bubba Watson",
+    "events": 17,
+    "points": 2360,
+    "wins": 2,
+    "top10s": 7
+  },
+  {
+    "id": "10809",
+    "rankThisWeek": 6,
+    "rankLastWeek": 5,
+    "name": "Jim Furyk",
+    "events": 17,
+    "points": 2276,
+    "wins": null,
+    "top10s": 8
+  },
+  {
+    "id": "28089",
+    "rankThisWeek": 7,
+    "rankLastWeek": 34,
+    "name": "Jason Day",
+    "events": 11,
+    "points": 2111,
+    "wins": 1,
+    "top10s": 3
+  },
+  {
+    "id": "34360",
+    "rankThisWeek": 8,
+    "rankLastWeek": 9,
+    "name": "Patrick Reed",
+    "events": 24,
+    "points": 2028,
+    "wins": 2,
+    "top10s": 3
+  },
+  {
+    "id": "34046",
+    "rankThisWeek": 9,
+    "rankLastWeek": 8,
+    "name": "Jordan Spieth",
+    "events": 23,
+    "points": 1919,
+    "wins": null,
+    "top10s": 7
+  },
+  {
+    "id": "33419",
+    "rankThisWeek": 10,
+    "rankLastWeek": 61,
+    "name": "Cameron Tringale",
+    "events": 27,
+    "points": 1865,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "32102",
+    "rankThisWeek": 11,
+    "rankLastWeek": 16,
+    "name": "Rickie Fowler",
+    "events": 22,
+    "points": 1834,
+    "wins": null,
+    "top10s": 7
+  },
+  {
+    "id": "24024",
+    "rankThisWeek": 12,
+    "rankLastWeek": 11,
+    "name": "Zach Johnson",
+    "events": 22,
+    "points": 1780,
+    "wins": 1,
+    "top10s": 5
+  },
+  {
+    "id": "25396",
+    "rankThisWeek": 13,
+    "rankLastWeek": 20,
+    "name": "Kevin Na",
+    "events": 23,
+    "points": 1776,
+    "wins": null,
+    "top10s": 5
+  },
+  {
+    "id": "30925",
+    "rankThisWeek": 14,
+    "rankLastWeek": 6,
+    "name": "Dustin Johnson",
+    "events": 17,
+    "points": 1769,
+    "wins": 1,
+    "top10s": 7
+  },
+  {
+    "id": "21209",
+    "rankThisWeek": 15,
+    "rankLastWeek": 7,
+    "name": "Sergio Garcia",
+    "events": 13,
+    "points": 1763,
+    "wins": null,
+    "top10s": 8
+  },
+  {
+    "id": "24502",
+    "rankThisWeek": 16,
+    "rankLastWeek": 15,
+    "name": "Adam Scott",
+    "events": 13,
+    "points": 1752,
+    "wins": 1,
+    "top10s": 8
+  },
+  {
+    "id": "30926",
+    "rankThisWeek": 17,
+    "rankLastWeek": 10,
+    "name": "Chris Kirk",
+    "events": 24,
+    "points": 1654,
+    "wins": 1,
+    "top10s": 3
+  },
+  {
+    "id": "30927",
+    "rankThisWeek": 18,
+    "rankLastWeek": 12,
+    "name": "Brendon Todd",
+    "events": 25,
+    "points": 1652,
+    "wins": 1,
+    "top10s": 7
+  },
+  {
+    "id": "20098",
+    "rankThisWeek": 19,
+    "rankLastWeek": 98,
+    "name": "Stuart Appleby",
+    "events": 26,
+    "points": 1637,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "22405",
+    "rankThisWeek": 20,
+    "rankLastWeek": 18,
+    "name": "Justin Rose",
+    "events": 16,
+    "points": 1634,
+    "wins": 1,
+    "top10s": 7
+  },
+  {
+    "id": "24924",
+    "rankThisWeek": 21,
+    "rankLastWeek": 24,
+    "name": "Bill Haas",
+    "events": 24,
+    "points": 1540,
+    "wins": null,
+    "top10s": 4
+  },
+  {
+    "id": "29221",
+    "rankThisWeek": 22,
+    "rankLastWeek": 13,
+    "name": "Webb Simpson",
+    "events": 21,
+    "points": 1536,
+    "wins": 1,
+    "top10s": 8
+  },
+  {
+    "id": "27408",
+    "rankThisWeek": 23,
+    "rankLastWeek": 14,
+    "name": "Martin Kaymer",
+    "events": 15,
+    "points": 1525,
+    "wins": 2,
+    "top10s": 3
+  },
+  {
+    "id": "32839",
+    "rankThisWeek": 24,
+    "rankLastWeek": 22,
+    "name": "Hideki Matsuyama",
+    "events": 20,
+    "points": 1475,
+    "wins": 1,
+    "top10s": 4
+  },
+  {
+    "id": "34099",
+    "rankThisWeek": 25,
+    "rankLastWeek": 17,
+    "name": "Harris English",
+    "events": 25,
+    "points": 1469,
+    "wins": 1,
+    "top10s": 7
+  },
+  {
+    "id": "26596",
+    "rankThisWeek": 26,
+    "rankLastWeek": 19,
+    "name": "Ryan Moore",
+    "events": 21,
+    "points": 1429,
+    "wins": 1,
+    "top10s": 7
+  },
+  {
+    "id": "27644",
+    "rankThisWeek": 27,
+    "rankLastWeek": 21,
+    "name": "Brian Harman",
+    "events": 29,
+    "points": 1411,
+    "wins": 1,
+    "top10s": 6
+  },
+  {
+    "id": "20645",
+    "rankThisWeek": 28,
+    "rankLastWeek": 26,
+    "name": "John Senden",
+    "events": 23,
+    "points": 1384,
+    "wins": 1,
+    "top10s": 4
+  },
+  {
+    "id": "33141",
+    "rankThisWeek": 29,
+    "rankLastWeek": 23,
+    "name": "Keegan Bradley",
+    "events": 23,
+    "points": 1361,
+    "wins": null,
+    "top10s": 6
+  },
+  {
+    "id": "31323",
+    "rankThisWeek": 30,
+    "rankLastWeek": 32,
+    "name": "Gary Woodland",
+    "events": 21,
+    "points": 1352,
+    "wins": null,
+    "top10s": 4
+  },
+  {
+    "id": "21961",
+    "rankThisWeek": 31,
+    "rankLastWeek": 33,
+    "name": "Charles Howell III",
+    "events": 26,
+    "points": 1269,
+    "wins": null,
+    "top10s": 6
+  },
+  {
+    "id": "28307",
+    "rankThisWeek": 32,
+    "rankLastWeek": 25,
+    "name": "Matt Every",
+    "events": 23,
+    "points": 1250,
+    "wins": 1,
+    "top10s": 6
+  },
+  {
+    "id": "12716",
+    "rankThisWeek": 33,
+    "rankLastWeek": 35,
+    "name": "Charley Hoffman",
+    "events": 22,
+    "points": 1214,
+    "wins": null,
+    "top10s": 5
+  },
+  {
+    "id": "26679",
+    "rankThisWeek": 34,
+    "rankLastWeek": 31,
+    "name": "Kevin Stadler",
+    "events": 23,
+    "points": 1177,
+    "wins": 1,
+    "top10s": 3
+  },
+  {
+    "id": "31202",
+    "rankThisWeek": 35,
+    "rankLastWeek": 81,
+    "name": "William McGirt",
+    "events": 26,
+    "points": 1146,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "26851",
+    "rankThisWeek": 36,
+    "rankLastWeek": 27,
+    "name": "Marc Leishman",
+    "events": 21,
+    "points": 1137,
+    "wins": null,
+    "top10s": 6
+  },
+  {
+    "id": "27436",
+    "rankThisWeek": 37,
+    "rankLastWeek": 28,
+    "name": "Graham DeLaet",
+    "events": 21,
+    "points": 1113,
+    "wins": null,
+    "top10s": 7
+  },
+  {
+    "id": "23135",
+    "rankThisWeek": 38,
+    "rankLastWeek": 29,
+    "name": "Tim Clark",
+    "events": 24,
+    "points": 1111,
+    "wins": 1,
+    "top10s": 3
+  },
+  {
+    "id": "06522",
+    "rankThisWeek": 39,
+    "rankLastWeek": 91,
+    "name": "Ernie Els",
+    "events": 21,
+    "points": 1110,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "25572",
+    "rankThisWeek": 40,
+    "rankLastWeek": 43,
+    "name": "Graeme McDowell",
+    "events": 15,
+    "points": 1096,
+    "wins": null,
+    "top10s": 8
+  },
+  {
+    "id": "27963",
+    "rankThisWeek": 41,
+    "rankLastWeek": 51,
+    "name": "Chris Stroud",
+    "events": 22,
+    "points": 1089,
+    "wins": null,
+    "top10s": 4
+  },
+  {
+    "id": "27214",
+    "rankThisWeek": 42,
+    "rankLastWeek": 39,
+    "name": "Kevin Streelman",
+    "events": 21,
+    "points": 1082,
+    "wins": 1,
+    "top10s": 2
+  },
+  {
+    "id": "23320",
+    "rankThisWeek": 43,
+    "rankLastWeek": 30,
+    "name": "Ryan Palmer",
+    "events": 19,
+    "points": 1073,
+    "wins": null,
+    "top10s": 6
+  },
+  {
+    "id": "25274",
+    "rankThisWeek": 44,
+    "rankLastWeek": 52,
+    "name": "Steven Bowditch",
+    "events": 27,
+    "points": 1056,
+    "wins": 1,
+    "top10s": 1
+  },
+  {
+    "id": "20848",
+    "rankThisWeek": 45,
+    "rankLastWeek": 56,
+    "name": "Angel Cabrera",
+    "events": 20,
+    "points": 1035,
+    "wins": 1,
+    "top10s": 1
+  },
+  {
+    "id": "33122",
+    "rankThisWeek": 46,
+    "rankLastWeek": 48,
+    "name": "Russell Knox",
+    "events": 23,
+    "points": 1033,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "29289",
+    "rankThisWeek": 47,
+    "rankLastWeek": 42,
+    "name": "Seung-Yul Noh",
+    "events": 24,
+    "points": 1032,
+    "wins": 1,
+    "top10s": 2
+  },
+  {
+    "id": "27141",
+    "rankThisWeek": 48,
+    "rankLastWeek": 36,
+    "name": "J.B. Holmes",
+    "events": 21,
+    "points": 1007,
+    "wins": 1,
+    "top10s": 2
+  },
+  {
+    "id": "27770",
+    "rankThisWeek": 49,
+    "rankLastWeek": 37,
+    "name": "Camilo Villegas",
+    "events": 26,
+    "points": 1002,
+    "wins": 1,
+    "top10s": 1
+  },
+  {
+    "id": "24494",
+    "rankThisWeek": 50,
+    "rankLastWeek": 65,
+    "name": "Erik Compton",
+    "events": 25,
+    "points": 1000,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "21731",
+    "rankThisWeek": 51,
+    "rankLastWeek": 38,
+    "name": "Freddie Jacobson",
+    "events": 24,
+    "points": 987,
+    "wins": null,
+    "top10s": 4
+  },
+  {
+    "id": "25834",
+    "rankThisWeek": 52,
+    "rankLastWeek": 49,
+    "name": "Daniel Summerhays",
+    "events": 24,
+    "points": 979,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "26331",
+    "rankThisWeek": 53,
+    "rankLastWeek": 60,
+    "name": "Charl Schwartzel",
+    "events": 15,
+    "points": 970,
+    "wins": null,
+    "top10s": 5
+  },
+  {
+    "id": "26300",
+    "rankThisWeek": 54,
+    "rankLastWeek": 40,
+    "name": "Matt Jones",
+    "events": 22,
+    "points": 970,
+    "wins": 1,
+    "top10s": 1
+  },
+  {
+    "id": "24490",
+    "rankThisWeek": 55,
+    "rankLastWeek": 41,
+    "name": "George McNeill",
+    "events": 21,
+    "points": 962,
+    "wins": null,
+    "top10s": 4
+  },
+  {
+    "id": "30852",
+    "rankThisWeek": 56,
+    "rankLastWeek": 75,
+    "name": "Ryo Ishikawa",
+    "events": 22,
+    "points": 936,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "01810",
+    "rankThisWeek": 57,
+    "rankLastWeek": 45,
+    "name": "Phil Mickelson",
+    "events": 18,
+    "points": 926,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "25444",
+    "rankThisWeek": 58,
+    "rankLastWeek": 44,
+    "name": "Justin Hicks",
+    "events": 28,
+    "points": 923,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "24912",
+    "rankThisWeek": 59,
+    "rankLastWeek": 46,
+    "name": "Will MacKenzie",
+    "events": 24,
+    "points": 920,
+    "wins": null,
+    "top10s": 5
+  },
+  {
+    "id": "08075",
+    "rankThisWeek": 60,
+    "rankLastWeek": 64,
+    "name": "Jerry Kelly",
+    "events": 20,
+    "points": 913,
+    "wins": null,
+    "top10s": 4
+  },
+  {
+    "id": "32366",
+    "rankThisWeek": 61,
+    "rankLastWeek": 68,
+    "name": "Kevin Chappell",
+    "events": 25,
+    "points": 911,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "34098",
+    "rankThisWeek": 62,
+    "rankLastWeek": 50,
+    "name": "Russell Henley",
+    "events": 25,
+    "points": 904,
+    "wins": 1,
+    "top10s": 2
+  },
+  {
+    "id": "33413",
+    "rankThisWeek": 63,
+    "rankLastWeek": 58,
+    "name": "Ben Martin",
+    "events": 24,
+    "points": 899,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "31560",
+    "rankThisWeek": 64,
+    "rankLastWeek": 47,
+    "name": "Brian Stuard",
+    "events": 26,
+    "points": 895,
+    "wins": null,
+    "top10s": 4
+  },
+  {
+    "id": "34261",
+    "rankThisWeek": 65,
+    "rankLastWeek": 73,
+    "name": "Scott Langley",
+    "events": 27,
+    "points": 873,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "21528",
+    "rankThisWeek": 66,
+    "rankLastWeek": 70,
+    "name": "Henrik Stenson",
+    "events": 12,
+    "points": 867,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "33418",
+    "rankThisWeek": 67,
+    "rankLastWeek": 83,
+    "name": "Shawn Stefani",
+    "events": 15,
+    "points": 827,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "24507",
+    "rankThisWeek": 68,
+    "rankLastWeek": 59,
+    "name": "Jason Bohn",
+    "events": 22,
+    "points": 824,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "24357",
+    "rankThisWeek": 69,
+    "rankLastWeek": 54,
+    "name": "K.J. Choi",
+    "events": 20,
+    "points": 819,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "29479",
+    "rankThisWeek": 70,
+    "rankLastWeek": 53,
+    "name": "Scott Brown",
+    "events": 28,
+    "points": 816,
+    "wins": null,
+    "top10s": 4
+  },
+  {
+    "id": "27649",
+    "rankThisWeek": 71,
+    "rankLastWeek": 55,
+    "name": "Brandt Snedeker",
+    "events": 23,
+    "points": 812,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "33461",
+    "rankThisWeek": 72,
+    "rankLastWeek": 124,
+    "name": "Morgan Hoffmann",
+    "events": 28,
+    "points": 811,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "23623",
+    "rankThisWeek": 73,
+    "rankLastWeek": 104,
+    "name": "Bo Van Pelt",
+    "events": 23,
+    "points": 811,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "25686",
+    "rankThisWeek": 74,
+    "rankLastWeek": 57,
+    "name": "Jason Dufner",
+    "events": 17,
+    "points": 798,
+    "wins": null,
+    "top10s": 4
+  },
+  {
+    "id": "26758",
+    "rankThisWeek": 75,
+    "rankLastWeek": 82,
+    "name": "David Hearn",
+    "events": 26,
+    "points": 793,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "29518",
+    "rankThisWeek": 76,
+    "rankLastWeek": 67,
+    "name": "Brendan Steele",
+    "events": 24,
+    "points": 791,
+    "wins": null,
+    "top10s": 4
+  },
+  {
+    "id": "20229",
+    "rankThisWeek": 77,
+    "rankLastWeek": 109,
+    "name": "Stewart Cink",
+    "events": 23,
+    "points": 776,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "23541",
+    "rankThisWeek": 78,
+    "rankLastWeek": 63,
+    "name": "Ben Crane",
+    "events": 22,
+    "points": 774,
+    "wins": 1,
+    "top10s": 2
+  },
+  {
+    "id": "23638",
+    "rankThisWeek": 79,
+    "rankLastWeek": 71,
+    "name": "Brendon de Jonge",
+    "events": 29,
+    "points": 757,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "23983",
+    "rankThisWeek": 80,
+    "rankLastWeek": 66,
+    "name": "Luke Donald",
+    "events": 15,
+    "points": 743,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "25191",
+    "rankThisWeek": 81,
+    "rankLastWeek": 119,
+    "name": "Gonzalo Fdez-Castano",
+    "events": 23,
+    "points": 743,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "29420",
+    "rankThisWeek": 82,
+    "rankLastWeek": 69,
+    "name": "Billy Horschel",
+    "events": 23,
+    "points": 722,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "28475",
+    "rankThisWeek": 83,
+    "rankLastWeek": 86,
+    "name": "Jeff Overton",
+    "events": 22,
+    "points": 713,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "34563",
+    "rankThisWeek": 84,
+    "rankLastWeek": 72,
+    "name": "Chesson Hadley",
+    "events": 26,
+    "points": 710,
+    "wins": 1,
+    "top10s": 3
+  },
+  {
+    "id": "25364",
+    "rankThisWeek": 85,
+    "rankLastWeek": 118,
+    "name": "Paul Casey",
+    "events": 15,
+    "points": 699,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "34174",
+    "rankThisWeek": 86,
+    "rankLastWeek": 99,
+    "name": "John Huh",
+    "events": 26,
+    "points": 691,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "24361",
+    "rankThisWeek": 87,
+    "rankLastWeek": 74,
+    "name": "Pat Perez",
+    "events": 23,
+    "points": 682,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "24358",
+    "rankThisWeek": 88,
+    "rankLastWeek": 76,
+    "name": "Robert Garrigus",
+    "events": 23,
+    "points": 678,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "30944",
+    "rankThisWeek": 89,
+    "rankLastWeek": 85,
+    "name": "Jason Kokrak",
+    "events": 17,
+    "points": 672,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "30692",
+    "rankThisWeek": 90,
+    "rankLastWeek": 77,
+    "name": "Scott Stallings",
+    "events": 26,
+    "points": 668,
+    "wins": 1,
+    "top10s": 1
+  },
+  {
+    "id": "24138",
+    "rankThisWeek": 91,
+    "rankLastWeek": 78,
+    "name": "Ian Poulter",
+    "events": 15,
+    "points": 657,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "25562",
+    "rankThisWeek": 92,
+    "rankLastWeek": 110,
+    "name": "Andres Romero",
+    "events": 24,
+    "points": 651,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "25345",
+    "rankThisWeek": 93,
+    "rankLastWeek": 79,
+    "name": "Carl Pettersson",
+    "events": 25,
+    "points": 650,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "29425",
+    "rankThisWeek": 94,
+    "rankLastWeek": 80,
+    "name": "Andrew Svoboda",
+    "events": 22,
+    "points": 647,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "06567",
+    "rankThisWeek": 95,
+    "rankLastWeek": 88,
+    "name": "Vijay Singh",
+    "events": 23,
+    "points": 638,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "29926",
+    "rankThisWeek": 96,
+    "rankLastWeek": 116,
+    "name": "Danny Lee",
+    "events": 26,
+    "points": 637,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "34431",
+    "rankThisWeek": 97,
+    "rankLastWeek": 84,
+    "name": "Robert Streb",
+    "events": 19,
+    "points": 635,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "29222",
+    "rankThisWeek": 98,
+    "rankLastWeek": 87,
+    "name": "Billy Hurley III",
+    "events": 24,
+    "points": 630,
+    "wins": null,
+    "top10s": 4
+  },
+  {
+    "id": "28486",
+    "rankThisWeek": 99,
+    "rankLastWeek": 89,
+    "name": "Michael Putnam",
+    "events": 28,
+    "points": 618,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "22046",
+    "rankThisWeek": 100,
+    "rankLastWeek": 90,
+    "name": "Geoff Ogilvy",
+    "events": 22,
+    "points": 611,
+    "wins": 1,
+    "top10s": 1
+  },
+  {
+    "id": "32640",
+    "rankThisWeek": 101,
+    "rankLastWeek": 111,
+    "name": "Troy Merritt",
+    "events": 19,
+    "points": 609,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "27895",
+    "rankThisWeek": 102,
+    "rankLastWeek": 92,
+    "name": "Jonas Blixt",
+    "events": 20,
+    "points": 599,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "20157",
+    "rankThisWeek": 103,
+    "rankLastWeek": 96,
+    "name": "Retief Goosen",
+    "events": 25,
+    "points": 591,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "29478",
+    "rankThisWeek": 104,
+    "rankLastWeek": 93,
+    "name": "Kevin Kisner",
+    "events": 25,
+    "points": 587,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "27095",
+    "rankThisWeek": 105,
+    "rankLastWeek": 94,
+    "name": "Nick Watney",
+    "events": 24,
+    "points": 584,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "35539",
+    "rankThisWeek": 106,
+    "rankLastWeek": 95,
+    "name": "Luke Guthrie",
+    "events": 25,
+    "points": 580,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "20396",
+    "rankThisWeek": 107,
+    "rankLastWeek": 107,
+    "name": "Lee Westwood",
+    "events": 17,
+    "points": 577,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "23621",
+    "rankThisWeek": 108,
+    "rankLastWeek": 97,
+    "name": "Rory Sabbatini",
+    "events": 25,
+    "points": 567,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "23800",
+    "rankThisWeek": 109,
+    "rankLastWeek": 122,
+    "name": "Bryce Molder",
+    "events": 24,
+    "points": 565,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "21753",
+    "rankThisWeek": 110,
+    "rankLastWeek": 100,
+    "name": "Brian Davis",
+    "events": 27,
+    "points": 538,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "26289",
+    "rankThisWeek": 111,
+    "rankLastWeek": 113,
+    "name": "Boo Weekley",
+    "events": 23,
+    "points": 536,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "28500",
+    "rankThisWeek": 112,
+    "rankLastWeek": 101,
+    "name": "Martin Flores",
+    "events": 25,
+    "points": 534,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "24846",
+    "rankThisWeek": 113,
+    "rankLastWeek": 105,
+    "name": "Ricky Barnes",
+    "events": 26,
+    "points": 530,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "22371",
+    "rankThisWeek": 114,
+    "rankLastWeek": 102,
+    "name": "Aaron Baddeley",
+    "events": 23,
+    "points": 528,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "27064",
+    "rankThisWeek": 115,
+    "rankLastWeek": 108,
+    "name": "Jhonattan Vegas",
+    "events": 22,
+    "points": 528,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "06527",
+    "rankThisWeek": 116,
+    "rankLastWeek": 103,
+    "name": "Steve Stricker",
+    "events": 11,
+    "points": 519,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "32150",
+    "rankThisWeek": 117,
+    "rankLastWeek": 106,
+    "name": "Michael Thompson",
+    "events": 21,
+    "points": 515,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "02206",
+    "rankThisWeek": 118,
+    "rankLastWeek": 112,
+    "name": "David Toms",
+    "events": 19,
+    "points": 502,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "25349",
+    "rankThisWeek": 119,
+    "rankLastWeek": 114,
+    "name": "Tim Wilkinson",
+    "events": 24,
+    "points": 498,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "10860",
+    "rankThisWeek": 120,
+    "rankLastWeek": 115,
+    "name": "Justin Leonard",
+    "events": 21,
+    "points": 491,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "29535",
+    "rankThisWeek": 121,
+    "rankLastWeek": 117,
+    "name": "Brice Garnett",
+    "events": 27,
+    "points": 488,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "28259",
+    "rankThisWeek": 122,
+    "rankLastWeek": 120,
+    "name": "Sang-Moon Bae",
+    "events": 23,
+    "points": 466,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "32448",
+    "rankThisWeek": 123,
+    "rankLastWeek": 121,
+    "name": "James Hahn",
+    "events": 26,
+    "points": 456,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "26329",
+    "rankThisWeek": 124,
+    "rankLastWeek": 123,
+    "name": "Louis Oosthuizen",
+    "events": 15,
+    "points": 453,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "10885",
+    "rankThisWeek": 125,
+    "rankLastWeek": 125,
+    "name": "Robert Allenby",
+    "events": 28,
+    "points": 438,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "28780",
+    "rankThisWeek": 126,
+    "rankLastWeek": 126,
+    "name": "Nicholas Thompson",
+    "events": 30,
+    "points": 437,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "27936",
+    "rankThisWeek": 127,
+    "rankLastWeek": 127,
+    "name": "Martin Laird",
+    "events": 20,
+    "points": 425,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "23353",
+    "rankThisWeek": 128,
+    "rankLastWeek": 128,
+    "name": "J.J. Henry",
+    "events": 28,
+    "points": 425,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "22293",
+    "rankThisWeek": 129,
+    "rankLastWeek": 129,
+    "name": "Heath Slocum",
+    "events": 23,
+    "points": 419,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "32334",
+    "rankThisWeek": 130,
+    "rankLastWeek": 130,
+    "name": "Charlie Beljan",
+    "events": 26,
+    "points": 409,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "22621",
+    "rankThisWeek": 131,
+    "rankLastWeek": 131,
+    "name": "Ben Curtis",
+    "events": 24,
+    "points": 406,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "20593",
+    "rankThisWeek": 132,
+    "rankLastWeek": 132,
+    "name": "Greg Chalmers",
+    "events": 27,
+    "points": 402,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "27933",
+    "rankThisWeek": 133,
+    "rankLastWeek": 133,
+    "name": "John Merrick",
+    "events": 25,
+    "points": 399,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "34409",
+    "rankThisWeek": 134,
+    "rankLastWeek": 134,
+    "name": "David Lingmerth",
+    "events": 26,
+    "points": 391,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "32200",
+    "rankThisWeek": 135,
+    "rankLastWeek": 135,
+    "name": "Roberto Castro",
+    "events": 27,
+    "points": 387,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "24925",
+    "rankThisWeek": 136,
+    "rankLastWeek": 136,
+    "name": "Jonathan Byrd",
+    "events": 24,
+    "points": 383,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "35300",
+    "rankThisWeek": 137,
+    "rankLastWeek": 137,
+    "name": "Andrew Loupe",
+    "events": 22,
+    "points": 380,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "35139",
+    "rankThisWeek": 138,
+    "rankLastWeek": 138,
+    "name": "Richard Lee",
+    "events": 27,
+    "points": 376,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "10423",
+    "rankThisWeek": 139,
+    "rankLastWeek": 139,
+    "name": "Mike Weir",
+    "events": 25,
+    "points": 375,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "19846",
+    "rankThisWeek": 140,
+    "rankLastWeek": 140,
+    "name": "Brian Gay",
+    "events": 26,
+    "points": 375,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "20498",
+    "rankThisWeek": 141,
+    "rankLastWeek": 141,
+    "name": "Briny Baird",
+    "events": 17,
+    "points": 366,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "34265",
+    "rankThisWeek": 142,
+    "rankLastWeek": 142,
+    "name": "Will Wilcox",
+    "events": 16,
+    "points": 362,
+    "wins": null,
+    "top10s": 2
+  },
+  {
+    "id": "34021",
+    "rankThisWeek": 143,
+    "rankLastWeek": 143,
+    "name": "Bud Cauley",
+    "events": 19,
+    "points": 357,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "28132",
+    "rankThisWeek": 144,
+    "rankLastWeek": 144,
+    "name": "Tyrone Van Aswegen",
+    "events": 25,
+    "points": 355,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "22378",
+    "rankThisWeek": 145,
+    "rankLastWeek": 145,
+    "name": "Trevor Immelman",
+    "events": 28,
+    "points": 354,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "34264",
+    "rankThisWeek": 146,
+    "rankLastWeek": 146,
+    "name": "Hudson Swafford",
+    "events": 26,
+    "points": 351,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "31193",
+    "rankThisWeek": 147,
+    "rankLastWeek": 147,
+    "name": "Jim Renner",
+    "events": 25,
+    "points": 346,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "27330",
+    "rankThisWeek": 148,
+    "rankLastWeek": 148,
+    "name": "Josh Teater",
+    "events": 28,
+    "points": 334,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "20160",
+    "rankThisWeek": 149,
+    "rankLastWeek": 149,
+    "name": "Charlie Wi",
+    "events": 25,
+    "points": 329,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "26951",
+    "rankThisWeek": 150,
+    "rankLastWeek": 150,
+    "name": "Johnson Wagner",
+    "events": 24,
+    "points": 323,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "29740",
+    "rankThisWeek": 151,
+    "rankLastWeek": 151,
+    "name": "Brad Fritsch",
+    "events": 18,
+    "points": 322,
+    "wins": null,
+    "top10s": 3
+  },
+  {
+    "id": "12510",
+    "rankThisWeek": 152,
+    "rankLastWeek": 152,
+    "name": "Chad Campbell",
+    "events": 18,
+    "points": 317,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "35732",
+    "rankThisWeek": 153,
+    "rankLastWeek": 153,
+    "name": "Wes Roach",
+    "events": 22,
+    "points": 314,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "27556",
+    "rankThisWeek": 154,
+    "rankLastWeek": 154,
+    "name": "Ted Potter, Jr.",
+    "events": 24,
+    "points": 311,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "23409",
+    "rankThisWeek": 155,
+    "rankLastWeek": 155,
+    "name": "James Driscoll",
+    "events": 25,
+    "points": 311,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "30750",
+    "rankThisWeek": 156,
+    "rankLastWeek": 156,
+    "name": "Tommy Gainey",
+    "events": 26,
+    "points": 311,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "20104",
+    "rankThisWeek": 157,
+    "rankLastWeek": 157,
+    "name": "Ken Duke",
+    "events": 25,
+    "points": 305,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "30110",
+    "rankThisWeek": 158,
+    "rankLastWeek": 158,
+    "name": "Kyle Stanley",
+    "events": 28,
+    "points": 297,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "25720",
+    "rankThisWeek": 159,
+    "rankLastWeek": 159,
+    "name": "Chad Collins",
+    "events": 28,
+    "points": 295,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "24140",
+    "rankThisWeek": 160,
+    "rankLastWeek": 160,
+    "name": "Sean O'Hair",
+    "events": 25,
+    "points": 278,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "22792",
+    "rankThisWeek": 161,
+    "rankLastWeek": 161,
+    "name": "Peter Hanson",
+    "events": 13,
+    "points": 262,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01706",
+    "rankThisWeek": 162,
+    "rankLastWeek": 162,
+    "name": "Davis Love III",
+    "events": 22,
+    "points": 253,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "27466",
+    "rankThisWeek": 163,
+    "rankLastWeek": 163,
+    "name": "Spencer Levin",
+    "events": 20,
+    "points": 246,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "22913",
+    "rankThisWeek": 164,
+    "rankLastWeek": 164,
+    "name": "John Rollins",
+    "events": 28,
+    "points": 244,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "27120",
+    "rankThisWeek": 165,
+    "rankLastWeek": 165,
+    "name": "Troy Matteson",
+    "events": 23,
+    "points": 238,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "25818",
+    "rankThisWeek": 166,
+    "rankLastWeek": 166,
+    "name": "Scott Piercy",
+    "events": 12,
+    "points": 238,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "24663",
+    "rankThisWeek": 167,
+    "rankLastWeek": 167,
+    "name": "Y.E. Yang",
+    "events": 28,
+    "points": 234,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "07867",
+    "rankThisWeek": 168,
+    "rankLastWeek": 168,
+    "name": "Woody Austin",
+    "events": 22,
+    "points": 225,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "28158",
+    "rankThisWeek": 169,
+    "rankLastWeek": 169,
+    "name": "Steve Marino",
+    "events": 13,
+    "points": 224,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "06621",
+    "rankThisWeek": 170,
+    "rankLastWeek": 170,
+    "name": "Joe Durant",
+    "events": 15,
+    "points": 221,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "37273",
+    "rankThisWeek": 171,
+    "rankLastWeek": 171,
+    "name": "Derek Ernst",
+    "events": 28,
+    "points": 218,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "29461",
+    "rankThisWeek": 172,
+    "rankLastWeek": 172,
+    "name": "Jamie Lovemark",
+    "events": 20,
+    "points": 212,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "25240",
+    "rankThisWeek": 173,
+    "rankLastWeek": 173,
+    "name": "D.A. Points",
+    "events": 27,
+    "points": 206,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01724",
+    "rankThisWeek": 174,
+    "rankLastWeek": 174,
+    "name": "Jeff Maggert",
+    "events": 19,
+    "points": 195,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "33968",
+    "rankThisWeek": 175,
+    "rankLastWeek": 175,
+    "name": "Thorbjorn Olesen",
+    "events": 14,
+    "points": 182,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "22892",
+    "rankThisWeek": 176,
+    "rankLastWeek": 176,
+    "name": "Jason Gore",
+    "events": 7,
+    "points": 175,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "32333",
+    "rankThisWeek": 177,
+    "rankLastWeek": 177,
+    "name": "Kevin Tway",
+    "events": 23,
+    "points": 172,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "34466",
+    "rankThisWeek": 178,
+    "rankLastWeek": 178,
+    "name": "Peter Malnati",
+    "events": 18,
+    "points": 172,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "35541",
+    "rankThisWeek": 179,
+    "rankLastWeek": 179,
+    "name": "John Peterson",
+    "events": 25,
+    "points": 170,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "10213",
+    "rankThisWeek": 180,
+    "rankLastWeek": 180,
+    "name": "Dicky Pride",
+    "events": 13,
+    "points": 159,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "12782",
+    "rankThisWeek": 181,
+    "rankLastWeek": 181,
+    "name": "Tim Herron",
+    "events": 15,
+    "points": 157,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "31557",
+    "rankThisWeek": 182,
+    "rankLastWeek": 182,
+    "name": "Jim Herman",
+    "events": 21,
+    "points": 142,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "21878",
+    "rankThisWeek": 183,
+    "rankLastWeek": 183,
+    "name": "Mark Wilson",
+    "events": 25,
+    "points": 142,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "23048",
+    "rankThisWeek": 184,
+    "rankLastWeek": 184,
+    "name": "Eric Axley",
+    "events": 10,
+    "points": 141,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "25900",
+    "rankThisWeek": 185,
+    "rankLastWeek": 185,
+    "name": "Lucas Glover",
+    "events": 26,
+    "points": 129,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "26956",
+    "rankThisWeek": 186,
+    "rankLastWeek": 186,
+    "name": "Bronson La'Cassie",
+    "events": 18,
+    "points": 128,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "24399",
+    "rankThisWeek": 187,
+    "rankLastWeek": 187,
+    "name": "Scott Gardiner",
+    "events": 18,
+    "points": 125,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "20766",
+    "rankThisWeek": 188,
+    "rankLastWeek": 188,
+    "name": "Padraig Harrington",
+    "events": 16,
+    "points": 116,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "28093",
+    "rankThisWeek": 189,
+    "rankLastWeek": 189,
+    "name": "Miguel Angel Carballo",
+    "events": 15,
+    "points": 116,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "06004",
+    "rankThisWeek": 190,
+    "rankLastWeek": 190,
+    "name": "Stephen Ames",
+    "events": 18,
+    "points": 104,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "21099",
+    "rankThisWeek": 191,
+    "rankLastWeek": 191,
+    "name": "David Lynn",
+    "events": 11,
+    "points": 104,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01948",
+    "rankThisWeek": 192,
+    "rankLastWeek": 192,
+    "name": "Tim Petrovic",
+    "events": 10,
+    "points": 96,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "28092",
+    "rankThisWeek": 193,
+    "rankLastWeek": 193,
+    "name": "D.H. Lee",
+    "events": 20,
+    "points": 94,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "29910",
+    "rankThisWeek": 194,
+    "rankLastWeek": 194,
+    "name": "Blake Adams",
+    "events": 8,
+    "points": 91,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "21350",
+    "rankThisWeek": 195,
+    "rankLastWeek": 195,
+    "name": "Ryuji Imada",
+    "events": 9,
+    "points": 90,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "23452",
+    "rankThisWeek": 196,
+    "rankLastWeek": 196,
+    "name": "Nicolas Colsaerts",
+    "events": 12,
+    "points": 88,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01945",
+    "rankThisWeek": 197,
+    "rankLastWeek": 197,
+    "name": "Kenny Perry",
+    "events": 5,
+    "points": 83,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "19825",
+    "rankThisWeek": 198,
+    "rankLastWeek": 198,
+    "name": "Darren Clarke",
+    "events": 15,
+    "points": 83,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01666",
+    "rankThisWeek": 199,
+    "rankLastWeek": 199,
+    "name": "Bernhard Langer",
+    "events": 1,
+    "points": 80,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "22806",
+    "rankThisWeek": 200,
+    "rankLastWeek": 200,
+    "name": "Doug LaBelle II",
+    "events": 12,
+    "points": 79,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "35840",
+    "rankThisWeek": 201,
+    "rankLastWeek": 201,
+    "name": "Kevin Foley",
+    "events": 15,
+    "points": 78,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "09011",
+    "rankThisWeek": 202,
+    "rankLastWeek": 202,
+    "name": "David Duval",
+    "events": 15,
+    "points": 77,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "20572",
+    "rankThisWeek": 203,
+    "rankLastWeek": 203,
+    "name": "Rod Pampling",
+    "events": 7,
+    "points": 74,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "28310",
+    "rankThisWeek": 204,
+    "rankLastWeek": 204,
+    "name": "Lee Williams",
+    "events": 13,
+    "points": 74,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01320",
+    "rankThisWeek": 205,
+    "rankLastWeek": 205,
+    "name": "Bob Estes",
+    "events": 2,
+    "points": 73,
+    "wins": null,
+    "top10s": 1
+  },
+  {
+    "id": "30946",
+    "rankThisWeek": 206,
+    "rankLastWeek": 206,
+    "name": "Alex Prugh",
+    "events": 16,
+    "points": 72,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "12652",
+    "rankThisWeek": 207,
+    "rankLastWeek": 207,
+    "name": "Cameron Beckman",
+    "events": 12,
+    "points": 72,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "20691",
+    "rankThisWeek": 208,
+    "rankLastWeek": 208,
+    "name": "Greg Owen",
+    "events": 8,
+    "points": 67,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01249",
+    "rankThisWeek": 209,
+    "rankLastWeek": 209,
+    "name": "John Daly",
+    "events": 15,
+    "points": 63,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "19972",
+    "rankThisWeek": 210,
+    "rankLastWeek": 210,
+    "name": "Jose Coceres",
+    "events": 6,
+    "points": 59,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "20070",
+    "rankThisWeek": 211,
+    "rankLastWeek": 211,
+    "name": "Matt Bettencourt",
+    "events": 14,
+    "points": 57,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "33120",
+    "rankThisWeek": 212,
+    "rankLastWeek": 212,
+    "name": "Mark Anderson",
+    "events": 8,
+    "points": 55,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "28455",
+    "rankThisWeek": 213,
+    "rankLastWeek": 213,
+    "name": "Will Claxton",
+    "events": 8,
+    "points": 52,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "02256",
+    "rankThisWeek": 214,
+    "rankLastWeek": 214,
+    "name": "Tom Watson",
+    "events": 5,
+    "points": 51,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01226",
+    "rankThisWeek": 215,
+    "rankLastWeek": 215,
+    "name": "Fred Couples",
+    "events": 3,
+    "points": 49,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01161",
+    "rankThisWeek": 216,
+    "rankLastWeek": 216,
+    "name": "Mark Calcavecchia",
+    "events": 8,
+    "points": 49,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "35450",
+    "rankThisWeek": 217,
+    "rankLastWeek": 217,
+    "name": "Patrick Cantlay",
+    "events": 5,
+    "points": 48,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "08793",
+    "rankThisWeek": 218,
+    "rankLastWeek": 218,
+    "name": "Tiger Woods",
+    "events": 7,
+    "points": 45,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "23497",
+    "rankThisWeek": 219,
+    "rankLastWeek": 219,
+    "name": "Tag Ridings",
+    "events": 12,
+    "points": 42,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01577",
+    "rankThisWeek": 220,
+    "rankLastWeek": 220,
+    "name": "Lee Janzen",
+    "events": 8,
+    "points": 41,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "21949",
+    "rankThisWeek": 221,
+    "rankLastWeek": 221,
+    "name": "Joe Ogilvie",
+    "events": 13,
+    "points": 40,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "08931",
+    "rankThisWeek": 222,
+    "rankLastWeek": 222,
+    "name": "Glen Day",
+    "events": 5,
+    "points": 40,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "07457",
+    "rankThisWeek": null,
+    "rankLastWeek": null,
+    "name": "Steve Flesch",
+    "events": 5,
+    "points": 37,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "21805",
+    "rankThisWeek": null,
+    "rankLastWeek": null,
+    "name": "Harrison Frazar",
+    "events": 15,
+    "points": 37,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "24227",
+    "rankThisWeek": 225,
+    "rankLastWeek": 225,
+    "name": "Justin Bolli",
+    "events": 6,
+    "points": 37,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "06373",
+    "rankThisWeek": 226,
+    "rankLastWeek": 226,
+    "name": "Jose Maria Olazabal",
+    "events": 1,
+    "points": 36,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "20472",
+    "rankThisWeek": 227,
+    "rankLastWeek": 227,
+    "name": "Alex Cejka",
+    "events": 6,
+    "points": 34,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "06575",
+    "rankThisWeek": 228,
+    "rankLastWeek": 228,
+    "name": "Dudley Hart",
+    "events": 4,
+    "points": 32,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "26668",
+    "rankThisWeek": 229,
+    "rankLastWeek": 229,
+    "name": "Marc Turnesa",
+    "events": 6,
+    "points": 31,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "02106",
+    "rankThisWeek": 230,
+    "rankLastWeek": 230,
+    "name": "Chris Smith",
+    "events": 7,
+    "points": 28,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01717",
+    "rankThisWeek": 231,
+    "rankLastWeek": 231,
+    "name": "Sandy Lyle",
+    "events": 2,
+    "points": 25,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01766",
+    "rankThisWeek": 232,
+    "rankLastWeek": 232,
+    "name": "Billy Mayfair",
+    "events": 4,
+    "points": 24,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "24940",
+    "rankThisWeek": 233,
+    "rankLastWeek": 233,
+    "name": "Edward Loar",
+    "events": 19,
+    "points": 23,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01761",
+    "rankThisWeek": 234,
+    "rankLastWeek": 234,
+    "name": "Len Mattiace",
+    "events": 4,
+    "points": 21,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "10733",
+    "rankThisWeek": null,
+    "rankLastWeek": null,
+    "name": "Kent Jones",
+    "events": 2,
+    "points": 20,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01823",
+    "rankThisWeek": null,
+    "rankLastWeek": null,
+    "name": "Larry Mize",
+    "events": 1,
+    "points": 20,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "28087",
+    "rankThisWeek": 237,
+    "rankLastWeek": 237,
+    "name": "Kris Blanks",
+    "events": 8,
+    "points": 19,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "23788",
+    "rankThisWeek": 238,
+    "rankLastWeek": 238,
+    "name": "D.J. Trahan",
+    "events": 5,
+    "points": 18,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "26476",
+    "rankThisWeek": 239,
+    "rankLastWeek": 239,
+    "name": "Chez Reavie",
+    "events": 2,
+    "points": 18,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "31289",
+    "rankThisWeek": 240,
+    "rankLastWeek": 240,
+    "name": "Benjamin Alvarado",
+    "events": 6,
+    "points": 15,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "23718",
+    "rankThisWeek": 241,
+    "rankLastWeek": 241,
+    "name": "Nathan Green",
+    "events": 4,
+    "points": 14,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "36884",
+    "rankThisWeek": 242,
+    "rankLastWeek": 242,
+    "name": "Ben Kohles",
+    "events": 3,
+    "points": 13,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "23325",
+    "rankThisWeek": 243,
+    "rankLastWeek": 243,
+    "name": "Vaughn Taylor",
+    "events": 3,
+    "points": 12,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "06643",
+    "rankThisWeek": 244,
+    "rankLastWeek": 244,
+    "name": "Paul Goydos",
+    "events": 19,
+    "points": 11,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "21407",
+    "rankThisWeek": 245,
+    "rankLastWeek": 245,
+    "name": "Arjun Atwal",
+    "events": 4,
+    "points": 11,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01473",
+    "rankThisWeek": 246,
+    "rankLastWeek": 246,
+    "name": "Todd Hamilton",
+    "events": 4,
+    "points": 11,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "28679",
+    "rankThisWeek": 247,
+    "rankLastWeek": 247,
+    "name": "Fabian Gomez",
+    "events": 4,
+    "points": 10,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "01381",
+    "rankThisWeek": 248,
+    "rankLastWeek": 248,
+    "name": "Fred Funk",
+    "events": 8,
+    "points": 9,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "20850",
+    "rankThisWeek": 249,
+    "rankLastWeek": 249,
+    "name": "Daniel Chopra",
+    "events": 16,
+    "points": 9,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "06034",
+    "rankThisWeek": null,
+    "rankLastWeek": null,
+    "name": "Marco Dawson",
+    "events": 1,
+    "points": 4,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "12660",
+    "rankThisWeek": null,
+    "rankLastWeek": null,
+    "name": "Jesper Parnevik",
+    "events": 3,
+    "points": 4,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "25936",
+    "rankThisWeek": 252,
+    "rankLastWeek": 252,
+    "name": "Alex Aragon",
+    "events": 18,
+    "points": 2,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "10585",
+    "rankThisWeek": 253,
+    "rankLastWeek": 253,
+    "name": "Scott McCarron",
+    "events": 12,
+    "points": 2,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "08375",
+    "rankThisWeek": 254,
+    "rankLastWeek": 254,
+    "name": "Paul Stankowski",
+    "events": 3,
+    "points": 1,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "02239",
+    "rankThisWeek": 255,
+    "rankLastWeek": 255,
+    "name": "Scott Verplank",
+    "events": 12,
+    "points": 1,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "06251",
+    "rankThisWeek": 256,
+    "rankLastWeek": 256,
+    "name": "Chris DiMarco",
+    "events": 7,
+    "points": 1,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "07749",
+    "rankThisWeek": 257,
+    "rankLastWeek": 257,
+    "name": "Brett Quigley",
+    "events": 1,
+    "points": 1,
+    "wins": null,
+    "top10s": null
+  },
+  {
+    "id": "32698",
+    "rankThisWeek": 258,
+    "rankLastWeek": 258,
+    "name": "Bobby Gates",
+    "events": 14,
+    "points": 1,
+    "wins": null,
+    "top10s": null
+  }
+]

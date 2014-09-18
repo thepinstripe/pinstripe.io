@@ -1,0 +1,298 @@
+{
+  "plrNum": "35732",
+  "combinedMoney": "681,118",
+  "tours": [
+    {
+      "tourCodeLC": "r",
+      "tourCodeUC": "R",
+      "tourDesc": "PGA TOUR",
+      "careerTotals": {
+        "events": "22",
+        "rnds": "63",
+        "firsts": "",
+        "seconds": "",
+        "thirds": "",
+        "top10": "1",
+        "top25": "5",
+        "cutsMade": "11",
+        "cutsMissed": "11",
+        "dq": "",
+        "wd": "",
+        "officialMoney": "453,616",
+        "moneyRank": "517",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "",
+          "losses": ""
+        }
+      },
+      "detail": [
+        {
+          "year": "2011",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "fedexRnkReg": "",
+          "fedexPtsReg": "",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "",
+          "fedexStandPts": "",
+          "fedexBonusMny": "",
+          "moneyRank": "",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2014",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "22",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "1",
+          "top25": "5",
+          "cutsMade": "11",
+          "cutsMissed": "11",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "453,616",
+          "fedexRnkReg": "153",
+          "fedexPtsReg": "314",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "153",
+          "fedexStandPts": "314",
+          "fedexBonusMny": "",
+          "moneyRank": "152",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        }
+      ],
+      "largestPayChk": {
+        "money": "0131950",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "200",
+              "permNum": "483",
+              "trnName": "Puerto Rico Open presented by seepuertorico.com"
+            },
+            "finPos": {
+              "finPos": "004",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2014"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "065",
+        "times": "01",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "450",
+              "permNum": "013",
+              "trnName": "Wyndham Championship"
+            },
+            "year": "2014",
+            "rndNum": "04"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "200",
+              "permNum": "483",
+              "trnName": "Puerto Rico Open presented by seepuertorico.com"
+            },
+            "finPos": {
+              "finPos": "004",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2014"
+          }
+        ]
+      }
+    },
+    {
+      "tourCodeLC": "h",
+      "tourCodeUC": "H",
+      "tourDesc": "Web.com Tour",
+      "careerTotals": {
+        "events": "43",
+        "rnds": "142",
+        "firsts": "",
+        "seconds": "1",
+        "thirds": "",
+        "top10": "4",
+        "top25": "11",
+        "cutsMade": "28",
+        "cutsMissed": "15",
+        "dq": "",
+        "wd": "",
+        "officialMoney": "227,502",
+        "moneyRank": "428",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "",
+          "losses": ""
+        }
+      },
+      "detail": [
+        {
+          "year": "2011",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "1",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "1",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "moneyRank": "",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2012",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "21",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "1",
+          "top25": "3",
+          "cutsMade": "12",
+          "cutsMissed": "9",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "60,073",
+          "moneyRank": "91",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2013",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "21",
+          "firsts": "",
+          "seconds": "1",
+          "thirds": "",
+          "top10": "3",
+          "top25": "8",
+          "cutsMade": "16",
+          "cutsMissed": "5",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "145,098",
+          "moneyRank": "22",
+          "finalsRank": "54",
+          "finalsMoney": "22,331",
+          "priorityRank": "40",
+          "rankings": "\n\n",
+          "topTrns": []
+        }
+      ],
+      "largestPayChk": {
+        "money": "0052267",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "100",
+              "permNum": "095",
+              "trnName": "Mexico Championship Presented by Banamex"
+            },
+            "finPos": {
+              "finPos": "002",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2013"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "063",
+        "times": "01",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "050",
+              "permNum": "108",
+              "trnName": "Brasil Classic Presented by HSBC"
+            },
+            "year": "2013",
+            "rndNum": "03"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "100",
+              "permNum": "095",
+              "trnName": "Mexico Championship Presented by Banamex"
+            },
+            "finPos": {
+              "finPos": "002",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2013"
+          }
+        ]
+      }
+    }
+  ]
+}

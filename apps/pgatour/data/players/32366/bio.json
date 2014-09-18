@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Kevin Chappell",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_32366.png",
+    "country": "United States",
+    "Height": "6  ft, 0  in",
+    "Weight": "180 lbs",
+    "Birthday": "07/08/1986",
+    "College": "UCLA",
+    "Turned Pro": "2008",
+    "Birthplace": "Fresno, California"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.32366.kevin-chappell.html",
+    "season": "http://www.pgatour.com/players/player.32366.kevin-chappell.html/season",
+    "career": "http://www.pgatour.com/players/player.32366.kevin-chappell.html/career",
+    "statistics": "http://www.pgatour.com/players/player.32366.kevin-chappell.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.32366.kevin-chappell.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.32366.kevin-chappell.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.32366.kevin-chappell.html/profile"
+  }
+}

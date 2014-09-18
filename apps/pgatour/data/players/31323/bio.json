@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Gary Woodland",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_31323.png",
+    "country": "United States",
+    "Height": "6  ft, 1  in",
+    "Weight": "195 lbs",
+    "Birthday": "05/21/1984",
+    "College": "University of Kansas (2007, Sociology)",
+    "Turned Pro": "2007",
+    "Birthplace": "Topeka, Kansas"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.31323.gary-woodland.html",
+    "season": "http://www.pgatour.com/players/player.31323.gary-woodland.html/season",
+    "career": "http://www.pgatour.com/players/player.31323.gary-woodland.html/career",
+    "statistics": "http://www.pgatour.com/players/player.31323.gary-woodland.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.31323.gary-woodland.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.31323.gary-woodland.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.31323.gary-woodland.html/profile"
+  }
+}

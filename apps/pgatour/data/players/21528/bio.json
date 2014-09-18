@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Henrik Stenson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_21528.png",
+    "country": "Sweden",
+    "Height": "6  ft, 2  in",
+    "Weight": "190 lbs",
+    "Birthday": "04/05/1976",
+    "Turned Pro": "1999",
+    "Birthplace": "Gothenburg, Sweden"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.21528.henrik-stenson.html",
+    "season": "http://www.pgatour.com/players/player.21528.henrik-stenson.html/season",
+    "career": "http://www.pgatour.com/players/player.21528.henrik-stenson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.21528.henrik-stenson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.21528.henrik-stenson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.21528.henrik-stenson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.21528.henrik-stenson.html/profile"
+  }
+}

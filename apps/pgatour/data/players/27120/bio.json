@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Troy Matteson",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_27120.png",
+    "country": "United States",
+    "Height": "6  ft, 0  in",
+    "Weight": "200 lbs",
+    "Birthday": "11/08/1979",
+    "College": "Georgia Tech (2003, Civil Engineering)",
+    "Turned Pro": "2003",
+    "Birthplace": "Rockledge, Florida"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.27120.troy-matteson.html",
+    "season": "http://www.pgatour.com/players/player.27120.troy-matteson.html/season",
+    "career": "http://www.pgatour.com/players/player.27120.troy-matteson.html/career",
+    "statistics": "http://www.pgatour.com/players/player.27120.troy-matteson.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.27120.troy-matteson.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.27120.troy-matteson.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.27120.troy-matteson.html/profile"
+  }
+}

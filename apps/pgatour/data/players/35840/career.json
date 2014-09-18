@@ -1,0 +1,303 @@
+{
+  "plrNum": "35840",
+  "combinedMoney": "357,212",
+  "tours": [
+    {
+      "tourCodeLC": "r",
+      "tourCodeUC": "R",
+      "tourDesc": "PGA TOUR",
+      "careerTotals": {
+        "events": "15",
+        "rnds": "36",
+        "firsts": "",
+        "seconds": "",
+        "thirds": "",
+        "top10": "",
+        "top25": "",
+        "cutsMade": "5",
+        "cutsMissed": "10",
+        "dq": "",
+        "wd": "",
+        "officialMoney": "87,738",
+        "moneyRank": "588",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "",
+          "losses": ""
+        }
+      },
+      "detail": [
+        {
+          "year": "2014",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "15",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "5",
+          "cutsMissed": "10",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "87,738",
+          "fedexRnkReg": "201",
+          "fedexPtsReg": "78",
+          "fedexRnkPO": "",
+          "fedexPtsPO": "",
+          "fedexStandRnk": "201",
+          "fedexStandPts": "78",
+          "fedexBonusMny": "",
+          "moneyRank": "209",
+          "rankings": "\n\n\n\n\n\n",
+          "topTrns": []
+        }
+      ],
+      "largestPayChk": {
+        "money": "0029139",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "160",
+              "permNum": "005",
+              "trnName": "AT&T Pebble Beach National Pro-Am"
+            },
+            "finPos": {
+              "finPos": "035",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2014"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "067",
+        "times": "02",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "120",
+              "permNum": "006",
+              "trnName": "Sony Open in Hawaii"
+            },
+            "year": "2014",
+            "rndNum": "01"
+          },
+          {
+            "trn": {
+              "trnNum": "450",
+              "permNum": "013",
+              "trnName": "Wyndham Championship"
+            },
+            "year": "2014",
+            "rndNum": "03"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "160",
+              "permNum": "005",
+              "trnName": "AT&T Pebble Beach National Pro-Am"
+            },
+            "finPos": {
+              "finPos": "035",
+              "finCode": "T",
+              "playOff": ""
+            },
+            "year": "2014"
+          }
+        ]
+      }
+    },
+    {
+      "tourCodeLC": "h",
+      "tourCodeUC": "H",
+      "tourDesc": "Web.com Tour",
+      "careerTotals": {
+        "events": "43",
+        "rnds": "124",
+        "firsts": "1",
+        "seconds": "",
+        "thirds": "",
+        "top10": "6",
+        "top25": "8",
+        "cutsMade": "19",
+        "cutsMissed": "24",
+        "dq": "",
+        "wd": "",
+        "officialMoney": "269,474",
+        "moneyRank": "372",
+        "ssNumWins": "",
+        "playOffRec": {
+          "wins": "",
+          "losses": ""
+        }
+      },
+      "detail": [
+        {
+          "year": "2011",
+          "amateurStatus": "",
+          "memberStatus": "",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "1",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "1",
+          "cutsMissed": "",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "1,620",
+          "moneyRank": "289",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2012",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "16",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "4",
+          "top25": "6",
+          "cutsMade": "10",
+          "cutsMissed": "6",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "119,202",
+          "moneyRank": "52",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2013",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "23",
+          "firsts": "1",
+          "seconds": "",
+          "thirds": "",
+          "top10": "2",
+          "top25": "2",
+          "cutsMade": "8",
+          "cutsMissed": "15",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "144,052",
+          "moneyRank": "24",
+          "finalsRank": "107",
+          "finalsMoney": "4,600",
+          "priorityRank": "47",
+          "rankings": "\n\n",
+          "topTrns": []
+        },
+        {
+          "year": "2014",
+          "amateurStatus": "",
+          "memberStatus": "M",
+          "playOffRec": {
+            "wins": "",
+            "losses": ""
+          },
+          "events": "3",
+          "firsts": "",
+          "seconds": "",
+          "thirds": "",
+          "top10": "",
+          "top25": "",
+          "cutsMade": "",
+          "cutsMissed": "3",
+          "dq": "",
+          "wd": "",
+          "officialMoney": "",
+          "moneyRank": "",
+          "finalsRank": "",
+          "finalsMoney": "",
+          "priorityRank": "",
+          "rankings": "\n\n",
+          "topTrns": []
+        }
+      ],
+      "largestPayChk": {
+        "money": "0108000",
+        "lgChkTrns": [
+          {
+            "trn": {
+              "trnNum": "010",
+              "permNum": "084",
+              "trnName": "Panama Claro Championship"
+            },
+            "finPos": {
+              "finPos": "001",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2013"
+          }
+        ]
+      },
+      "bestRnd": {
+        "scr": "062",
+        "times": "01",
+        "bestRndTrns": [
+          {
+            "trn": {
+              "trnNum": "090",
+              "permNum": "037",
+              "trnName": "BMW Charity Pro-Am Presented by SYNNEX Corporation"
+            },
+            "year": "2013",
+            "rndNum": "03"
+          }
+        ]
+      },
+      "bestFinVic": {
+        "bfvTrns": [
+          {
+            "trn": {
+              "trnNum": "010",
+              "permNum": "084",
+              "trnName": "Panama Claro Championship"
+            },
+            "finPos": {
+              "finPos": "1",
+              "finCode": "",
+              "playOff": ""
+            },
+            "year": "2013"
+          }
+        ]
+      }
+    }
+  ]
+}

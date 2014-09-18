@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Kyle Stanley",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_30110.png",
+    "country": "United States",
+    "Height": "5  ft, 11  in",
+    "Weight": "165 lbs",
+    "Birthday": "11/19/1987",
+    "College": "Clemson University",
+    "Turned Pro": "2009",
+    "Birthplace": "Gig Harbor, Washington"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.30110.kyle-stanley.html",
+    "season": "http://www.pgatour.com/players/player.30110.kyle-stanley.html/season",
+    "career": "http://www.pgatour.com/players/player.30110.kyle-stanley.html/career",
+    "statistics": "http://www.pgatour.com/players/player.30110.kyle-stanley.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.30110.kyle-stanley.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.30110.kyle-stanley.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.30110.kyle-stanley.html/profile"
+  }
+}

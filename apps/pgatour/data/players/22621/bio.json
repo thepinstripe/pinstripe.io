@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "Ben Curtis",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_22621.png",
+    "country": "United States",
+    "Height": "5  ft, 11  in",
+    "Weight": "175 lbs",
+    "Birthday": "05/26/1977",
+    "College": "Kent State University (2000, Recreation Management)",
+    "Turned Pro": "2000",
+    "Birthplace": "Columbus, Ohio"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.22621.ben-curtis.html",
+    "season": "http://www.pgatour.com/players/player.22621.ben-curtis.html/season",
+    "career": "http://www.pgatour.com/players/player.22621.ben-curtis.html/career",
+    "statistics": "http://www.pgatour.com/players/player.22621.ben-curtis.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.22621.ben-curtis.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.22621.ben-curtis.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.22621.ben-curtis.html/profile"
+  }
+}

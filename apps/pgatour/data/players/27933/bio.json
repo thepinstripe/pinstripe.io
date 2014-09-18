@@ -1,0 +1,22 @@
+{
+  "bio": {
+    "name": "John Merrick",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_27933.png",
+    "country": "United States",
+    "Height": "6  ft, 1  in",
+    "Weight": "170 lbs",
+    "Birthday": "03/20/1982",
+    "College": "UCLA (2004, Sociology)",
+    "Turned Pro": "2004",
+    "Birthplace": "Long Beach, California"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.27933.john-merrick.html",
+    "season": "http://www.pgatour.com/players/player.27933.john-merrick.html/season",
+    "career": "http://www.pgatour.com/players/player.27933.john-merrick.html/career",
+    "statistics": "http://www.pgatour.com/players/player.27933.john-merrick.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.27933.john-merrick.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.27933.john-merrick.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.27933.john-merrick.html/profile"
+  }
+}

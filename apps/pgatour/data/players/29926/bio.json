@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Danny Lee",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_29926.png",
+    "country": "New Zealand",
+    "Height": "5  ft, 11  in",
+    "Weight": "175 lbs",
+    "Birthday": "07/24/1990",
+    "Turned Pro": "2009",
+    "Birthplace": "Seoul, South Korea"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.29926.danny-lee.html",
+    "season": "http://www.pgatour.com/players/player.29926.danny-lee.html/season",
+    "career": "http://www.pgatour.com/players/player.29926.danny-lee.html/career",
+    "statistics": "http://www.pgatour.com/players/player.29926.danny-lee.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.29926.danny-lee.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.29926.danny-lee.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.29926.danny-lee.html/profile"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "bio": {
+    "name": "Martin Kaymer",
+    "photo": "http://i.pgatour.com/image/upload/t_headshots_player_l/headshots_27408.png",
+    "country": "Germany",
+    "Height": "6  ft, 0  in",
+    "Weight": "165 lbs",
+    "Birthday": "12/28/1984",
+    "Turned Pro": "2005",
+    "Birthplace": "Dusseldorf, Germany"
+  },
+  "links": {
+    "overview": "http://www.pgatour.com/players/player.27408.martin-kaymer.html",
+    "season": "http://www.pgatour.com/players/player.27408.martin-kaymer.html/season",
+    "career": "http://www.pgatour.com/players/player.27408.martin-kaymer.html/career",
+    "statistics": "http://www.pgatour.com/players/player.27408.martin-kaymer.html/statistics",
+    "scorecards": "http://www.pgatour.com/players/player.27408.martin-kaymer.html/scorecards",
+    "fedexcup": "http://www.pgatour.com/players/player.27408.martin-kaymer.html/fedexcup",
+    "profile": "http://www.pgatour.com/players/player.27408.martin-kaymer.html/profile"
+  }
+}
