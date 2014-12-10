@@ -40,7 +40,6 @@ gulp.task('build', function() {
     return buildScript('index.js', false);
 });
 
-
 gulp.task('default', ['build'], function() {
     return buildScript('index.js', true);
 });

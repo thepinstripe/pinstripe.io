@@ -12,14 +12,16 @@
 /* line 7, ../../src/sass/theme/_base.scss */
 html, body {
   background-color: #16191e;
-  background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PHJhZGlhbEdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9ImVsbGlwc2UiIGN5PSJjb250YWluIiByPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMWYyMzJhIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMTYxOTFlIi8+PC9yYWRpYWxHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
-  background: -moz-radial-gradient(ellipse contain, #1f232a, #16191e);
-  background: -webkit-radial-gradient(ellipse contain, #1f232a, #16191e);
-  background: radial-gradient(ellipse contain, #1f232a, #16191e);
+  background: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuMCIgeTE9IjAuNSIgeDI9IjEuMCIgeTI9IjAuNSI+PHN0b3Agb2Zmc2V0PSIxMCUiIHN0b3AtY29sb3I9IiMxNjE5MWUiLz48c3RvcCBvZmZzZXQ9IjkwJSIgc3RvcC1jb2xvcj0iIzE2MjIyYSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+  background: -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(10%, #16191e), color-stop(90%, #16222a));
+  background: -moz-linear-gradient(left, #16191e 10%, #16222a 90%);
+  background: -webkit-linear-gradient(left, #16191e 10%, #16222a 90%);
+  background: linear-gradient(to right, #16191e 10%, #16222a 90%);
   height: 100%;
+  height: 3000px;
 }
 
-/* line 13, ../../src/sass/theme/_base.scss */
+/* line 18, ../../src/sass/theme/_base.scss */
 body {
   color: #fff;
   font-family: Effra;
@@ -29,30 +31,29 @@ body {
   margin: 0;
 }
 
-/* line 28, ../../src/sass/theme/_base.scss */
+/* line 33, ../../src/sass/theme/_base.scss */
 a {
   color: #f1e400;
   text-decoration: none;
 }
 
-/* line 39, ../../src/sass/theme/_base.scss */
+/* line 44, ../../src/sass/theme/_base.scss */
 .global {
   width: 1024px;
   margin: auto;
 }
 
-/* line 50, ../../src/sass/theme/_base.scss */
+/* line 55, ../../src/sass/theme/_base.scss */
 :focus {
   outline: none;
 }
 
 /* line 7, ../../src/sass/theme/_branding.scss */
 .pinstripe {
-  background: url("/images/pinstripe.svg") no-repeat;
-  background-size: contain;
-  width: 290px;
-  height: 60px;
-  margin-top: 28px;
+  background: url("/images/pinstripe-90deg.svg") no-repeat;
+  width: 36px;
+  height: 290px;
+  margin-left: 4px;
 }
 
 /* line 1, ../../src/sass/theme/_button.scss */
@@ -350,7 +351,19 @@ strong {
 }
 /* line 4, ../../src/sass/module/_header.scss */
 .header__logo {
-  margin: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  padding: 32px 24px;
+  border-right: 1px solid #fff;
+}
+/* line 14, ../../src/sass/module/_header.scss */
+.header__canvas {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
 }
 
 /* line 1, ../../src/sass/module/_hlist.scss */

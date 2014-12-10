@@ -6,8 +6,13 @@
 
 html, body {
   background-color: $navy;
-  @include background(radial-gradient(ellipse contain, lighten($navy, 4%), $navy));
+  //@include background(radial-gradient(ellipse farthest-corner at 50% 10px, lighten($navy, 4%), $navy));
+  //@include background(linear-gradient(to right, $navy 10%, lighten($navy, 4%) 90%));
+  $g1: nth($mirage, 1);
+  $g2: nth($mirage, 2);
+  @include background(linear-gradient(to right, $navy 10%, $g1 90%));
   height: 100%;
+  height: 3000px;
 }
 
 body {

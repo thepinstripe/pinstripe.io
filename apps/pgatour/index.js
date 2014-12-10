@@ -1,10 +1,18 @@
-var minimist = require('minimist');
+var express     = require('express');
+var path        = require('path');
+var config      = require('./server/config');
+var router      = require('./server/router');
+var db          = require('./server/db');
 
-var argv = minimist(process.argv.slice(2));
-var command = argv._[0];
+module.exports = function (app) {
 
-process.on('uncaughtException', function(err) {
-    console.error('Uncaught exception: ' + err.stack);
-});
+    //--------------------------------------
+    //  Configuration
+    //--------------------------------------
 
-require('./lib/' + command)(argv);
+    app.use('/apps/pgatour', express.static(path.join(__dirname, 'app')));
+
+    return {
+        router: router
+    };
+};

@@ -1,0 +1,15 @@
+//------------------------------------------------------------------------------
+//
+//  Logo
+//
+//------------------------------------------------------------------------------
+
+.pinstripe {
+  background: url('/images/pinstripe-90deg.svg') no-repeat;
+  //@include background(linear-gradient(to bottom, #fff 0, red 4000px));
+  //mask-image: url('/images/pinstripe-90deg.svg');
+  //-webkit-mask-image: url('/images/pinstripe-90deg.svg');
+  width: 36px;
+  height: 290px;
+  margin-left: 4px;
+}

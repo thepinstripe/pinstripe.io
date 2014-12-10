@@ -1,7 +1,13 @@
-/*global d3,_*/
+/** @jsx React.DOM */
 
-var DrivingStatsView = require('./view/DrivingStatsView');
+var Dispatcher      = require('./app/Dispatcher');
+var ActionCreator   = require('./app/ActionCreator');
+var MainView        = require('./view/MainView.jsx');
 
-DrivingStatsView({
-    el: document.querySelector('.graph')
-});
+module.exports = function (config) {
+    var view = <MainView dispatcher={ Dispatcher } />;
+
+    ActionCreator.loadStats();
+
+    return view;
+};

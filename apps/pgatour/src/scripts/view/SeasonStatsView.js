@@ -42,13 +42,13 @@ function SeasonStatsView (options) {
         statsView.render();
     }
     
-    d3.json('/players/24781/news', function (data) {
+    d3.json('/apps/pgatour/players/24781/news', function (data) {
         news = data;
         
         newsView.render();
     });
     
-    d3.json('/players/24781/tournaments/stats', function (data) {
+    d3.json('/apps/pgatour/players/24781/tournaments/stats', function (data) {
         tournamentStats = data;
 
         render();
