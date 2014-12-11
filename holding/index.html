@@ -1,12 +1,17 @@
 <html>
 <head>
     <title>Pinstripe User Experience: Personal Portfolio of Rich Butler</title>
+    
     <meta name="description" content="Personal portfolio of Rich Butler, User Experience Technology Consultant from Twyford, UK.">
     <meta name="keywords" content="ux,user experience,javascript,html5,css,sass,js,react,backbone,node js,design,development,architect,ui,berkshire,reading,twyford,london,england,uk">
-    <script src="//use.typekit.net/gdf1fac.js"></script>
-    <script>try{Typekit.load();}catch(e){}</script>
+    
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
     <link ref="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="stylesheets/pinstripe.css">
+    
+    <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/velocity/1.1.0/velocity.min.js"></script>
 </head>
 <body>
 
@@ -22,10 +27,21 @@
     <div id="pinstripe" class="pinstripe"></div>
     <div id="strap" class="strap">
         <p>Personal Portfolio of <strong>Rich Butler</strong></p>
-        <p><strong>Coming soon.</strong></p>
+        <p><strong>Coming soon.</strong> <a class="spearmint" href="http://linkedin.com/in/richardbutler">LinkedIn</a>.</p>
     </div>
 </div>
 
+<div id="hex" class="hex"></div>
+
+<svg xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <g id="HexSq" transform="translate(0.5, 0.5)">
+            <path d="M56,0l56,56v48l-56,56L0,104V56L56,0" />
+        </g>
+    </defs>
+</svg>
+
+<script src="scripts/pinstripe.js"></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

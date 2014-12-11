@@ -1,0 +1,20 @@
+{
+    "useTabChar": false,
+    "spaceUnits": 4,
+    "path": {
+        "holding/sass/pinstripe.scss": {
+            "sass.enabled": true,
+            "sass.options": {
+                "outputDir": "../stylesheets/",
+                "imagePath": "../images/",
+                "sourceComments": "none",
+                "outputStyle": "compressed"
+            },
+            "linting.collapsed": false
+        },
+        "**.scss": {
+            "spaceUnits": 2,
+            "linting.collapsed": false
+        }
+    }
+}

@@ -1,0 +1,81 @@
+@import '../variables';
+
+@mixin keyframes($name) {
+  @keyframes #{$name} {
+    @content;
+  }
+  @-moz-keyframes #{$name} {
+    @content;
+  }
+  @-ms-keyframes #{$name} {
+    @content;
+  }
+  @-webkit-keyframes #{$name} {
+    @content;
+  }
+  @-o-keyframes #{$name} {
+    @content;
+  }
+}
+
+@include keyframes(viz-in) {
+  0% {
+    opacity: 0;
+    @include transform(translateY(-50%));
+  }
+  100% {
+    opacity: 1;
+    @include transform(none);
+  }
+}
+
+.viz {
+  height: 230px;
+}
+
+.viz__item {
+  @include animation(viz-in 1.2s ease-in-out forwards);
+  float: left;
+  opacity: 0;
+  width: 15%;
+
+  &:first-child,
+  &:last-child {
+    width: 20%;
+  }
+}
+
+.viz__item--peppermint {
+  @extend .bg--peppermint;
+  height: 80%;
+}
+
+.viz__item--spearmint {
+  @extend .bg--spearmint;
+  @include animation-delay(0.2s);
+  height: 70%;
+}
+
+.viz__item--chrome {
+  @extend .bg--chrome;
+  @include animation-delay(0.4s);
+  height: 40%;
+}
+
+.viz__item--contrast {
+  @extend .bg--contrast;
+  @include animation-delay(0.6s);
+  height: 100%;
+}
+
+.viz__item--pear {
+  @extend .bg--pear;
+  @include animation-delay(0.8s);
+  height: 70%;
+}
+
+.viz__item--lemon {
+  @extend .bg--lemon;
+  @include animation-delay(1s);
+  height: 85%;
+}

@@ -39,3 +39,114 @@ $palette:     $navy $contrast $chrome $lemon $pear $spearmint $peppermint;
 
 $hover-transition-time: 0.3s;
 $hover-transition-easing: ease-out;
+
+//------------------------------------------------------------------------------
+//
+//  Typography
+//
+//------------------------------------------------------------------------------
+
+$font-size-base: 16px;
+$font-size-small: 12px;
+
+//------------------------------------------------------------------------------
+//
+//  Mixins
+//
+//------------------------------------------------------------------------------
+
+@mixin backface-visibility($t) {
+  -webkit-backface-visibility: $t;
+  -moz-backface-visibility: $t;
+  -ms-backface-visibility: $t;
+  -o-backface-visibility: $t;
+  backface-visibility: $t;
+}
+
+@mixin transform($t) {
+  -webkit-transform: $t;
+  -moz-transform: $t;
+  -ms-transform: $t;
+  -o-transform: $t;
+  transform: $t;
+}
+
+@mixin transform-origin($t) {
+  -webkit-transform-origin: $t;
+  -moz-transform-origin: $t;
+  -ms-transform-origin: $t;
+  -o-transform-origin: $t;
+  transform-origin: $t;
+}
+
+@mixin transition($t1, $t2: '') {
+  $t: $t1;
+  
+  @if $t2 {
+    $t: $t1, $t2; 
+  }
+  
+  -webkit-transition: $t;
+  -moz-transition: $t;
+  -ms-transition: $t;
+  -o-transition: $t;
+  transition: $t;
+}
+
+@mixin transition-delay($t1, $t2: '') {
+  $t: $t1;
+  
+  @if $t2 {
+    $t: $t1, $t2; 
+  }
+  
+  -webkit-transition-delay: $t;
+  -moz-transition-delay: $t;
+  -ms-transition-delay: $t;
+  -o-transition-delay: $t;
+  transition-delay: $t;
+}
+
+@mixin transition-duration($t1, $t2: '') {
+  $t: $t1;
+  
+  @if $t2 {
+    $t: $t1, $t2; 
+  }
+  
+  -webkit-transition-duration: $t;
+  -moz-transition-duration: $t;
+  -ms-transition-duration: $t;
+  -o-transition-duration: $t;
+  transition-duration: $t;
+}
+
+@mixin transition-timing-function($t1, $t2: '') {
+  $t: $t1;
+  
+  @if $t2 {
+    $t: $t1, $t2; 
+  }
+  
+  -webkit-transition-timing-function: $t;
+  -moz-transition-timing-function: $t;
+  -ms-transition-timing-function: $t;
+  -o-transition-timing-function: $t;
+  transition-timing-function: $t;
+}
+
+@mixin animation($t) {
+  -webkit-animation: $t;
+  -moz-animation: $t;
+  -ms-animation: $t;
+  -o-animation: $t;
+  animation: $t;
+}
+
+@mixin animation-delay($t) {
+  -webkit-animation-delay: $t;
+  -moz-animation-delay: $t;
+  -ms-animation-delay: $t;
+  -o-animation-delay: $t;
+  animation-delay: $t;
+}

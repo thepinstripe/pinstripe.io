@@ -1,3 +1,8 @@
+@import 'variables';
+
+@import 'modules/viz';
+@import 'modules/hex';
+
 //------------------------------------------------------------------------------
 //
 //  Logo
@@ -5,7 +10,7 @@
 //------------------------------------------------------------------------------
 
 .pinstripe {
-  background: inline-image('Pinstripe.io.svg') no-repeat;
+  background: url('../images/Pinstripe.io.svg') no-repeat;
   background-size: contain;
   margin: 5% 0 5% 1%;
   height: 33px;
@@ -19,73 +24,20 @@
 //------------------------------------------------------------------------------
 
 .corner {
-  @include transform(
-    rotate(-45deg)
-    translate(-139px, -140px)
-  );
-  @include transform-origin(50%, 0);
+  @include transform(rotate(-45deg) translate(-139px, -140px));
+  @include transform-origin(50% 0);
   width: 390px;
 }
 
-//--------------------------------------------------------------------------
-//
-//  Viz
-//
-//--------------------------------------------------------------------------
-
-.viz {
-  height: 230px;
-}
-
-.viz__item {
-  float: left;
-  width: 15%;
-
-  &:first-child,
-  &:last-child {
-    width: 20%;
-  }
-}
-
-.viz__item--peppermint {
-  @extend .bg--peppermint;
-  height: 80%;
-}
-
-.viz__item--spearmint {
-  @extend .bg--spearmint;
-  height: 70%;
-}
-
-.viz__item--chrome {
-  @extend .bg--chrome;
-  height: 40%;
-}
-
-.viz__item--contrast {
-  @extend .bg--contrast;
-  height: 100%;
-}
-
-.viz__item--pear {
-  @extend .bg--pear;
-  height: 70%;
-}
-
-.viz__item--lemon {
-  @extend .bg--lemon;
-  height: 85%;
-}
-
-//--------------------------------------------------------------------------
+//------------------------------------------------------------------------------
 //
 //  Strap
 //
-//--------------------------------------------------------------------------
+//------------------------------------------------------------------------------
 
 .strap {
   color: transparentize($chrome, 0.4);
-  font-size: 11px;
+  font-size: $font-size-small;
   margin: 0 -50% 0 50%;
   text-transform: uppercase;
 

@@ -1,0 +1,99 @@
+@import '../variables';
+
+$hex-on-transition-duration: 0.4s;
+$hex-off-transition-duration: 0.5s;
+
+$hex-text-on-transition-duration: 0.6s;
+$hex-text-off-transition-duration: 0.5s;
+
+$hex-on-transition-easing: cubic-bezier(0,.6,.55,1);
+$hex-off-transition-easing: cubic-bezier(.41,.39,.62,1.57);
+
+.hex {
+  cursor: default;
+  left: 0;
+  position: absolute;
+  top: 0;
+  //@include transform(rotate(-45deg) translate(-550px, 350px));
+  @include transform-origin(50% 0);
+}
+
+.hex__item {
+  background: url(#HexSq) no-repeat;
+  @include backface-visibility(hidden);
+  display: table;
+  height: 161px;
+  position: absolute;
+  @include transition(
+    $hex-off-transition-duration $hex-off-transition-easing opacity,
+    $hex-off-transition-duration $hex-off-transition-easing transform
+  );
+  width: 114px;
+  
+  &:hover {
+    opacity: 1 !important;
+    @include transform(scale(1.25));
+    @include transition-duration(
+      $hex-text-on-transition-duration,
+      $hex-on-transition-duration
+    );
+    z-index: 1;
+    
+    &,
+    .hex__label {
+      @include transition-timing-function(
+        $hex-on-transition-easing,
+        $hex-on-transition-easing
+      );
+    }
+    
+    .hex__label {
+      color: #fff;
+      @include transform(scale(1.5));
+      @include transition-duration(
+        $hex-text-on-transition-duration,
+        $hex-on-transition-duration
+      );
+      
+      &.chrome,
+      &.contrast {
+        @extend .peppermint;
+      }
+    }
+    
+    .hex__graphic {
+      fill-opacity: 1;
+      opacity: 1;
+    }
+  }
+}
+
+.hex__graphic {
+  fill-opacity: 0;
+  left: 0;
+  height: 161px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  @include transition(
+    $hex-on-transition-duration $hex-on-transition-easing opacity,
+    $hex-on-transition-duration $hex-on-transition-easing fill-opacity
+  );
+  width: 114px;
+}
+
+.hex__label {
+  display: table-cell;
+  font-size: $font-size-small;
+  line-height: 1.3;
+  padding: 0 10px;
+  pointer-events: none;
+  text-align: center;
+  text-shadow: 0 3px 0 rgba(0, 0, 0, 0.15);
+  text-transform: uppercase;
+  @include transition(
+    $hex-text-off-transition-duration $hex-off-transition-easing color,
+    $hex-text-off-transition-duration $hex-off-transition-easing transform
+  );
+  vertical-align: middle;
+}

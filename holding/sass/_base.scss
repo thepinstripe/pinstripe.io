@@ -1,3 +1,5 @@
+@import 'variables';
+
 //------------------------------------------------------------------------------
 //
 //  Body
@@ -7,13 +9,15 @@
 html, body {
   background-color: $navy;
   height: 100%;
+  overflow: hidden;
 }
 
 body {
   color: $contrast;
-  font-family: 'Proxima Nova', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial;
-  font-size: 16px;
-  line-height: 145%;
+  font-family: 'Source Sans Pro', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial;
+  font-size: $font-size-base;
+  letter-spacing: -0.01em;
+  line-height: 1.4;
   margin: 0;
 }
 
@@ -26,6 +30,10 @@ body {
 a {
   color: $lemon;
   text-decoration: none;
+  
+  &:hover {
+    border-bottom: 1px solid currentColor;
+  }
 }
 
 //------------------------------------------------------------------------------
